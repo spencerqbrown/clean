@@ -61,17 +61,9 @@ def create_record(df, company_id, address, chain_name, text_directory, year_colu
     return record_dict
 
 
-import glob
-
-def get_files(directory_path, extension):
-    if (directory_path[-2:] != "\\"):
-        directory_path = directory_path + "\\"
-    search_string = directory_path + "*." + extension
-    return glob.glob(search_string)
-
-
 import re
 from date_process import date_converter
+from utilities import get_files
 
 def combine_directory(directory_path, company_name, text_directory, address_col, time_col_name, current_date, date_col_name="date", year_column=True, year_column_name="year", id_rule="col", id_col="Company ID"):
     files = get_files(directory_path, "csv")
