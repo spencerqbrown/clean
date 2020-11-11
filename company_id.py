@@ -5,6 +5,8 @@ import numpy as np
 def add_company_id(file_path, master_df, key_col, master_df_key_col, master_df_id_col, id_col_name, output_directory, base_filename=None):
     df  = pd.read_csv(file_path)
     key = df[key_col][0]
+    if np.isnan(key):
+        return
     subset = master_df[master_df[master_df_key_col] == key]
     company_ids = subset[master_df_id_col]
     company_id = np.array(company_ids)[0]
@@ -22,18 +24,17 @@ def add_company_id(file_path, master_df, key_col, master_df_key_col, master_df_i
     else:
         output_filename = base_filename + "_" + str(company_id) + ".csv"
     outpath = output_directory + output_filename
-    print("Saving to " + outpath)
+    print("Saving to " + outpath, end='\r')
     df.to_csv(outpath, index=False)
 
 import re
 
 def add_company_ids(directory_path, master_df_path, key_col, master_df_key_col, master_df_id_col, id_col_name, output_directory):
     files = get_files(directory_path, "csv")
-    print(len(files))
+    print(str(len(files)) + " files found in directory")
     master_df = pd.read_excel(master_df_path)
     for file in files:
-        print("File: " + file)
-
+        print("Current file: " + file, end='\r')
         dir_split = directory_path.split("\\")
         if (len(dir_split[-1]) == 0):
             raw_base = dir_split[-2]
