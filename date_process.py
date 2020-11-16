@@ -34,10 +34,10 @@ def relative_to_date(time_string, current_date):
 
 import pandas as pd
 
-def date_converter(df, time_column_name, filename, new_column_name="date", current_date=None, year_column=True, year_column_name="year"):
+def date_converter(df, time_column_name, string_with_date, new_column_name="date", current_date=None, year_column_name="year"):
     # if no date is given, attempt to extract it
     if (current_date is None):
-        current_date = extract_date(filename)
+        current_date = extract_date_underscores(string_with_date)
     # check if a date was found
     if (current_date is None):
         raise ValueError("Could not find date in filename")
@@ -47,9 +47,23 @@ def date_converter(df, time_column_name, filename, new_column_name="date", curre
 
 import re
 
+# as far as I know this function does not work at all
 def extract_date(date_string):
     return_date = None
     date = re.search(r"\d{4}-\d{2}-\d{2}", date_string).group(0)
     if not date:
         return_date = datetime.strptime(date, "%Y-%m-%d")
+    return return_date
+
+def extract_date_underscores(date_string):
+    return_date = None
+    date = re.search(r"\d{1,2}_\d{2}_\d{2,4}", date_string).group(0)
+    if date:
+        date_pieces = date.split("_")
+        year = date_pieces[2]
+        month = date_pieces[0]
+        day = date_pieces[1]
+        return_date = datetime(year=int(year),
+                                month=int(month),
+                                day=int(day))
     return return_date

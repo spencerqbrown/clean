@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 
-def create_record(df, company_id, address, chain_name, text_directory, year_column="year", rating_column="stars"):
+def create_record(df, company_id, address, chain_name, text_directory, text_directory_relative, year_column="year", rating_column="stars"):
     # initialize dictionary
     record_dict = {"Store Company ID":company_id, 
                     "Store Address":address, 
@@ -50,11 +50,12 @@ def create_record(df, company_id, address, chain_name, text_directory, year_colu
         record_dict["Standard Deviation of Ratings (" + str(year) + ")"] = np.std(entries[rating_column])
         record_dict["Number of Ratings (" + str(year) + ")"] = len(entries)
         # create ratings link
-        filename = chain_name + "_reviews_" + company_id + str(year) + ".csv"
+        filename = chain_name + "_reviews_" + str(company_id) + "_" + str(year) + ".csv"
         if (text_directory[-2:] != "\\"):
             text_directory = text_directory + "\\"
         link = text_directory + filename
-        record_dict["Text Ratings (" + str(year) + ")"] = '=HYPERLINK("' + link + '", "Link to reviews")'
+        relative_link = text_directory_relative + "\\" + filename
+        record_dict["Text Ratings (" + str(year) + ")"] = '=HYPERLINK("' + relative_link + '", "Link to reviews")'
         entries.to_csv(link, index=False)
     
 
@@ -65,9 +66,10 @@ import re
 from date_process import date_converter
 from utilities import get_files
 
-def combine_directory(directory_path, company_name, text_directory, address_col, time_col_name, current_date=None, date_col_name="date", year_column=True, year_column_name="year", id_rule="col", id_col="Company ID"):
+def combine_directory(directory_path, text_directory, text_directory_relative, output_directory, address_col, time_col_name, company_name, output_filename=None, current_date=None, date_col_name="date", year_column_name="year", rating_column_name="stars", id_rule="col", id_col="Company ID"):
     files = get_files(directory_path, "csv")
     records = []
+    string_with_date = directory_path.split("\\")[-1]
     for file in files:
         df = pd.read_csv(file)
         # get id
@@ -82,14 +84,30 @@ def combine_directory(directory_path, company_name, text_directory, address_col,
             company_id = re.search(r"^\d{10}", filename).group(0)
 
         # process dates
-        date_converter(df, time_col_name, file, date_col_name, current_date, year_column, year_column_name)
+        date_converter(df, 
+                        time_col_name, 
+                        string_with_date, 
+                        date_col_name, 
+                        current_date, 
+                        year_column_name)
 
         # create record and append to list
-        records.append(create_record(df, company_id, df[address_col][0], company_name, text_directory))
+        records.append(create_record(df,
+                                        company_id, 
+                                        df[address_col][0], 
+                                        company_name, 
+                                        text_directory, 
+                                        text_directory_relative,
+                                        year_column=year_column_name,
+                                        rating_column=rating_column_name))
 
     combined_df = pd.DataFrame.from_records(records)
-    final_filename = company_name + "_" + company_id + ".csv"
-    combined_df.to_csv(final_filename, index=False)
+    if output_filename is None:
+        final_filename = string_with_date + ".csv"
+    else:
+        final_filename = output_filename + ".csv"
+    final_outdir = output_directory + "\\" + final_filename
+    combined_df.to_csv(final_outdir, index=False)
         
 def add_addresses(directory_path, master_df_path, master_df_id_col, master_df_address_cols, output_directory, new_address_col_name):
     files = get_files(directory_path, "csv")
