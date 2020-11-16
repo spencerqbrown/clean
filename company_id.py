@@ -5,8 +5,12 @@ import numpy as np
 def add_company_id(file_path, master_df, key_col, master_df_key_col, master_df_id_col, id_col_name, output_directory, base_filename=None):
     df  = pd.read_csv(file_path)
     key = df[key_col][0]
-    if np.isnan(key):
-        return
+    if type(key) != str:
+        if np.isnan(key):
+            return
+    else:
+        if not key:
+            return
     subset = master_df[master_df[master_df_key_col] == key]
     company_ids = subset[master_df_id_col]
     company_id = np.array(company_ids)[0]
@@ -32,7 +36,13 @@ import re
 def add_company_ids(directory_path, master_df_path, key_col, master_df_key_col, master_df_id_col, id_col_name, output_directory):
     files = get_files(directory_path, "csv")
     print(str(len(files)) + " files found in directory")
-    master_df = pd.read_excel(master_df_path)
+    ext = master_df_path.split(".")[-1]
+    if (ext == "csv"):
+        master_df = pd.read_csv(master_df_path)
+    elif (ext == "xlsx"):
+        master_df = pd.read_excel(master_df_path)
+    else:
+        raise ValueError("Invalid file extension: " + ext)
     for file in files:
         print("Current file: " + file, end='\r')
         dir_split = directory_path.split("\\")

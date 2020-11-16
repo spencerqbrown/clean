@@ -14,3 +14,21 @@ def get_files(directory_path, extension):
         directory_path = directory_path + "\\"
     search_string = directory_path + "*." + extension
     return glob.glob(search_string)
+
+def process_phone(phone_number):
+    phone_string = str(phone_number)
+    area = phone_string[:3]
+    mid = phone_string[3:6]
+    end = phone_string[6:10]
+    proccessed_number = "(" + area + ")" + " " + mid + "-" + end
+    return proccessed_number
+
+def process_phone_numbers(df, phone_col, new_phone_col):
+    df[new_phone_col] = df[phone_col].apply(process_phone)
+
+
+import os
+
+def replicate_folders(from_directory, to_directory):
+    for folder in os.listdir(from_directory):
+        os.mkdir(to_directory + "\\" + folder)

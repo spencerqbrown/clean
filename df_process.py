@@ -65,7 +65,7 @@ import re
 from date_process import date_converter
 from utilities import get_files
 
-def combine_directory(directory_path, company_name, text_directory, address_col, time_col_name, current_date, date_col_name="date", year_column=True, year_column_name="year", id_rule="col", id_col="Company ID"):
+def combine_directory(directory_path, company_name, text_directory, address_col, time_col_name, current_date=None, date_col_name="date", year_column=True, year_column_name="year", id_rule="col", id_col="Company ID"):
     files = get_files(directory_path, "csv")
     records = []
     for file in files:
@@ -91,4 +91,69 @@ def combine_directory(directory_path, company_name, text_directory, address_col,
     final_filename = company_name + "_" + company_id + ".csv"
     combined_df.to_csv(final_filename, index=False)
         
+def add_addresses(directory_path, master_df_path, master_df_id_col, master_df_address_cols, output_directory, new_address_col_name):
+    files = get_files(directory_path, "csv")
+    print(str(len(files)) + " files found in directory")
+    ext = master_df_path.split(".")[-1]
+    if (ext == "csv"):
+        master_df = pd.read_csv(master_df_path)
+    elif (ext == "xlsx"):
+        master_df = pd.read_excel(master_df_path)
+    else:
+        raise ValueError("Invalid file extension: " + ext)
+    for file in files:
+        print("Current file: " + file, end='\r')
+        add_address(file_path=file, 
+                    master_df=master_df, 
+                    master_df_id_col=master_df_id_col, 
+                    master_df_address_cols = master_df_address_cols, 
+                    output_directory=output_directory,
+                    new_address_col_name = new_address_col_name)
 
+def add_address(file_path, master_df, master_df_id_col, master_df_address_cols, output_directory, new_address_col_name):
+    # get df
+    df = pd.read_csv(file_path)
+
+    # get id
+    filename = file_path.split("\\")[-1]
+    company_id = int(float(re.search(r"\d{10}", filename).group(0)))
+
+    # get address
+    sub = master_df[master_df[master_df_id_col] == company_id]
+    address = ""
+    for i in range(len(master_df_address_cols)):
+        col = master_df_address_cols[i]
+        address = address + str(list(sub[col])[0])
+        if col != master_df_address_cols[-1]:
+            address = address + " "
+
+    # get filename
+    outpath = output_directory + "\\" + filename
+
+    df[new_address_col_name] = address
+    print("Saving to " + outpath + "\\", end='\r')
+    df.to_csv(outpath, index=False)
+
+
+import os
+from utilities import replicate_folders
+
+def do_all_addresses(greater_directory, master_df_path, master_df_id_col, master_df_address_cols, output_directory, new_address_col_name):
+
+    replicate_folders(greater_directory, output_directory)
+
+    source_paths = []
+    output_paths = []
+    for folder in os.listdir(greater_directory):
+        source_paths.append(greater_directory + "\\" + folder)
+        output_paths.append(output_directory + "\\" + folder)
+
+    for i in range(len(source_paths)):
+        out_directory = output_paths[i]
+        source_directory = source_paths[i]
+        add_addresses(directory_path=source_directory,
+                    master_df_path=master_df_path, 
+                    master_df_id_col=master_df_id_col, 
+                    master_df_address_cols=master_df_address_cols, 
+                    output_directory=out_directory, 
+                    new_address_col_name=new_address_col_name)
