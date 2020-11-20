@@ -81,7 +81,7 @@ def combine_directory(directory_path, text_directory, text_directory_relative, o
                 filename = file_split[-2]
             else:
                 filename = file_split[-1]
-            company_id = re.search(r"^\d{10}", filename).group(0)
+            company_id = re.search(r"\d{10}", filename).group(0)
 
         # process dates
         date_converter(df, 

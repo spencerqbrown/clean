@@ -32,3 +32,4 @@ import os
 def replicate_folders(from_directory, to_directory):
     for folder in os.listdir(from_directory):
         os.mkdir(to_directory + "\\" + folder)
+

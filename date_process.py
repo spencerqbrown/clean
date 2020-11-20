@@ -57,12 +57,14 @@ def extract_date(date_string):
 
 def extract_date_underscores(date_string):
     return_date = None
-    date = re.search(r"\d{1,2}_\d{2}_\d{2,4}", date_string).group(0)
+    date = re.search(r"\d{1,2}_\d{1,2}_\d{2,4}", date_string).group(0)
     if date:
         date_pieces = date.split("_")
         year = date_pieces[2]
         month = date_pieces[0]
         day = date_pieces[1]
+        if len(year) == 2:
+            year = "20" + year
         return_date = datetime(year=int(year),
                                 month=int(month),
                                 day=int(day))
