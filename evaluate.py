@@ -19,7 +19,7 @@ import pandas as pd
 from selenium import webdriver
 from scroll import pauseScroll
 
-def get_review_counts(data_path, output_path, id_col, wait=[1,1.5], url_col=None, search_terms=None, new_url_col=None, review_col_name="review_count"):
+def get_review_counts(data_path, id_col, wait=[1,1.5], url_col=None, search_terms=None, new_url_col=None, review_col_name="review_count"):
     df = pd.read_csv(data_path)
 
     # if necessary, build urls
@@ -74,7 +74,17 @@ def get_review_counts(data_path, output_path, id_col, wait=[1,1.5], url_col=None
     # combine id, review counts
     id_review_dict = {id_col:ids, review_col_name:counts}
     out_df = pd.DataFrame.from_dict(id_review_dict)
-    out_df.to_csv(output_path)
+
+    return out_df
+
+def evaluate_locations(data_path, scraped_df, output_path, data_id_col, scraped_id_col, data_count_col, wait=[1,1.5], url_col=None, search_terms=None, new_url_col=None, review_col_name="review_count", diff_col="difference", prop_col="proportion"):
+    count_df = get_review_counts(data_path, data_id_col, wait, url_col, search_terms, new_url_col, review_col_name)
+    scraped_df = pd.read_csv(scraped_df)
+    out_df = count_df.join(scraped_df, on=(data_id_col, scraped_id_col))
+    out_df[diff_col] = out_df[data_count_col] - out_df[review_col_name]
+    out_df[prop_col] = out_df[data_count_col] / out_df[review_col_name]
+    return out_df
+
 
 def raw_review_count_to_int(raw_review_count):
     return int(raw_review_count.split(" ")[0].replace(",",""))
