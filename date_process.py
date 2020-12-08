@@ -15,6 +15,8 @@ def relative_to_date(time_string, current_date):
     num = split_string[0]
     if ("a" in num):
         num = 1
+    elif ("just" in num):
+        num = 0
     else:
         num = int(num)
     

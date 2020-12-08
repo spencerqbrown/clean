@@ -66,7 +66,7 @@ import re
 from date_process import date_converter
 from utilities import get_files
 
-def combine_directory(directory_path, text_directory, text_directory_relative, output_directory, address_col, time_col_name, company_name, output_filename=None, current_date=None, date_col_name="date", year_column_name="year", rating_column_name="stars", id_rule="col", id_col="Company ID"):
+def combine_directory(directory_path, text_directory, text_directory_relative, output_directory, address_col, time_col_name, company_name, output_filename=None, current_date=None, date_col_name="date", year_column_name="year", rating_column_name="stars", id_rule="col", id_col="Store Company ID"):
     files = get_files(directory_path, "csv")
     records = []
     string_with_date = directory_path.split("\\")[-1]
@@ -74,7 +74,7 @@ def combine_directory(directory_path, text_directory, text_directory_relative, o
         df = pd.read_csv(file)
         # get id
         if id_rule == "col":
-            company_id = df[id_col][0]
+            company_id = list(df[id_col])[0]
         elif id_rule == "filename":
             file_split = file.split("\\")
             if (len(file_split[-1]) == 0):
@@ -109,7 +109,7 @@ def combine_directory(directory_path, text_directory, text_directory_relative, o
     final_outdir = output_directory + "\\" + final_filename
     combined_df.to_csv(final_outdir, index=False)
         
-def add_addresses(directory_path, master_df_path, master_df_id_col, master_df_address_cols, output_directory, new_address_col_name):
+def add_addresses(directory_path, master_df_path, master_df_id_col, master_df_address_cols, output_directory, new_address_col_name, id_col=None):
     files = get_files(directory_path, "csv")
     print(str(len(files)) + " files found in directory")
     ext = master_df_path.split(".")[-1]
@@ -126,15 +126,19 @@ def add_addresses(directory_path, master_df_path, master_df_id_col, master_df_ad
                     master_df_id_col=master_df_id_col, 
                     master_df_address_cols = master_df_address_cols, 
                     output_directory=output_directory,
-                    new_address_col_name = new_address_col_name)
+                    new_address_col_name = new_address_col_name,
+                    id_col = id_col)
 
-def add_address(file_path, master_df, master_df_id_col, master_df_address_cols, output_directory, new_address_col_name):
+def add_address(file_path, master_df, master_df_id_col, master_df_address_cols, output_directory, new_address_col_name, id_col=None):
     # get df
     df = pd.read_csv(file_path)
 
     # get id
     filename = file_path.split("\\")[-1]
-    company_id = int(float(re.search(r"\d{10}", filename).group(0)))
+    if id_col != None:
+        company_id = int(float(df[id_col][0]))
+    else:
+        company_id = int(float(re.search(r"\d{10}", filename).group(0)))
 
     # get address
     sub = master_df[master_df[master_df_id_col] == company_id]
