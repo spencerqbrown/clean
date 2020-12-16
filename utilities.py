@@ -33,3 +33,21 @@ def replicate_folders(from_directory, to_directory):
     for folder in os.listdir(from_directory):
         os.mkdir(to_directory + "\\" + folder)
 
+def separate_companies(files_dir, master_file, id_col="key", master_id_col="Store Company ID", master_company_name_col="company_name", date=None):
+    master = pd.read_csv(master_file)
+    files = get_files(files_dir, "csv")
+    for f in files:
+        filename = f.split("\\")[-1]
+        filepath = "\\".join(f.split("\\")[:-1])
+        df = pd.read_csv(f)
+        company_id = int(df[id_col][0])
+        company_name = list(master[master[master_id_col]==company_id][master_company_name_col])[0]
+        if date is None:
+            date_string = ""
+        else:
+            date_string = "_" + date
+        company_name_dir = filepath + "\\" + company_name + date_string
+        if not os.path.isdir(company_name_dir):
+            os.mkdir(company_name_dir)
+        new_filepath = company_name_dir + "\\" + filename
+        df.to_csv(new_filepath, index=False)
