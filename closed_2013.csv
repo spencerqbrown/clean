@@ -1,0 +1,670 @@
+Store Company ID,Company Name,Address 1,City,State,Zip,Country,Phone,company_name
+1000893346,Villa Pizza,1655 Boston Rd,SPRINGFIELD,MA,01129-1390,United States of America,4135435849.0,villa_pizza
+1000862244,D'Angelo Grilled Sandwiches,394 Belmont St,WORCESTER,MA,01604-1030,United States of America,5087525433.0,dangelo_grilled_sandwiches
+1000844754,D'Angelo Grilled Sandwiches,205 Washington St,HUDSON,MA,01749-2782,United States of America,9785679999.0,dangelo_grilled_sandwiches
+1000881548,D'Angelo Grilled Sandwiches,80 Mall Rd,BURLINGTON,MA,01803-4518,United States of America,7812734363.0,dangelo_grilled_sandwiches
+1000860216,D'Angelo Grilled Sandwiches,36 Vanderbilt Ave,NORWOOD,MA,02062-5006,United States of America,7817698828.0,dangelo_grilled_sandwiches
+2000025426,Domino's Pizza,1 Broadway,CAMBRIDGE,MA,02142-1187,United States of America,6175770066.0,dominos_pizza
+1000866794,D'Angelo Grilled Sandwiches,46 Montello St,BROCKTON,MA,02301-4002,United States of America,5085837100.0,dangelo_grilled_sandwiches
+1000840029,D'Angelo Grilled Sandwiches,1753 Main St,BROCKTON,MA,02301-7127,United States of America,5085804320.0,dangelo_grilled_sandwiches
+2000134441,Papa Gino's,10 Harvard St,BROOKLINE,MA,02445-7905,United States of America,,papa_ginos
+1000925203,Domino's Pizza,762 Pleasant St,BELMONT,MA,02478-1428,United States of America,6174891995.0,dominos_pizza
+2000134226,D'Angelo Grilled Sandwiches,254 Washington St,WELLESLEY,MA,02481-4922,United States of America,,dangelo_grilled_sandwiches
+1000864098,D'Angelo Grilled Sandwiches,414 Nathan Ellis Hwy,MASHPEE,MA,02649-3144,United States of America,5084776785.0,dangelo_grilled_sandwiches
+1000920831,Domino's Pizza,43 Lowell Rd,HUDSON,NH,03051-2840,United States of America,6038834700.0,dominos_pizza
+1000912795,Domino's Pizza,160 Plaistow Rd,PLAISTOW,NH,03865-2830,United States of America,6033822188.0,dominos_pizza
+1000876094,D'Angelo Grilled Sandwiches,648 Putney Rd,BRATTLEBORO,VT,05301-9056,United States of America,8022546677.0,dangelo_grilled_sandwiches
+1000874311,Papa Gino's,607 W Main St,NORWICH,CT,06360-6056,United States of America,8608891397.0,papa_ginos
+1000828509,Papa Gino's,117 Boston Post Rd,WATERFORD,CT,06385-2400,United States of America,8604403593.0,papa_ginos
+1000922941,Domino's Pizza,57 Turnpike Sq,MILFORD,CT,06460-2758,United States of America,2038774040.0,dominos_pizza
+1000890848,Villa Pizza,1223 Campbell Ave,WEST HAVEN,CT,06516-2008,United States of America,2039345577.0,villa_pizza
+1000902207,Villa Pizza,4953 Stelton Rd,SOUTH PLAINFIELD,NJ,07080-1113,United States of America,9087699395.0,villa_pizza
+1000888578,Greenleaf's Grill,1 Gateway Ctr,NEWARK,NJ,07102-5322,United States of America,9736210160.0,greenleafs_grill
+1000900019,Bananas Ultimate Juice Bar,3710 US Highway 9,FREEHOLD,NJ,07728-4815,United States of America,7327612686.0,bananas_ultimate_juice_bar
+1000895728,Villa Pizza,2145 State Route 35,HOLMDEL,NJ,07733-1163,United States of America,7328881666.0,villa_pizza
+1000970096,Villa Pizza,720 Newman Springs Rd,LINCROFT,NJ,07738-1523,United States of America,7327589100.0,villa_pizza
+2000009972,Domino's Pizza,1610 State Route 35,OAKHURST,NJ,07755-2960,United States of America,7325315454.0,dominos_pizza
+1000898573,Villa Pizza,310 State Route 36,W LONG BRANCH,NJ,07764-1027,United States of America,7325422150.0,villa_pizza
+1000895919,Villa Pizza,2200 Mount Holly Rd,BURLINGTON,NJ,08016-4100,United States of America,6093866622.0,villa_pizza
+2000002694,Papa Gino's,48 N Pleaasant St,AMHERST,MA,1002,United States of America,4132538950.0,papa_ginos
+1000961337,Sbarro,701 7th Ave,NEW YORK,NY,10036-1519,United States of America,2122219725.0,sbarro
+1000897345,Treat Street,2655 Richmond Ave,STATEN ISLAND,NY,10314-5868,United States of America,7183707345.0,treat_street
+1000970364,Bananas Ultimate Juice Bar,JFK International Airport,NANUET,NY,10954,United States of America,8454801255.0,bananas_ultimate_juice_bar
+1000905617,Villa Pizza,75 W Route 59,NANUET,NY,10954-2707,United States of America,8456239793.0,villa_pizza
+2000003448,Sbarro,JFK Airport Delta,JAMAICA,NY,11430,United States of America,,sbarro
+2000182603,Sbarro,JFK International Airport,JAMAICA,NY,11430,United States of America,,sbarro
+1000892525,Villa Pizza,1500 Main St,SPRINGFIELD,MA,1144,United States of America,4137392227.0,villa_pizza
+1000914094,Domino's Pizza,19 Glen Head Rd,GLEN HEAD,NY,11545-1412,United States of America,5167593520.0,dominos_pizza
+1000909393,Domino's Pizza,1088 Broadway,WOODMERE,NY,11598-1279,United States of America,5162956800.0,dominos_pizza
+1000952159,Sbarro,401 Broadhollow Rd,MELVILLE,NY,11747-4714,United States of America,6317154100.0,sbarro
+1000912745,Domino's Pizza,1589 Straight Path,WYANDANCH,NY,11798-2407,United States of America,6314916666.0,dominos_pizza
+1000926938,Domino's Pizza,96 Montauk Hwy,EAST MORICHES,NY,11940,United States of America,6318743200.0,dominos_pizza
+2000133543,Papa John's Pizza,1114 Troy Schenectady Rd,LATHAM,NY,12110-1029,United States of America,5187827272.0,papa_johns_pizza
+2000133542,Papa John's Pizza,471 Troy Schenectady Rd,LATHAM,NY,12110-3216,United States of America,5187821600.0,papa_johns_pizza
+2000133541,Papa John's Pizza,449 N Greenbush Rd,RENSSELAER,NY,12144,United States of America,5182837272.0,papa_johns_pizza
+2000133540,Papa John's Pizza,720 Hoosick Rd,TROY,NY,12180,United States of America,5182747272.0,papa_johns_pizza
+1000970358,Greenleaf's Grill,Albany International Airport,ALBANY,NY,12288-0001,United States of America,5182422423.0,greenleafs_grill
+1000912331,Domino's Pizza,1500 US 9,LAKE GEORGE,NY,12845,United States of America,5187931111.0,dominos_pizza
+1000822610,Little Caesars Pizza,100 Kasson Rd,CAMILLUS,NY,13031-2261,United States of America,3154873000.0,little_caesars_pizza
+1000970361,Bananas Ultimate Juice Bar,Indian Falls Rd,CORFU,NY,14036,United States of America,5857629000.0,bananas_ultimate_juice_bar
+1000970362,Greenleaf's Grill,Indian Falls Rd,CORFU,NY,14036,United States of America,5857629000.0,greenleafs_grill
+1000970363,Villa Pizza,Indian Falls Rd,W HENRIETTA,NY,14036,United States of America,5857629000.0,villa_pizza
+1000921033,Domino's Pizza,4370 Dewey Ave,ROCHESTER,NY,14616,United States of America,5858658500.0,dominos_pizza
+2000130733,CiCi's Pizza,1514 County Route 64,HORSEHEADS,NY,14845-2298,United States of America,6077965969.0,cicis_pizza
+1000824250,Cici's Pizza,1025 Washington Pike,BRIDGEVILLE,PA,15017-2702,United States of America,4122202450.0,cicis_pizza
+2000003487,Sbarro,PA Tpke E Bound,MIDDLETOWN,PA,15146,United States of America,,sbarro
+1000884260,Little Caesars Pizza,875 Greentree Rd,PITTSBURGH,PA,15220,United States of America,4129223805.0,little_caesars_pizza
+1000888720,Villa Pizza,1000 Airport Blvd,PITTSBURGH,PA,15231,United States of America,4124720305.0,villa_pizza
+1000855202,Cici's Pizza,301 Oak Spring Rd,WASHINGTON,PA,15301-2966,United States of America,7242258888.0,cicis_pizza
+1000884709,Cici's Pizza,8967 State Route 30,N HUNTINGDON,PA,15642-2704,United States of America,7248638999.0,cicis_pizza
+1000837098,Cici's Pizza,1570 Oakland Ave,INDIANA,PA,15701,United States of America,7244631200.0,cicis_pizza
+1000904529,Villa Pizza,654 Millcreek Mall,ERIE,PA,16565-0604,United States of America,8148669035.0,villa_pizza
+1000852619,Cici's Pizza,2728 Plank Road Cmns,ALTOONA,PA,16601,United States of America,8149429422.0,cicis_pizza
+1000862591,Little Caesars Pizza,40 Shippensburg Shopping Ctr,SHIPPENSBURG,PA,17257-9496,United States of America,7175328909.0,little_caesars_pizza
+1000842752,D'Angelo Grilled Sandwiches,195 E Main St,MILFORD,MA,1757,United States of America,5084730063.0,dangelo_grilled_sandwiches
+1000915117,Domino's Pizza,2102 Lincoln Hwy E,LANCASTER,PA,17602-1110,United States of America,7172911191.0,dominos_pizza
+1000864722,D'Angelo Grilled Sandwiches,423 Boston Post Rd,SUDBURY,MA,1776,United States of America,9784438122.0,dangelo_grilled_sandwiches
+1000917579,Domino's Pizza,2918 William Penn Hwy,EASTON,PA,18045,United States of America,6102531600.0,dominos_pizza
+1000867722,Papa Gino's,480 Boston Rd,BILLERICA,MA,1821,United States of America,9786671888.0,papa_ginos
+2000009966,Domino's Pizza,1573 Rt 611,TANNERSVILLE,PA,18372,United States of America,5706293939.0,dominos_pizza
+2000025425,Domino's Pizza,RR 220,DUSHORE,PA,18614,United States of America,5709288375.0,dominos_pizza
+1000855134,D'Angelo Grilled Sandwiches,301 Boston Rd,NORTH BILLERICA,MA,1862,United States of America,9786673333.0,dangelo_grilled_sandwiches
+1000831342,D'Angelo Grilled Sandwiches,1277 Broadway,SAUGUS,MA,1906,United States of America,7812330617.0,dangelo_grilled_sandwiches
+1000968899,Bananas Ultimate Juice Bar,18 W Lightcap Rd,POTTSTOWN,PA,19464-7821,United States of America,6103231324.0,bananas_ultimate_juice_bar
+1000848353,D'Angelo Grilled Sandwiches,232 Andover St,PEABODY,MA,1960,United States of America,9785315540.0,dangelo_grilled_sandwiches
+2000025295,Domino's Pizza,38627 Benro Dr,DELMAR,DE,19940-3572,United States of America,3028469000.0,dominos_pizza
+1000902269,Bananas Ultimate Juice Bar,50 Massachusetts Ave NE,WASHINGTON,DC,20002,United States of America,2028982570.0,bananas_ultimate_juice_bar
+1000912323,Domino's Pizza,1500 Pennsylvania Ave SE,WASHINGTON,DC,20003-3116,United States of America,2025463030.0,dominos_pizza
+1000889729,Bananas Ultimate Juice Bar,1100 Pennsylvania Ave NW,WASHINGTON,DC,20004,United States of America,2028422990.0,bananas_ultimate_juice_bar
+1000969695,Bananas Ultimate Juice Bar,480 Lenfant Plz SW,WASHINGTON,DC,20024,United States of America,2028632860.0,bananas_ultimate_juice_bar
+1000906525,Bananas Ultimate Juice Bar,8300 Sudley Rd,MANASSAS,VA,20109-3493,United States of America,7033682601.0,bananas_ultimate_juice_bar
+1000908152,Villa Pizza,Washington Dulles Int'l Airport,DULLES,VA,20166,United States of America,7035725122.0,villa_pizza
+1000910453,Domino's Pizza,12020c N Shore Dr,RESTON,VA,20190,United States of America,7037879330.0,dominos_pizza
+1000872071,D'Angelo Grilled Sandwiches,555 Main St,MEDFIELD,MA,2052,United States of America,5083596889.0,dangelo_grilled_sandwiches
+1000915883,Domino's Pizza,2300 Solomons Island Rd,HUNTINGTOWN,MD,20639-8729,United States of America,4102570087.0,dominos_pizza
+1000923108,Domino's Pizza,5850 Silver Hill Rd,DISTRICT HEIGHTS,MD,20747-1103,United States of America,3015684000.0,dominos_pizza
+1000907913,Villa Pizza,Baltimore Washington Int'l Air,HYATTSVILLE,MD,20788,United States of America,4106946300.0,villa_pizza
+1000907914,Villa Pizza,Baltimore Washington Int'l Air,HYATTSVILLE,MD,20788,United States of America,4108598484.0,villa_pizza
+1000905158,Bananas Ultimate Juice Bar,7102 Democracy Blvd,BETHESDA,MD,20817,United States of America,3012993030.0,bananas_ultimate_juice_bar
+1000961690,Sbarro,7101 Democracy Blvd,BETHESDA,MD,20817-1065,United States of America,3014690157.0,sbarro
+1000914377,Domino's Pizza,19639 Fisher Ave,POOLESVILLE,MD,20837-2071,United States of America,3013494900.0,dominos_pizza
+2000003385,Sbarro,10 Center Dr,BETHESDA,MD,20892,United States of America,,sbarro
+1000889987,Greenleaf's Grill,11160 Berismill Rd,WHEATON,MD,20902,United States of America,3019339090.0,greenleafs_grill
+1000889989,Bananas Ultimate Juice Bar,11161 Berismill Rd,WHEATON,MD,20902,United States of America,3019339090.0,bananas_ultimate_juice_bar
+1000904867,Villa Pizza,696 Baltimore Pike,BEL AIR,MD,21014,United States of America,4438244891.0,villa_pizza
+1000868716,D'Angelo Grilled Sandwiches,50 Franklin St,BOSTON,MA,2110,United States of America,6174237827.0,dangelo_grilled_sandwiches
+1000889204,Treat Street,10301 Mill Run Cir,OWINGS MILLS,MD,21117,United States of America,4103637117.0,treat_street
+1000926196,Domino's Pizza,8581 Fort Smallwood Rd,PASADENA,MD,21122-2631,United States of America,4104373003.0,dominos_pizza
+1000923690,Domino's Pizza,62 W Mckinsey Rd,SEVERNA PARK,MD,21146-3803,United States of America,4106473003.0,dominos_pizza
+1000906479,Bananas Ultimate Juice Bar,826 Dulaney Valley Rd,TOWSON,MD,21204-2803,United States of America,4108217631.0,bananas_ultimate_juice_bar
+1000906462,Greenleaf's Grill,825 Dulaney Valley Rd,TOWSON,MD,21204-3203,United States of America,4108217631.0,greenleafs_grill
+2000010014,Domino's Pizza,2722 Remington Ave,BALTIMORE,MD,21211,United States of America,4103382500.0,dominos_pizza
+1000908081,Villa Pizza,Reistertown Rd,BALTIMORE,MD,21215,United States of America,4103581004.0,villa_pizza
+1000898171,Greenleaf's Grill,300 Terminal E,BOSTON,MA,2128,United States of America,6175674448.0,greenleafs_grill
+1000938315,Sbarro,17301 Valley Mall Rd,HAGERSTOWN,MD,21740-8317,United States of America,3015829102.0,sbarro
+1000915542,Domino's Pizza,2206 Wilson Blvd,WINCHESTER,VA,22601-3636,United States of America,5406673400.0,dominos_pizza
+1000888977,Villa Pizza,10101 Brook Rd,GLEN ALLEN,VA,23059-6536,United States of America,8042616090.0,villa_pizza
+1000899197,Cozzoli's Pizzeria,3324 Pump Rd,RICHMOND,VA,23233-1130,United States of America,8043602900.0,cozzolis_pizzeria
+1000906920,Villa Pizza,880 N Military Hwy,NORFOLK,VA,23502-3706,United States of America,7574556486.0,villa_pizza
+1000879791,Little Caesars Pizza,741 E Little Creek Rd,NORFOLK,VA,23518-3709,United States of America,7575832964.0,little_caesars_pizza
+1000907917,Villa Pizza,300 Terminal Dr,PEMBROKE,MA,2359,United States of America,7818298712.0,villa_pizza
+1000844970,Cici's Pizza,2065 W Mercury Blvd,HAMPTON,VA,23666-3132,United States of America,7578252644.0,cicis_pizza
+2000003494,Sbarro,125 College Ave,BLACKSBURG,VA,24060,United States of America,,sbarro
+1000921795,Domino's Pizza,4700 Riverside Drive,DANVILLE,VA,24541,United States of America,4348220200.0,dominos_pizza
+1000833316,D'Angelo Grilled Sandwiches,137 Teaticket Hwy,TEATICKET,MA,2536,United States of America,5085404502.0,dangelo_grilled_sandwiches
+1000881510,Cici's Pizza,8 Mall Road,BARBOURSVILLE,WV,25504,United States of America,3047368399.0,cicis_pizza
+1000926693,Domino's Pizza,912 Washington St,RAVENSWOOD,WV,26164-1143,United States of America,3042739374.0,dominos_pizza
+2000051797,Gatti's Pizza,5952 University Pkwy,WINSTON SALEM,NC,27105-1399,United States of America,3363772222.0,gattis_pizza
+1000882630,Cici's Pizza,819 S Main St,KERNERSVILLE,NC,27284-3441,United States of America,3369924220.0,cicis_pizza
+1000842828,Pizza Inn,1952 S Horner Blvd,SANFORD,NC,27330-5841,United States of America,9197085700.0,pizza_inn
+2000033325,Papa Murphy's Take 'N' Bake Pizza,3639 SW Cary Pkwy,CARY,NC,27513-8913,United States of America,9194392255.0,papa_murphys_take_n_bake_pizza
+1000875379,Pizza Inn,63 Son Lan Pkwy,GARNER,NC,27529-7816,United States of America,9197728883.0,pizza_inn
+1000913231,Domino's Pizza,1695 N Main St,LILLINGTON,NC,27546-6867,United States of America,9108140444.0,dominos_pizza
+1000908080,Greenleaf's Grill,Raleigh Durham Airport,RALEIGH,NC,27699-0001,United States of America,9198409964.0,greenleafs_grill
+1000911651,Domino's Pizza,138 S Fairview Road,ROCKY MOUNT,NC,27801,United States of America,2529777777.0,dominos_pizza
+1000839960,Cici's Pizza,175 Raleigh Rd W,WILSON,NC,27893,United States of America,2522915836.0,cicis_pizza
+1000917961,Domino's Pizza,3027 Union Rd,GASTONIA,NC,28056-6943,United States of America,7048671111.0,dominos_pizza
+1000914975,Domino's Pizza,208 Postage Way,INDIAN TRAIL,NC,28079-6588,United States of America,7048211700.0,dominos_pizza
+1000915603,Domino's Pizza,222 South Greene St,WADESBORO,NC,28170,United States of America,7046942262.0,dominos_pizza
+2000010131,Domino's Pizza,Charlotte Bobcats Arena,CHARLOTTE,NC,28208,United States of America,,dominos_pizza
+1000919459,Domino's Pizza,3608 Oleander Dr,WILMINGTON,NC,28403-0806,United States of America,9103923400.0,dominos_pizza
+1000913494,Domino's Pizza,1735 Reed Rd NE,LELAND,NC,28451-6500,United States of America,9103830777.0,dominos_pizza
+1000908682,Domino's Pizza,PO Box 3005,ATLANTIC BEACH,NC,28512-3005,United States of America,2522403000.0,dominos_pizza
+1000916268,Domino's Pizza,2412 M King Jr Blvd,NEW BERN,NC,28562,United States of America,2526381000.0,dominos_pizza
+1000855303,Cici's Pizza,3015 Dr M L King Jr Blvd,NEW BERN,NC,28562-5211,United States of America,2526334500.0,cicis_pizza
+1000922125,Domino's Pizza,509 10th St Nw,CONOVER,NC,28613-2338,United States of America,8284653020.0,dominos_pizza
+1000842513,Cici's Pizza,1929 E Broad St,STATESVILLE,NC,28625-4309,United States of America,7048839988.0,cicis_pizza
+1000922481,Domino's Pizza,530 Dudley Shoals Rd,GRANITE FALLS,NC,28630-8443,United States of America,8283130555.0,dominos_pizza
+1000912721,Domino's Pizza,500 North Main Street,MARION,NC,28752,United States of America,8286593333.0,dominos_pizza
+1000846077,Cici's Pizza,214 Thompson St,HENDERSONVILLE,NC,28792-2806,United States of America,8286974460.0,cicis_pizza
+2000051794,Gatti's Pizza,514 S Main St,HENDERSONVILLE,NC,28792-5306,United States of America,8286970222.0,gattis_pizza
+1000913981,Domino's Pizza,1850 Hendersonville Rd,ASHEVILLE,NC,28803-2467,United States of America,8282771818.0,dominos_pizza
+2000182543,Sbarro,100 Warwick Mall,WARWICK,RI,2886,United States of America,,sbarro
+1000916064,Domino's Pizza,2336 Decker Blvd,COLUMBIA,SC,29206-2311,United States of America,8038656944.0,dominos_pizza
+1000919032,Domino's Pizza,341 Chesterfield Hwy,CHERAW,SC,29520-3052,United States of America,8435372500.0,dominos_pizza
+1000925092,Domino's Pizza,750 Mink Ave,MURRELLS INLET,SC,29576-6300,United States of America,8433574030.0,dominos_pizza
+2000051799,GattiTown,1040 Woodruff Rd,GREENVILLE,SC,29607-4120,United States of America,8642340910.0,gattitown
+1000886963,Little Caesars Pizza,960 N Main St,LANCASTER,SC,29720-2187,United States of America,8032857232.0,little_caesars_pizza
+1000958410,Sbarro,5900 Sugarloaf Pkwy,LAWRENCEVILLE,GA,30043,United States of America,6788475838.0,sbarro
+1000841072,Cici's Pizza,1825 Rockbridge Rd,STONE MOUNTAIN,GA,30087-3305,United States of America,6784769399.0,cicis_pizza
+1000921570,Domino's Pizza,4795 Jimmy Lee Smith Pkwy,HIRAM,GA,30141-7621,United States of America,7702225899.0,dominos_pizza
+2000025157,Domino's Pizza,11386 Tara Blvd,HAMPTON,GA,30228-6299,United States of America,6784796468.0,dominos_pizza
+1000841654,Cici's Pizza,1876 Jonesboro Rd,MCDONOUGH,GA,30253-5960,United States of America,6784325757.0,cicis_pizza
+1000921392,Domino's Pizza,4639 N Shallowford Rd,DUNWOODY,GA,30338-6300,United States of America,7704511552.0,dominos_pizza
+1000955079,Sbarro,4800 Briarcliff Rd NE,ATLANTA,GA,30345-2715,United States of America,7704937509.0,sbarro
+1000926367,Domino's Pizza,890 Dawsonville Hwy,GAINESVILLE,GA,30501-2608,United States of America,7705319959.0,dominos_pizza
+1000922717,Domino's Pizza,549 Athens St,JEFFERSON,GA,30549-1411,United States of America,7063671252.0,dominos_pizza
+2000025418,Domino's Pizza,961 Ross Pl,LAVONIA,GA,30553-6407,United States of America,7063561405.0,dominos_pizza
+1000910230,Domino's Pizza,118 N Oliver St,ELBERTON,GA,30635-1483,United States of America,7062833388.0,dominos_pizza
+1000911563,Domino's Pizza,136 W Belmont Dr,CALHOUN,GA,30701-3064,United States of America,7066240088.0,dominos_pizza
+1000911899,Domino's Pizza,1415 GI Maddox Pkwy,CHATSWORTH,GA,30705,United States of America,7065170600.0,dominos_pizza
+1000917655,Domino's Pizza,197 Asbury Way,DALTON,GA,30721-2061,United States of America,7062720900.0,dominos_pizza
+1000920465,Domino's Pizza,4111 S Dixie Rd,DALTON,GA,30721-5172,United States of America,7062759944.0,dominos_pizza
+1000916983,Domino's Pizza,2651 N Highway 27,LA FAYETTE,GA,30728-6533,United States of America,7066386638.0,dominos_pizza
+1000921375,Domino's Pizza,462487 State Road 200,YULEE,FL,32097-2641,United States of America,9045489995.0,dominos_pizza
+2000003098,Cici's Pizza,243 Colony Blvd,THE VILLAGES,FL,32162-6085,United States of America,3522595508.0,cicis_pizza
+1000914264,Domino's Pizza,1930 W Granada Blvd,ORMOND BEACH,FL,32174-5714,United States of America,3866722221.0,dominos_pizza
+1000867089,Little Caesars Pizza,4645 Blanding Blvd,JACKSONVILLE,FL,32210-7324,United States of America,9045730089.0,little_caesars_pizza
+2000003325,Sbarro,1 U N F Dr,JACKSONVILLE,FL,32224,United States of America,,sbarro
+1000917044,Domino's Pizza,27 Azalea Dr,CRAWFORDVILLE,FL,32327-8033,United States of America,8509263360.0,dominos_pizza
+1000925780,Domino's Pizza,812 White Oak Ct,PANAMA CITY,FL,32408-5237,United States of America,8502353030.0,dominos_pizza
+1000908292,Domino's Pizza,100 US-90,DEFUNIAK SPRINGS,FL,32433,United States of America,8509514888.0,dominos_pizza
+1000927497,Domino's Pizza,PO Box 7635,PENSACOLA,FL,32534-0635,United States of America,8504783030.0,dominos_pizza
+1000836738,Cici's Pizza,15447 US Highway 441,EUSTIS,FL,32726-8321,United States of America,3523571524.0,cicis_pizza
+2000182605,Sbarro,Sandlake Rd & Orange,ORLANDO,FL,32809,United States of America,,sbarro
+1000910667,Domino's Pizza,12213 University Blvd,ORLANDO,FL,32817-2133,United States of America,4073848888.0,dominos_pizza
+2000027301,Little Caesars Pizza,1801 S Semoran Blvd,ORLANDO,FL,32822-2884,United States of America,4073809202.0,little_caesars_pizza
+1000888558,Villa Pizza,1 Airport Blvd,ORLANDO,FL,32827,United States of America,4078254541.0,villa_pizza
+2000182589,Sbarro,9202 Jeff Fuqua Blvd,ORLANDO,FL,32827-4421,United States of America,,sbarro
+1000830632,Cici's Pizza,12402 S Orange Blossom Trl,ORLANDO,FL,32837-6539,United States of America,4077701809.0,cicis_pizza
+1000876272,Little Caesars Pizza,651 S 60th Ave,HOLLYWOOD,FL,33023-6797,United States of America,3059875696.0,little_caesars_pizza
+1000825125,Little Caesars Pizza,10501 Pines Blvd,PEMBROKE PINES,FL,33026-6006,United States of America,9544387060.0,little_caesars_pizza
+1000903275,Cozzoli's Pizzeria,5612 Sunset Dr,MIAMI,FL,33143-5611,United States of America,3056668797.0,cozzolis_pizzeria
+1000913056,Domino's Pizza,1638 Ne 164th St,NORTH MIAMI BEACH,FL,33162-4017,United States of America,3059453030.0,dominos_pizza
+2000009929,Domino's Pizza,11100 SW 216th St,MIAMI,FL,33170-3045,United States of America,3052330227.0,dominos_pizza
+2000027277,Little Caesars Pizza,14616 SW 8th St,MIAMI,FL,33184-3136,United States of America,3052291909.0,little_caesars_pizza
+1000882929,Cici's Pizza,8253 Sunset Strip,SUNRISE,FL,33322-3058,United States of America,9545787099.0,cicis_pizza
+1000913009,Domino's Pizza,16230 Indian Trace Rd,WESTON,FL,33326,United States of America,9543895500.0,dominos_pizza
+1000894017,Villa Pizza,1801 Palm Beach Lakes Blvd,WEST PALM BCH,FL,33401-2003,United States of America,5614715002.0,villa_pizza
+1000969773,Bananas Ultimate Juice Bar,513 Brandon Town Center Mall,BRANDON,FL,33511-4725,United States of America,8136814700.0,bananas_ultimate_juice_bar
+1000969774,Greenleaf's Grill,513 Brandon Town Center Mall,BRANDON,FL,33511-4725,United States of America,8136814700.0,greenleafs_grill
+1000917954,Domino's Pizza,3026 E College Ave,RUSKIN,FL,33570-5220,United States of America,8136453663.0,dominos_pizza
+2000003340,Sbarro,4202 E Fowler Ave,TAMPA,FL,33620-9951,United States of America,,sbarro
+1000877294,Cici's Pizza,6821 W Hillsborough Ave,TAMPA,FL,33634-5003,United States of America,8138847900.0,cicis_pizza
+1000921973,Domino's Pizza,5011 W Hillsborough Ave,TAMPA,FL,33634-5309,United States of America,8132497200.0,dominos_pizza
+1000908987,Domino's Pizza,1038 S 6th Ave,WAUCHULA,FL,33873-3306,United States of America,8637730486.0,dominos_pizza
+1000896347,Villa Pizza,23111 Fashion Dr,ESTERO,FL,33928,United States of America,2399477031.0,villa_pizza
+2000047746,Figaro's Pizza,5705 Lee Blvd,LEHIGH ACRES,FL,33971,United States of America,2393323001.0,figaros_pizza
+1000909163,Domino's Pizza,10565 Tamiami Trl N,NAPLES,FL,34108-1913,United States of America,2395943930.0,dominos_pizza
+1000864341,Cici's Pizza,419 Cortez Rd W,BRADENTON,FL,34207-1544,United States of America,9417521331.0,cicis_pizza
+1000917319,Domino's Pizza,2801 N Tamiami Trl,SARASOTA,FL,34234-5813,United States of America,9413512563.0,dominos_pizza
+1000849580,Cici's Pizza,2427 SW 27th Ave,OCALA,FL,34471-0807,United States of America,3528611800.0,cicis_pizza
+1000921137,Domino's Pizza,447 Marietta Rd,SPRINGVILLE,AL,35146,United States of America,2054672021.0,dominos_pizza
+1000864979,Cici's Pizza,428 Palisades Blvd,BIRMINGHAM,AL,35209,United States of America,2058700005.0,cicis_pizza
+1000849964,Cici's Pizza,2477 1st St NE,BIRMINGHAM,AL,35215-2611,United States of America,2058542424.0,cicis_pizza
+1000913172,Domino's Pizza,1671 Center Point Pkwy,BIRMINGHAM,AL,35215-5524,United States of America,2058569898.0,dominos_pizza
+1000870895,Cici's Pizza,5287 Highway 280,BIRMINGHAM,AL,35242,United States of America,2059800099.0,cicis_pizza
+1000913352,Domino's Pizza,1706 Glenn Blvd SW,FORT PAYNE,AL,35968,United States of America,2569979880.0,dominos_pizza
+1000915007,Domino's Pizza,209 Hamric Dr,OXFORD,AL,36203,United States of America,2568353030.0,dominos_pizza
+1000916471,Domino's Pizza,2485 US Highway 431,ANNISTON,AL,36206-1387,United States of America,2568473330.0,dominos_pizza
+1000913127,Domino's Pizza,16566 US Highway 431 S,HEADLAND,AL,36345-8443,United States of America,3346932999.0,dominos_pizza
+1000924787,Domino's Pizza,718 McMeans Ave,BAY MINETTE,AL,36507-3348,United States of America,2519379887.0,dominos_pizza
+2000051802,Gatti's Pizza,1273 Northfield Dr,CLARKSVILLE,TN,37040,United States of America,9318025500.0,gattis_pizza
+2000051805,Gatti's Pizza,1545 Nashville Pike,GALLATIN,TN,37066,United States of America,6152307588.0,gattis_pizza
+1000872501,Cici's Pizza,565C Village Green Dr,GALLATIN,TN,37066-7129,United States of America,6152305777.0,cicis_pizza
+1000871770,Cici's Pizza,55 E Thompson Ln,NASHVILLE,TN,37211-2586,United States of America,6153311211.0,cicis_pizza
+1000908473,Domino's Pizza,1001-B Thompson Place,NASHVILLE,TN,37217,United States of America,6153990030.0,dominos_pizza
+2000051801,Gatti's Pizza,2011 Congress Pkwy S,ATHENS,TN,37303-2813,United States of America,4234535106.0,gattis_pizza
+1000916702,Domino's Pizza,2558 Dalton Pike SE,CLEVELAND,TN,37323-7157,United States of America,4234732020.0,dominos_pizza
+1000913233,Domino's Pizza,16952 Rankin Ave,DUNLAP,TN,37327,United States of America,4239494500.0,dominos_pizza
+1000890029,Cozzoli's Pizzeria,1120 Market St,CHATTANOOGA,TN,37402,United States of America,4236340600.0,cozzolis_pizzeria
+1000923421,Domino's Pizza,604 Wall St,SEVIERVILLE,TN,37862-5922,United States of America,8654288888.0,dominos_pizza
+1000919560,Domino's Pizza,3686 Morgan County Hwy,WARTBURG,TN,37887-4123,United States of America,4233463030.0,dominos_pizza
+1000903895,Villa Pizza,6075 Winchester Rd,MEMPHIS,TN,38115-4012,United States of America,9017958170.0,villa_pizza
+1000914545,Domino's Pizza,200 Wayne Rd,SAVANNAH,TN,38372-1940,United States of America,7319255775.0,dominos_pizza
+1000914256,Domino's Pizza,1928 US Highway 45 Byp S,TRENTON,TN,38382-2322,United States of America,7318554411.0,dominos_pizza
+1000912566,Domino's Pizza,1533 W Main St,LIVINGSTON,TN,38570-2205,United States of America,9318235050.0,dominos_pizza
+1000923101,Domino's Pizza,5842 Goodman Rd,HORN LAKE,MS,38637,United States of America,9017540303.0,dominos_pizza
+2000025387,Domino's Pizza,803 Highway 82 E,INDIANOLA,MS,38751-2323,United States of America,6628878122.0,dominos_pizza
+1000861689,Cici's Pizza,3870 Market Center Drive,TUPELO,MS,38804,United States of America,6628422848.0,cicis_pizza
+1000874679,Pizza Inn,613 N 2nd St,BOONEVILLE,MS,38829-1722,United States of America,6627281100.0,pizza_inn
+1000841758,Pizza Inn,189 Mobile St,SALTILLO,MS,38866,United States of America,6628698630.0,pizza_inn
+1000924525,Domino's Pizza,702 Highway 35 S,FOREST,MS,39074-4022,United States of America,6014695500.0,dominos_pizza
+2000074199,Pizza Inn,5040 Hardy St,HATTIESBURG,MS,39402,United States of America,6012615900.0,pizza_inn
+1000888760,Villa Pizza,10000 Factory Shop Blvd,GULFPORT,MS,39503-4264,United States of America,2288638417.0,villa_pizza
+1000829842,Pizza Inn,1212 Delaware Ave,MCCOMB,MS,39648-3717,United States of America,6016842980.0,pizza_inn
+1000878562,Pizza Inn,710 Highway 45 N,WEST POINT,MS,39773-7707,United States of America,6624948558.0,pizza_inn
+2000010051,Domino's Pizza,410 W Crawford St,COLQUITT,GA,39837-3410,United States of America,,dominos_pizza
+1000912715,Domino's Pizza,1578 Highway 44 E,SHEPHERDSVILLE,KY,40165-7172,United States of America,5025437171.0,dominos_pizza
+1000915978,Domino's Pizza,2313 W Market St,LOUISVILLE,KY,40212-1536,United States of America,5027763353.0,dominos_pizza
+2000051766,Gatti's Pizza,5600 S 3rd St,LOUISVILLE,KY,40214-2616,United States of America,5023632211.0,gattis_pizza
+2000051771,Gatti's Pizza,2247 S Preston St,LOUISVILLE,KY,40217-2147,United States of America,5026356708.0,gattis_pizza
+2000051768,Gatti's Pizza,3319 Bardstown Rd,LOUISVILLE,KY,40218-4601,United States of America,5024510540.0,gattis_pizza
+1000901754,Papa Murphy's Take 'N' Bake Pizza,4607 Outer Loop,LOUISVILLE,KY,40219-3970,United States of America,5029647272.0,papa_murphys_take_n_bake_pizza
+1000963334,Sbarro,7900 Shelbyville Rd,LOUISVILLE,KY,40222-9122,United States of America,5024296318.0,sbarro
+1000907601,Papa Murphy's Take 'N' Bake Pizza,9501 Taylorsville Rd,LOUISVILLE,KY,40299-2752,United States of America,5022667000.0,papa_murphys_take_n_bake_pizza
+1000888932,Papa Murphy's Take 'N' Bake Pizza,101 Magnolia Dr,GEORGETOWN,KY,40324-8070,United States of America,5028639889.0,papa_murphys_take_n_bake_pizza
+2000051774,Gatti's Pizza,114 Williams Rd,NICHOLASVILLE,KY,40356-1917,United States of America,8598874646.0,gattis_pizza
+1000896475,Papa Murphy's Take 'N' Bake Pizza,2348 Nicholasville Rd,LEXINGTON,KY,40503-3035,United States of America,8592450005.0,papa_murphys_take_n_bake_pizza
+1000846261,Cici's Pizza,2157 Harrodsburg Rd,LEXINGTON,KY,40504-3504,United States of America,8592751980.0,cicis_pizza
+1000890902,Papa Murphy's Take 'N' Bake Pizza,123 Towne Center Dr,LEXINGTON,KY,40511-2027,United States of America,8592330111.0,papa_murphys_take_n_bake_pizza
+2000051763,Gatti's Pizza,770 Wilkinson Blvd,FRANKFORT,KY,40601-1006,United States of America,5023522570.0,gattis_pizza
+1000924250,Domino's Pizza,6809 Alexandria Pike,ALEXANDRIA,KY,41001-1027,United States of America,8596359500.0,dominos_pizza
+1000899742,Papa Murphy's Take 'N' Bake Pizza,357 Cross Roads Blvd,COLD SPRING,KY,41076-2194,United States of America,8592915600.0,papa_murphys_take_n_bake_pizza
+2000033349,Papa Murphy's Take 'N' Bake Pizza,8761 US 42,UNION,KY,41091,United States of America,8593846000.0,papa_murphys_take_n_bake_pizza
+1000920051,Domino's Pizza,4 S Highway 27,WHITLEY CITY,KY,42653,United States of America,6063763333.0,dominos_pizza
+1000904231,Papa Murphy's Take 'N' Bake Pizza,6304 Scioto Darby Rd,HILLIARD,OH,43026-9726,United States of America,6147770101.0,papa_murphys_take_n_bake_pizza
+1000901170,Papa Murphy's Take 'N' Bake Pizza,425 Colemans Crossing Boulevard,MARYSVILLE,OH,43040,United States of America,9376421112.0,papa_murphys_take_n_bake_pizza
+1000905609,Papa Murphy's Take 'N' Bake Pizza,75 Central Pkwy,HEATH,OH,43056-1253,United States of America,7405222002.0,papa_murphys_take_n_bake_pizza
+1000903637,Papa Murphy's Take 'N' Bake Pizza,596 E Broad St,PATASKALA,OH,43062-7570,United States of America,7409278828.0,papa_murphys_take_n_bake_pizza
+1000906866,Papa Murphy's Take 'N' Bake Pizza,8715 Owenfield Dr,POWELL,OH,43065-8089,United States of America,7405492990.0,papa_murphys_take_n_bake_pizza
+1000905960,Papa Murphy's Take 'N' Bake Pizza,788 S State St,WESTERVILLE,OH,43081-3300,United States of America,6148987272.0,papa_murphys_take_n_bake_pizza
+1000904201,Papa Murphy's Take 'N' Bake Pizza,6294 Gender Rd,CANAL WINCHESTER,OH,43110-2042,United States of America,6148347226.0,papa_murphys_take_n_bake_pizza
+1000906135,Villa Pizza,8020 Factory Shops Blvd,JEFFERSONVILLE,OH,43128-9600,United States of America,7409489648.0,villa_pizza
+1000893176,Papa Murphy's Take 'N' Bake Pizza,1618 N Memorial Dr,LANCASTER,OH,43130-1631,United States of America,7406537272.0,papa_murphys_take_n_bake_pizza
+1000836319,Cici's Pizza,152 Clint Dr,PICKERINGTON,OH,43147-7994,United States of America,6145010530.0,cicis_pizza
+1000891367,Papa Murphy's Take 'N' Bake Pizza,1302 Hill Rd N,PICKERINGTON,OH,43147-8986,United States of America,6148617100.0,papa_murphys_take_n_bake_pizza
+1000901930,Papa Murphy's Take 'N' Bake Pizza,4740 Reed Rd,COLUMBUS,OH,43220-3073,United States of America,6144420777.0,papa_murphys_take_n_bake_pizza
+1000904594,Papa Murphy's Take 'N' Bake Pizza,6618 Sawmill Rd,COLUMBUS,OH,43235-4943,United States of America,6142107272.0,papa_murphys_take_n_bake_pizza
+1000891836,Papa Murphy's Take 'N' Bake Pizza,138 McMahan Blvd,MARION,OH,43302-5654,United States of America,7407259100.0,papa_murphys_take_n_bake_pizza
+1000897785,Papa Murphy's Take 'N' Bake Pizza,2826 E Harbor Rd,PORT CLINTON,OH,43452-2611,United States of America,4197323232.0,papa_murphys_take_n_bake_pizza
+1000905436,Papa Murphy's Take 'N' Bake Pizza,731 Conant St,MAUMEE,OH,43537,United States of America,4198936262.0,papa_murphys_take_n_bake_pizza
+2000051407,Marco's Pizza,257 Golden Gate Plz,MAUMEE,OH,43537-2881,United States of America,4198935111.0,marcos_pizza
+1000905756,Papa Murphy's Take 'N' Bake Pizza,7626 Sylvania Ave,SYLVANIA,OH,43560-9740,United States of America,4198437979.0,papa_murphys_take_n_bake_pizza
+1000893283,Papa Murphy's Take 'N' Bake Pizza,1640 W Sylvania Ave,TOLEDO,OH,43612-1586,United States of America,4192699050.0,papa_murphys_take_n_bake_pizza
+1000871175,Cici's Pizza,5333 Monroe St,TOLEDO,OH,43623-2883,United States of America,4198438785.0,cicis_pizza
+2000010106,Domino's Pizza,804 Main St,DRESDEN,OH,43821,United States of America,7407542420.0,dominos_pizza
+1000886877,Cici's Pizza,9559 Mentor Ave,MENTOR,OH,44060-4521,United States of America,4403570492.0,cicis_pizza
+1000922587,Domino's Pizza,538 Superior Ave E,CLEVELAND,OH,44114-1215,United States of America,2167810333.0,dominos_pizza
+1000846337,Cici's Pizza,21613 Center Ridge Rd,ROCKY RIVER,OH,44116-3917,United States of America,4403314114.0,cicis_pizza
+1000921460,Domino's Pizza,4701 E Royalton Rd,BROADVIEW HTS,OH,44147-2988,United States of America,4405264242.0,dominos_pizza
+1000831339,Cici's Pizza,1276 State Route 303,STREETSBORO,OH,44241-5268,United States of America,3304221760.0,cicis_pizza
+1000910148,Domino's Pizza,1163 E Tallmadge Ave,AKRON,OH,44310-3529,United States of America,3306331142.0,dominos_pizza
+1000842384,Cici's Pizza,1920 Niles Cortland Rd SE,WARREN,OH,44484-3036,United States of America,3305445880.0,cicis_pizza
+1000851600,Cici's Pizza,2618 W State St,ALLIANCE,OH,44601-5699,United States of America,3308217788.0,cicis_pizza
+1000866793,Cici's Pizza,46 Massillon Marketplace Dr SW,MASSILLON,OH,44646-2016,United States of America,3308331988.0,cicis_pizza
+1000861349,Cici's Pizza,3786 Burbank Rd,WOOSTER,OH,44691-8008,United States of America,3303452233.0,cicis_pizza
+2000003115,Cici's Pizza,4816 Milan Rd,SANDUSKY,OH,44870-5840,United States of America,4196260695.0,cicis_pizza
+2000051330,Marco's Pizza,523 S Breiel Blvd,MIDDLETOWN,OH,45044-5111,United States of America,5134231111.0,marcos_pizza
+1000904595,Papa Murphy's Take 'N' Bake Pizza,662 N Main St,SPRINGBORO,OH,45066-9553,United States of America,9377480700.0,papa_murphys_take_n_bake_pizza
+1000902205,Papa Murphy's Take 'N' Bake Pizza,4950 Union Centre Pavilion Dr,WEST CHESTER,OH,45069-4883,United States of America,5138748333.0,papa_murphys_take_n_bake_pizza
+2000003116,Cici's Pizza,4410 Montgomery Rd,NORWOOD,OH,45212-3116,United States of America,5133768842.0,cicis_pizza
+1000894393,Papa Murphy's Take 'N' Bake Pizza,1894 S Maple Ave,FAIRBORN,OH,45324-3433,United States of America,9374824060.0,papa_murphys_take_n_bake_pizza
+2000051380,Marco's Pizza,310 N Broad St,FAIRBORN,OH,45324-4935,United States of America,9377541010.0,marcos_pizza
+1000894025,Papa Murphy's Take 'N' Bake Pizza,1801 W Main St,TROY,OH,45373-2303,United States of America,9373399339.0,papa_murphys_take_n_bake_pizza
+1000903392,Papa Murphy's Take 'N' Bake Pizza,573 W Main St,XENIA,OH,45385,United States of America,9373520021.0,papa_murphys_take_n_bake_pizza
+1000871166,Little Caesars Pizza,5330 Salem Ave,DAYTON,OH,45426,United States of America,9378545539.0,little_caesars_pizza
+1000903333,Papa Murphy's Take 'N' Bake Pizza,5662 Springboro Pike,WEST CARROLLTON CITY,OH,45449-2806,United States of America,9373950408.0,papa_murphys_take_n_bake_pizza
+2000010066,Domino's Pizza,4968 Route 66,MINSTER,OH,45865,United States of America,4196292400.0,dominos_pizza
+1000828247,Little Caesars Pizza,11530 Westfield Blvd,CARMEL,IN,46032-3558,United States of America,3175759260.0,little_caesars_pizza
+1000906554,Papa Murphy's Take 'N' Bake Pizza,833 Indianapolis Rd,GREENCASTLE,IN,46135-1591,United States of America,7656538400.0,papa_murphys_take_n_bake_pizza
+1000914525,Domino's Pizza,200 S Vine St,GREENCASTLE,IN,46135-1668,United States of America,7656538433.0,dominos_pizza
+1000921788,Domino's Pizza,496 Town Center St N,MOORESVILLE,IN,46158-1379,United States of America,3178313222.0,dominos_pizza
+1000893182,Papa Murphy's Take 'N' Bake Pizza,1619 E Michigan Rd,SHELBYVILLE,IN,46176-1832,United States of America,3173924422.0,papa_murphys_take_n_bake_pizza
+2000051298,Marco's Pizza,916 E Westfield Blvd,INDIANAPOLIS,IN,46220-1980,United States of America,3172144100.0,marcos_pizza
+1000903112,Papa Murphy's Take 'N' Bake Pizza,55 S Raceway Rd,INDIANAPOLIS,IN,46231-1063,United States of America,3172098375.0,papa_murphys_take_n_bake_pizza
+1000922537,Domino's Pizza,5335 E Southport Rd,INDIANAPOLIS,IN,46237-9389,United States of America,3178850030.0,dominos_pizza
+1000906854,Villa Pizza,8701 Keystone Xing,INDIANAPOLIS,IN,46240-4626,United States of America,3175668985.0,villa_pizza
+1000888834,Papa Murphy's Take 'N' Bake Pizza,10033 Wicker Ave,SAINT JOHN,IN,46373-8777,United States of America,2195582960.0,papa_murphys_take_n_bake_pizza
+1000896892,Papa Murphy's Take 'N' Bake Pizza,2500 Calumet Ave,VALPARAISO,IN,46383-3735,United States of America,2194620484.0,papa_murphys_take_n_bake_pizza
+1000923708,Domino's Pizza,620 W Lincoln Ave,GOSHEN,IN,46526-2416,United States of America,5745359090.0,dominos_pizza
+1000888974,Papa Murphy's Take 'N' Bake Pizza,1010 W 7th St,AUBURN,IN,46706-2015,United States of America,2609277208.0,papa_murphys_take_n_bake_pizza
+1000926959,Domino's Pizza,941 N Main St,BLUFFTON,IN,46714-1317,United States of America,2608241000.0,dominos_pizza
+1000923704,Domino's Pizza,620 S 13th St,DECATUR,IN,46733-1859,United States of America,2607242211.0,dominos_pizza
+1000893494,Papa Murphy's Take 'N' Bake Pizza,1700 S 13th St,DECATUR,IN,46733-2190,United States of America,2607249980.0,papa_murphys_take_n_bake_pizza
+1000910958,Domino's Pizza,1262 S Jefferson St,HUNTINGTON,IN,46750,United States of America,2603589700.0,dominos_pizza
+2000031796,Papa Murphy's Take 'N' Bake Pizza,311 State Route 930 East,NEW HAVEN,IN,46774,United States of America,2604937050.0,papa_murphys_take_n_bake_pizza
+1000912472,Domino's Pizza,1515 W McClain Ave,SCOTTSBURG,IN,47170-1163,United States of America,8127520900.0,dominos_pizza
+1000900742,Papa Murphy's Take 'N' Bake Pizza,405 East Freeland Road,GREENSBURG,IN,47240,United States of America,8126629600.0,papa_murphys_take_n_bake_pizza
+1000921245,Domino's Pizza,100 Freeland Rd,GREENSBURG,IN,47240,United States of America,8126627800.0,dominos_pizza
+1000913017,Domino's Pizza,1625 N State St,NORTH VERNON,IN,47265-7479,United States of America,8123462000.0,dominos_pizza
+2000009974,Domino's Pizza,1703 Broad St,NEW CASTLE,IN,47362-4150,United States of America,7655213030.0,dominos_pizza
+1000923430,Domino's Pizza,605 N Meridian St,PORTLAND,IN,47371-1122,United States of America,2607264000.0,dominos_pizza
+1000918646,Domino's Pizza,3250 E Main St,RICHMOND,IN,47374-5927,United States of America,7659357304.0,dominos_pizza
+1000915568,Domino's Pizza,2210 O St,BEDFORD,IN,47421-4595,United States of America,8122794421.0,dominos_pizza
+2000025391,Domino's Pizza,817 West Broadway St,LOOGOOTEE,IN,47553,United States of America,8122954100.0,dominos_pizza
+2000010083,Domino's Pizza,619 US Highway 66 E,TELL CITY,IN,47586-2765,United States of America,8125478080.0,dominos_pizza
+2000033332,Papa Murphy's Take 'N' Bake Pizza,5435 Pearl Dr,EVANSVILLE,IN,47712-8103,United States of America,8124019191.0,papa_murphys_take_n_bake_pizza
+1000911470,Domino's Pizza,134 W State St,WEST LAFAYETTE,IN,47906-3689,United States of America,7657433000.0,dominos_pizza
+1000919185,Domino's Pizza,35 Beck Ln,LAFAYETTE,IN,47909-2842,United States of America,7654742444.0,dominos_pizza
+1000901166,Papa Murphy's Take 'N' Bake Pizza,42452 Cherry Hill Rd,CANTON,MI,48187-3401,United States of America,7349817272.0,papa_murphys_take_n_bake_pizza
+1000853059,Little Caesars Pizza,2799 W Grand Blvd,DETROIT,MI,48202-2608,United States of America,3138734455.0,little_caesars_pizza
+2000025361,Domino's Pizza,65 Cadillac Square Pl 101,DETROIT,MI,48226,United States of America,3139625600.0,dominos_pizza
+1000918883,Domino's Pizza,33370 W 14 Mile Rd,WEST BLOOMFIELD,MI,48322-3572,United States of America,2488519100.0,dominos_pizza
+1000909185,Domino's Pizza,106 Commercial St,ROCKPORT,ME,4856,United States of America,2072366212.0,dominos_pizza
+1000919846,Domino's Pizza,3865 Wilder Rd,BAY CITY,MI,48706-2136,United States of America,9896862804.0,dominos_pizza
+1000875877,Little Caesars Pizza,6409 Main St,CASEVILLE,MI,48725-9566,United States of America,9898562242.0,little_caesars_pizza
+2000010043,Domino's Pizza,3700 S Waverly Rd,LANSING,MI,48911-2049,United States of America,5178823030.0,dominos_pizza
+1000922389,Domino's Pizza,5214 S Cedar St,LANSING,MI,48911-3862,United States of America,5173944300.0,dominos_pizza
+2000015185,Papa Murphy's Take 'N' Bake Pizza,714 E Chicago St,COLDWATER,MI,49036-2070,United States of America,5172787272.0,papa_murphys_take_n_bake_pizza
+1000925832,Domino's Pizza,817 Spruce St,DOWAGIAC,MI,49047-1089,United States of America,2697822333.0,dominos_pizza
+1000865922,Little Caesars Pizza,442 W Maumee St,ADRIAN,MI,49221-2026,United States of America,5172654460.0,little_caesars_pizza
+2000009991,Domino's Pizza,210 W Carleton Rd,HILLSDALE,MI,49242-5037,United States of America,5174391535.0,dominos_pizza
+1000924889,Domino's Pizza,7227 Thornapple River Dr Se,ADA,MI,49301,United States of America,6166823030.0,dominos_pizza
+1000893258,Papa Murphy's Take 'N' Bake Pizza,1633 28th St SW,WYOMING,MI,49519-2608,United States of America,6165347272.0,papa_murphys_take_n_bake_pizza
+1000899705,Papa Murphy's Take 'N' Bake Pizza,355 Wilson Ave NW,WALKER,MI,49534,United States of America,6167912272.0,papa_murphys_take_n_bake_pizza
+1000920109,Domino's Pizza,400 S Stephenson Ave,IRON MOUNTAIN,MI,49801-3455,United States of America,9067749494.0,dominos_pizza
+2000009975,Domino's Pizza,1710 US Hwy 41,ISHPEMING,MI,49849,United States of America,9064853030.0,dominos_pizza
+1000895138,Papa Murphy's Take 'N' Bake Pizza,2026 Boxwood Dr,CEDAR FALLS,IA,50613-7949,United States of America,3192687254.0,papa_murphys_take_n_bake_pizza
+1000920956,Domino's Pizza,436 Plymouth St Sw,LE MARS,IA,51031-3443,United States of America,7125461519.0,dominos_pizza
+1000940888,Sbarro,201 S Clinton St,IOWA CITY,IA,52240-4011,United States of America,3193519919.0,sbarro
+2000047744,Figaro's Pizza,47 N Highland Ave,PLYMOUTH,WI,53073-2071,United States of America,9208938300.0,figaros_pizza
+2000047733,Figaro's Pizza,10009 Northwestern Ave,FRANKSVILLE,WI,53126,United States of America,2628980505.0,figaros_pizza
+2000047761,Figaro's Pizza,231 S Main St,VERONA,WI,53593-1470,United States of America,6088483111.0,figaros_pizza
+2000047749,Figaro's Pizza,3306A University Ave,MADISON,WI,53705-2137,United States of America,6083953222.0,figaros_pizza
+2000031783,Papa Murphy's Take 'N' Bake Pizza,237 N Washington St,KIMBERLY,WI,54136-1628,United States of America,9207889200.0,papa_murphys_take_n_bake_pizza
+1000894939,Papa Murphy's Take 'N' Bake Pizza,2001 N Central Ave,MARSHFIELD,WI,54449-8337,United States of America,7154869168.0,papa_murphys_take_n_bake_pizza
+2000047750,Figaro's Pizza,140 Crossroads Dr,PLOVER,WI,54467-4121,United States of America,7153439920.0,figaros_pizza
+2000051317,Marco's Pizza,3910 Schofield Ave,WESTON,WI,54476-6800,United States of America,7153594488.0,marcos_pizza
+2000047774,Figaro's Pizza,335 Winnebago Dr,FOND DU LAC,WI,54935-2541,United States of America,9209333550.0,figaros_pizza
+1000900121,Papa Murphy's Take 'N' Bake Pizza,377 N Rolling Meadows Dr,FOND DU LAC,WI,54937-9726,United States of America,9203228888.0,papa_murphys_take_n_bake_pizza
+2000047785,Figaro's Pizza,W7709 Johnson Ct,WAUTOMA,WI,54982-5274,United States of America,9207873100.0,figaros_pizza
+1000910345,Domino's Pizza,120 Evergreen Sq SW,PINE CITY,MN,55063-2000,United States of America,3206295432.0,dominos_pizza
+1000915722,Domino's Pizza,225 Triangle Ln N,JORDAN,MN,55352-1200,United States of America,9524925322.0,dominos_pizza
+1000903276,Papa Murphy's Take 'N' Bake Pizza,5612 W Broadway Ave,CRYSTAL,MN,55428-3510,United States of America,7635369060.0,papa_murphys_take_n_bake_pizza
+2000047727,Figaro's Pizza,10400 Baltimore St NE,BLAINE,MN,55449-3640,United States of America,7633986800.0,figaros_pizza
+1000869059,Cici's Pizza,5007 S Louise Ave,SIOUX FALLS,SD,57108-2268,United States of America,6053629900.0,cicis_pizza
+2000025293,Domino's Pizza,3803 13th Ave S,FARGO,ND,58103-3301,United States of America,7012822700.0,dominos_pizza
+1000890283,Papa Murphy's Take 'N' Bake Pizza,1151 Partridge Pl,HELENA,MT,59602-0562,United States of America,4064421975.0,papa_murphys_take_n_bake_pizza
+1000915226,Domino's Pizza,212 W Main St,BELGRADE,MT,59714-3835,United States of America,4063889922.0,dominos_pizza
+1000927215,Domino's Pizza,980 Il Route 59,ANTIOCH,IL,60002,United States of America,8478383030.0,dominos_pizza
+1000901946,Papa Murphy's Take 'N' Bake Pizza,475 E Il Route 173,ANTIOCH,IL,60002-9406,United States of America,8473957272.0,papa_murphys_take_n_bake_pizza
+1000923713,Domino's Pizza,6200 Northwest Hwy,CRYSTAL LAKE,IL,60014,United States of America,8154551515.0,dominos_pizza
+1000923981,Domino's Pizza,65 S US Highway 12,FOX LAKE,IL,60020-1750,United States of America,8475874666.0,dominos_pizza
+1000969570,Domino's Pizza,4005 W Kane Ave,MCHENRY,IL,60050-6305,United States of America,8153446565.0,dominos_pizza
+1000908671,Domino's Pizza,1010 N Seminary Ave,WOODSTOCK,IL,60098-2909,United States of America,8153380700.0,dominos_pizza
+2000012565,Little Caesars Pizza,124 W North Ave,NORTHLAKE,IL,60164-2317,United States of America,7084091079.0,little_caesars_pizza
+1000909081,Domino's Pizza,1049 W Golf Rd,HOFFMAN ESTATES,IL,60169-1339,United States of America,8475190411.0,dominos_pizza
+1000910160,Domino's Pizza,1168 Dodge Ave,EVANSTON,IL,60202-1007,United States of America,8478643030.0,dominos_pizza
+1000913841,Domino's Pizza,18155 Dixie Hwy,HOMEWOOD,IL,60430-2218,United States of America,7089573200.0,dominos_pizza
+1000921417,Domino's Pizza,4659 147th St,MIDLOTHIAN,IL,60445-2524,United States of America,7086874444.0,dominos_pizza
+1000926214,Domino's Pizza,8609 W 95th St,HICKORY HILLS,IL,60457-2704,United States of America,7085991122.0,dominos_pizza
+1000844152,Cici's Pizza,2014 W Wilson St,BATAVIA,IL,60510-9482,United States of America,6304829160.0,cicis_pizza
+1000824269,Little Caesars Pizza,10259 S Western Ave,CHICAGO,IL,60643-1917,United States of America,7734456600.0,little_caesars_pizza
+2000134440,Papa Gino's,ROUTE 83,VERNON,CT,6066,United States of America,,papa_ginos
+1000881007,D'Angelo Grilled Sandwiches,781 Cromwell Ave,ROCKY HILL,CT,6067,United States of America,8602579749.0,dangelo_grilled_sandwiches
+2000025388,Domino's Pizza,804 W Galena Ave,FREEPORT,IL,61032-3972,United States of America,8152323333.0,dominos_pizza
+1000908046,Villa Pizza,1310 N Il Route 251,KINGS,IL,61068,United States of America,8155628475.0,villa_pizza
+1000916534,Domino's Pizza,2501 E Lincolnway,STERLING,IL,61081,United States of America,8156257500.0,dominos_pizza
+1000892892,Papa Murphy's Take 'N' Bake Pizza,1558 W Lane Rd,MACHESNEY PARK,IL,61115-1903,United States of America,8156547222.0,papa_murphys_take_n_bake_pizza
+1000893736,Papa Murphy's Take 'N' Bake Pizza,1733 30th St,ROCK ISLAND,IL,61201-3745,United States of America,3097931111.0,papa_murphys_take_n_bake_pizza
+2000031789,Papa Murphy's Take 'N' Bake Pizza,2740 Columbus St,OTTAWA,IL,61350-3782,United States of America,8154311111.0,papa_murphys_take_n_bake_pizza
+1000895930,Villa Pizza,2200 W War Memorial Dr,PEORIA,IL,61613-1000,United States of America,3096818327.0,villa_pizza
+1000861632,Pizza Inn,3821 N Sterling Ave,PEORIA,IL,61615-4230,United States of America,3096823722.0,pizza_inn
+2000010087,Domino's Pizza,677 Lincoln Ave,CHARLESTON,IL,61920,United States of America,2173481626.0,dominos_pizza
+1000901291,Papa Murphy's Take 'N' Bake Pizza,431 W Lincoln Ave,CHARLESTON,IL,61920-3022,United States of America,2173457272.0,papa_murphys_take_n_bake_pizza
+2000025192,Domino's Pizza,15315 US Highway 150,PARIS,IL,61944-6619,United States of America,2174663300.0,dominos_pizza
+1000908505,Domino's Pizza,5032 N IL 130,OLNEY,IL,62450,United States of America,6183928000.0,dominos_pizza
+1000901785,Papa Murphy's Take 'N' Bake Pizza,4625 E Maryland St,DECATUR,IL,62521-5092,United States of America,2178643999.0,papa_murphys_take_n_bake_pizza
+1000917991,Domino's Pizza,3030 N Woodford St,DECATUR,IL,62526-2832,United States of America,2178754772.0,dominos_pizza
+1000892732,Papa Murphy's Take 'N' Bake Pizza,1524 W Springfield Rd,TAYLORVILLE,IL,62568,United States of America,2178247222.0,papa_murphys_take_n_bake_pizza
+1000847667,Cici's Pizza,227 Arnold Crossroads Ctr,ARNOLD,MO,63010-1434,United States of America,6362872424.0,cicis_pizza
+1000909953,Domino's Pizza,Hwy AT & Hwy 100,VILLA RIDGE,MO,63089,United States of America,6367423030.0,dominos_pizza
+1000828508,D'Angelo Grilled Sandwiches,117 Boston Post Rd,WATERFORD,CT,6385,United States of America,8604403593.0,dangelo_grilled_sandwiches
+1000909653,Domino's Pizza,1108 N Douglass St,MALDEN,MO,63863-1342,United States of America,5732766677.0,dominos_pizza
+1000882565,Little Caesars Pizza,817 E North Ave,BELTON,MO,64012-2194,United States of America,8163315200.0,little_caesars_pizza
+1000906235,Papa Murphy's Take 'N' Bake Pizza,809 NE Woods Chapel Rd,LEES SUMMIT,MO,64064-1991,United States of America,8165253355.0,papa_murphys_take_n_bake_pizza
+1000889110,Papa Murphy's Take 'N' Bake Pizza,10215 N Oak Trfy,KANSAS CITY,MO,64155-1715,United States of America,8164367171.0,papa_murphys_take_n_bake_pizza
+1000911263,Domino's Pizza,1311 N Walnut St,CAMERON,MO,64429-1326,United States of America,8166324440.0,dominos_pizza
+1000901866,Bananas Ultimate Juice Bar,470 Lewis Ave,MERIDEN,CT,6451,United States of America,2032382611.0,bananas_ultimate_juice_bar
+1000910376,Domino's Pizza,1200 East Ohio,CLINTON,MO,64735,United States of America,6608853111.0,dominos_pizza
+1000855278,Pizza Inn,3011 S Main St,JOPLIN,MO,64804-2642,United States of America,4177813232.0,pizza_inn
+1000841950,Cici's Pizza,1900 S Range Line Rd,JOPLIN,MO,64804-3210,United States of America,4176232424.0,cicis_pizza
+2000047747,Figaro's Pizza,4824 Osage Beach Pkwy,OSAGE BEACH,MO,65065-2830,United States of America,5733024300.0,figaros_pizza
+1000921564,Domino's Pizza,417 E Spring St,BOONVILLE,MO,65233-1573,United States of America,6608822001.0,dominos_pizza
+1000926508,Domino's Pizza,901 S National Ave,SPRINGFIELD,MO,65897-0027,United States of America,4178364730.0,dominos_pizza
+2000051059,Simple Simon's Pizza,310 E 15th St,EUDORA,KS,66025-9540,United States of America,7855423089.0,simple_simons_pizza
+1000902500,Bananas Ultimate Juice Bar,5065 Main St,TRUMBULL,CT,6611,United States of America,2033723461.0,bananas_ultimate_juice_bar
+1000883736,Cici's Pizza,8520 W 135th St,OVERLAND PARK,KS,66223-1212,United States of America,9138517760.0,cicis_pizza
+2000050917,Simple Simon's Pizza,2404 E Washington St,FREDONIA,KS,66736-2075,United States of America,6203784473.0,simple_simons_pizza
+2000051037,Simple Simon's Pizza,1124 N 4th St,BURLINGTON,KS,66839-2607,United States of America,6203642195.0,simple_simons_pizza
+1000923416,Domino's Pizza,604 N Main St,EL DORADO,KS,67042-2026,United States of America,3163229000.0,dominos_pizza
+2000050924,Simple Simon's Pizza,104 South 3rd Street,CHETOPA,KS,67336,United States of America,6202367200.0,simple_simons_pizza
+1000857297,Cici's Pizza,3205 Oak View Dr,OMAHA,NE,68144-5627,United States of America,4029912992.0,cicis_pizza
+1000908060,Papa Murphy's Take 'N' Bake Pizza,PO Box 1617,SCOTTSBLUFF,NE,69363-1617,United States of America,3086357755.0,papa_murphys_take_n_bake_pizza
+1000861489,Little Caesars Pizza,3803 Moss St,LAFAYETTE,LA,70507-4589,United States of America,3372371123.0,little_caesars_pizza
+1000839606,Little Caesars Pizza,1723 Creswell Ln Ext,OPELOUSAS,LA,70570,United States of America,3374079135.0,little_caesars_pizza
+1000842070,Pizza Inn,1903 West St,VINTON,LA,70668-4913,United States of America,3375892927.0,pizza_inn
+1000870829,Cici's Pizza,5260 Corporate Blvd,BATON ROUGE,LA,70808-2503,United States of America,2259232840.0,cicis_pizza
+1000888579,Treat Street,1 Gateway Ctr,NEWARK,NJ,7102,United States of America,9736210160.0,treat_street
+2000051790,Gatti's Pizza,7805 Youree Dr,SHREVEPORT,LA,71105-5505,United States of America,3187982467.0,gattis_pizza
+1000846104,Cici's Pizza,2142 Airline Dr,BOSSIER CITY,LA,71111-1605,United States of America,3187412424.0,cicis_pizza
+2000051780,Gatti's Pizza,2121 Airline Dr,BOSSIER CITY,LA,71111-3428,United States of America,3186589981.0,gattis_pizza
+1000900771,Bananas Ultimate Juice Bar,4061 Newark Airport,NEWARK,NJ,7114,United States of America,9736242049.0,bananas_ultimate_juice_bar
+1000831739,Little Caesars Pizza,130 Kings Country Vlg,PINEVILLE,LA,71360,United States of America,3186409940.0,little_caesars_pizza
+2000033322,Papa Murphy's Take 'N' Bake Pizza,3121 N Reynolds Rd,BRYANT,AR,72022,United States of America,5018476565.0,papa_murphys_take_n_bake_pizza
+2000015985,Pizza Inn,811 Main Street,MELBOURNE,AR,72556,United States of America,8703685454.0,pizza_inn
+1000895870,Papa Murphy's Take 'N' Bake Pizza,2195 N College Ave,FAYETTEVILLE,AR,72703-2802,United States of America,4794446644.0,papa_murphys_take_n_bake_pizza
+2000050926,Simple Simon's Pizza,6445 W Wedington Dr,FAYETTEVILLE,AR,72704-5812,United States of America,4794429261.0,simple_simons_pizza
+2000050915,Simple Simon's Pizza,Highway Ar 265 & Ar 156,PRAIRIE GROVE,AR,72753,United States of America,4798463995.0,simple_simons_pizza
+2000050988,Simple Simon's Pizza,9733 Market St,DOVER,AR,72837-9170,United States of America,4793313333.0,simple_simons_pizza
+2000015981,Pizza Inn,3901 SE 15th St,DEL CITY,OK,73115-2239,United States of America,4056770576.0,pizza_inn
+1000881278,Pizza Inn,7901 N May Ave,OKLAHOMA CITY,OK,73120-4540,United States of America,4058489995.0,pizza_inn
+1000867876,Pizza Inn,4816 N MacArthur Blvd,WARR ACRES,OK,73122-5014,United States of America,4057878787.0,pizza_inn
+1000907382,Papa Murphy's Take 'N' Bake Pizza,9230 N Pennsylvania Avenue,OKLAHOMA CITY,OK,73159,United States of America,4052862003.0,papa_murphys_take_n_bake_pizza
+1000879100,Cici's Pizza,721 N Main St,STILLWATER,OK,74075-5410,United States of America,4057079300.0,cicis_pizza
+1000922247,Domino's Pizza,5127 S Utica Ave,TULSA,OK,74105-5761,United States of America,4056243030.0,dominos_pizza
+1000889866,Papa Murphy's Take 'N' Bake Pizza,11081 S Memorial Dr,TULSA,OK,74133-7362,United States of America,9183696800.0,papa_murphys_take_n_bake_pizza
+1000849063,Little Caesars Pizza,240 N Denton Tap Rd,COPPELL,TX,75019-2157,United States of America,4695494900.0,little_caesars_pizza
+2000050929,Simple Simon's Pizza,410 N Valley Pkwy,LEWISVILLE,TX,75067,United States of America,,simple_simons_pizza
+1000826972,Pizza Inn,1110 E Parker Rd,PLANO,TX,75074-5363,United States of America,972881122.0,pizza_inn
+1000834739,Pizza Inn,114 N. Cedar Ridge Drive,DUNCANVILLE,TX,75116,United States of America,9722965258.0,pizza_inn
+1000855528,Cici's Pizza,303 S Cedar Ridge Dr,DUNCANVILLE,TX,75116-4526,United States of America,9722834999.0,cicis_pizza
+2000050913,Simple Simon's Pizza,10898 Country Road 4022,MABANK,TX,75143,United States of America,9034984710.0,simple_simons_pizza
+2000050934,Simple Simon's Pizza,13174 State Highway 198,MABANK,TX,75156-5431,United States of America,9034513368.0,simple_simons_pizza
+1000858024,Cici's Pizza,330 Medallion Shp Ctr,DALLAS,TX,75214-1580,United States of America,2147392424.0,cicis_pizza
+1000833640,Pizza Inn,13920 Josey Ln,FARMERS BRANCH,TX,75234-3500,United States of America,9722414906.0,pizza_inn
+2000003490,Sbarro,Dalla Fort Worth Airport,DALLAS,TX,75261,United States of America,,sbarro
+1000925913,Domino's Pizza,824 S Central Expy,ANNA,TX,75409-4582,United States of America,9729243990.0,dominos_pizza
+2000050970,Simple Simon's Pizza,1210 W Front St,BLOSSOM,TX,75416-2808,United States of America,9039826802.0,simple_simons_pizza
+1000894981,Papa Murphy's Take 'N' Bake Pizza,2007 N State Highway 121,BONHAM,TX,75418-2340,United States of America,9035839000.0,papa_murphys_take_n_bake_pizza
+1000862348,Cici's Pizza,3955 Lamar Ave,PARIS,TX,75462,United States of America,9037854445.0,cicis_pizza
+2000051045,Simple Simon's Pizza,4120 Lamar Ave,PARIS,TX,75462-5208,United States of America,9037850533.0,simple_simons_pizza
+1000906449,Papa Murphy's Take 'N' Bake Pizza,824 S Crowley Rd,CROWLEY,TX,76036,United States of America,8172974020.0,papa_murphys_take_n_bake_pizza
+2000015168,Papa Murphy's Take 'N' Bake Pizza,2801 E Interstate 20,HUDSON OAKS,TX,76087-8596,United States of America,8175999990.0,papa_murphys_take_n_bake_pizza
+1000879924,Cici's Pizza,7451 N Beach St,FORT WORTH,TX,76137-5160,United States of America,8172340600.0,cicis_pizza
+1000852554,Cici's Pizza,2721 Ellis Ave,FORT WORTH,TX,76164-7131,United States of America,8176240555.0,cicis_pizza
+2000030975,Pizza Inn,501 W University Dr,DENTON,TX,76201-1843,United States of America,9403205656.0,pizza_inn
+2000050971,Simple Simon's Pizza,108 E Hughes St,COLLINSVILLE,TX,76233,United States of America,9034296555.0,simple_simons_pizza
+2000050978,Simple Simon's Pizza,309 E Highway 82,NOCONA,TX,76255-2724,United States of America,9408256486.0,simple_simons_pizza
+1000840548,Pizza Inn,1800 N Highway 377,PILOT POINT,TX,76258-9296,United States of America,9406863000.0,pizza_inn
+2000031781,Papa Murphy's Take 'N' Bake Pizza,2314 Airport Dr,WICHITA FALLS,TX,76306-2861,United States of America,9408555050.0,papa_murphys_take_n_bake_pizza
+1000917865,Domino's Pizza,301 I 35 Hwy NW,HILLSBORO,TX,76645-2363,United States of America,2545821234.0,dominos_pizza
+2000182567,Sbarro,4001 Sunset Dr,SAN ANGELO,TX,76904-5610,United States of America,,sbarro
+1000917837,Domino's Pizza,3003 S Richey St,HOUSTON,TX,77017-7219,United States of America,7134721334.0,dominos_pizza
+1000835256,Pizza Inn,14708 Hiram Clarke Rd,HOUSTON,TX,77053-1313,United States of America,7134342000.0,pizza_inn
+1000876162,Cici's Pizza,650 Greenspoint Mall,HOUSTON,TX,77060-1820,United States of America,2818760809.0,cicis_pizza
+2000182585,Sbarro,1182 Willowbrook Mall,HOUSTON,TX,77070-5789,United States of America,,sbarro
+1000897421,Villa Pizza,2700 Hwy 6 S,HOUSTON,TX,77082,United States of America,2814979148.0,villa_pizza
+1000858955,Pizza Inn,3410 FM 2920,SPRING,TX,77388,United States of America,2819070093.0,pizza_inn
+1000908121,Villa Pizza,State Rte 35 & Harmony Rd,MIDDLETOWN,NJ,7748,United States of America,7326150770.0,villa_pizza
+1000908122,Villa Pizza,State Rte 35 & Harmony Rd,MIDDLETOWN,NJ,7748,United States of America,7326713733.0,villa_pizza
+1000888663,Villa Pizza,100 Highway 332 W,LAKE JACKSON,TX,77566-4024,United States of America,9792859191.0,villa_pizza
+1000888759,Villa Pizza,10000 Emmett F Lowry Expy,TEXAS CITY,TX,77591-2130,United States of America,4099866956.0,villa_pizza
+1000926875,Domino's Pizza,9323 Highway 90 S,NAVASOTA,TX,77868-5091,United States of America,9368704142.0,dominos_pizza
+1000890324,Papa Murphy's Take 'N' Bake Pizza,1160 N Loop 1604 W,SAN ANTONIO,TX,78248-4519,United States of America,2104932300.0,papa_murphys_take_n_bake_pizza
+1000889523,Papa Murphy's Take 'N' Bake Pizza,10722 Potranco Rd,SAN ANTONIO,TX,78251-3315,United States of America,2106807272.0,papa_murphys_take_n_bake_pizza
+1000856604,Pizza Inn,313 S Smith Ave,HEBBRONVILLE,TX,78361-2745,United States of America,3615275544.0,pizza_inn
+1000903085,Villa Pizza,5488 S Padre Island Dr,CORPUS CHRISTI,TX,78411-4122,United States of America,3619929953.0,villa_pizza
+1000883351,Little Caesars Pizza,8400 Brodie Ln,AUSTIN,TX,78745-8161,United States of America,5122806179.0,little_caesars_pizza
+1000903567,Cozzoli's Pizzeria,5900 Airport Blvd,AUSTIN,TX,78752-4206,United States of America,5123741920.0,cozzolis_pizzeria
+2000050957,Simple Simon's Pizza,1803 7th St,LUBBOCK,TX,79401,United States of America,8067495000.0,simple_simons_pizza
+1000903734,Villa Pizza,6002 Slide Rd,LUBBOCK,TX,79414-4310,United States of America,8067910133.0,villa_pizza
+1000905076,Villa Pizza,7051 S Desert Blvd,CANUTILLO,TX,79835-8586,United States of America,9158774492.0,villa_pizza
+1000891594,Papa Murphy's Take 'N' Bake Pizza,133 McCaslin Blvd,LOUISVILLE,CO,80027-9412,United States of America,3039267111.0,papa_murphys_take_n_bake_pizza
+2000053468,"We Toss'em, They're Awesome",729 Dale St,FOUNTAIN,CO,80817-1736,United States of America,7193828687.0,"we_tossem,_theyre_awesome"
+1000893816,Treat Street,1751 Deptford Center Rd,DEPTFORD,NJ,8096,United States of America,8566864889.0,treat_street
+1000922114,Domino's Pizza,508 Nevada Ave,TRINIDAD,CO,81082-2445,United States of America,7198469894.0,dominos_pizza
+2000027379,Little Caesars Pizza,3110 Blake Ave,GLENWOOD SPRINGS,CO,81601-4427,United States of America,9709280611.0,little_caesars_pizza
+1000926937,Domino's Pizza,94 Market St,EAGLE,CO,81631,United States of America,9703284399.0,dominos_pizza
+1000915383,Domino's Pizza,2161 N Frontage Rd W,VAIL,CO,81657,United States of America,9704760330.0,dominos_pizza
+2000047800,Figaro's Pizza,9768 W State St,STAR,ID,83669-5766,United States of America,2082860448.0,figaros_pizza
+2000053474,"We Toss'em, They're Awesome",3143 E Greenhurst Rd,NAMPA,ID,83686-8655,United States of America,2084680100.0,"we_tossem,_theyre_awesome"
+1000920012,Domino's Pizza,397 S Main St,PLEASANT GROVE,UT,84062,United States of America,8017967881.0,dominos_pizza
+1000922866,Domino's Pizza,5600 W 13100 S,HERRIMAN,UT,84096,United States of America,8018783636.0,dominos_pizza
+2000010077,Domino's Pizza,592 E Main St,PRICE,UT,84501-3137,United States of America,4356372121.0,dominos_pizza
+1000925777,Domino's Pizza,812 S Main St,MOAB,UT,84532-2961,United States of America,4352590101.0,dominos_pizza
+1000916606,Domino's Pizza,252 W Main St,SANTAQUIN,UT,84655-7086,United States of America,8017540333.0,dominos_pizza
+2000053489,"We Toss'em, They're Awesome",1425 N 400 W,BEAVER,UT,84713,United States of America,4354385761.0,"we_tossem,_theyre_awesome"
+2000053096,Peter Piper Pizza,Chase Field,PHOENIX,AZ,85004,United States of America,6024623300.0,peter_piper_pizza
+2000053097,Peter Piper Pizza,U S Airways Center,PHOENIX,AZ,85004,United States of America,6023797571.0,peter_piper_pizza
+2000053058,Peter Piper Pizza,4310 W Thomas Rd,PHOENIX,AZ,85031-3844,United States of America,6022690004.0,peter_piper_pizza
+2000053065,Peter Piper Pizza,4716 E Thunderbird Rd,PHOENIX,AZ,85032-5541,United States of America,6029965444.0,peter_piper_pizza
+1000913898,Domino's Pizza,183 W Apache Trl,APACHE JUNCTION,AZ,85120,United States of America,4804740300.0,dominos_pizza
+1000911912,Domino's Pizza,1417 N Arizona Blvd,COOLIDGE,AZ,85128-3214,United States of America,5207231414.0,dominos_pizza
+1000924887,Domino's Pizza,727 W Ray Rd,GILBERT,AZ,85233,United States of America,4808129555.0,dominos_pizza
+2000053388,"We Toss'em, They're Awesome",950 E Riggs Rd,CHANDLER,AZ,85249,United States of America,4808141970.0,"we_tossem,_theyre_awesome"
+1000913145,Domino's Pizza,16610 N Scottsdale Rd,SCOTTSDALE,AZ,85254,United States of America,4809988787.0,dominos_pizza
+1000955799,Sbarro,5000 S Arizona Mills Cir,TEMPE,AZ,85282-6440,United States of America,4807529209.0,sbarro
+1000914760,Domino's Pizza,20219 N 59th Ave,GLENDALE,AZ,85308,United States of America,6235669333.0,dominos_pizza
+1000925069,Domino's Pizza,748 N Archibald St,SAN LUIS,AZ,85349,United States of America,9286277445.0,dominos_pizza
+1000927238,Domino's Pizza,9845 W Bell Rd,SUN CITY,AZ,85351-1344,United States of America,6239333030.0,dominos_pizza
+1000895397,Papa Murphy's Take 'N' Bake Pizza,20851 N 83rd Ave,PEORIA,AZ,85382,United States of America,6235660400.0,papa_murphys_take_n_bake_pizza
+2000025317,Domino's Pizza,472 E Wickenburg Way,WICKENBURG,AZ,85390-1606,United States of America,9286843030.0,dominos_pizza
+1000911378,Domino's Pizza,1324 N Broad St,GLOBE,AZ,85501-2712,United States of America,9284021500.0,dominos_pizza
+1000895917,Villa Pizza,2200 El Mercado Loop,SIERRA VISTA,AZ,85635-5213,United States of America,5204179855.0,villa_pizza
+1000901618,Cozzoli's Pizzeria,4500 N Oracle Rd,TUCSON,AZ,85705,United States of America,5208880786.0,cozzolis_pizzeria
+2000051338,Marco's Pizza,5650 S 12th Ave,TUCSON,AZ,85706,United States of America,5203004449.0,marcos_pizza
+2000015154,Papa Murphy's Take 'N' Bake Pizza,1710 W Valencia Rd,TUCSON,AZ,85746-6683,United States of America,5202947272.0,papa_murphys_take_n_bake_pizza
+1000897431,Papa Murphy's Take 'N' Bake Pizza,2700 S Woodlands Village Blvd,FLAGSTAFF,AZ,86001-2935,United States of America,9282138620.0,papa_murphys_take_n_bake_pizza
+1000912528,Domino's Pizza,1525 N Park Dr,WINSLOW,AZ,86047-2517,United States of America,9282894545.0,dominos_pizza
+1000888582,Papa Murphy's Take 'N' Bake Pizza,1 I 25 Byp,BELEN,NM,87002-8170,United States of America,5058612000.0,papa_murphys_take_n_bake_pizza
+1000893963,Papa Murphy's Take 'N' Bake Pizza,180 E Highway 550,BERNALILLO,NM,87004-6255,United States of America,5057710011.0,papa_murphys_take_n_bake_pizza
+1000853146,Cici's Pizza,2810 N Main St,ROSWELL,NM,88201-6509,United States of America,5756252424.0,cicis_pizza
+1000889588,Papa Murphy's Take 'N' Bake Pizza,1085 West Pioneer Boulevard,MESQUITE,NV,89027,United States of America,7023464449.0,papa_murphys_take_n_bake_pizza
+1000903233,Papa Murphy's Take 'N' Bake Pizza,5564 Camino Al Norte,NORTH LAS VEGAS,NV,89031,United States of America,7022488901.0,papa_murphys_take_n_bake_pizza
+1000889990,Villa Pizza,11165 S Eastern Ave,HENDERSON,NV,89052-4389,United States of America,7025661500.0,villa_pizza
+1000894759,Villa Pizza,198 N Pecos Rd,HENDERSON,NV,89074-7368,United States of America,7026144414.0,villa_pizza
+2000051270,Marco's Pizza,6430 W Lake Mead Blvd,LAS VEGAS,NV,89108-7370,United States of America,7026316645.0,marcos_pizza
+1000886299,Round Table Pizza,9350 W Sahara Ave,LAS VEGAS,NV,89117-5398,United States of America,7022407878.0,round_table_pizza
+2000134868,CiCi's Pizza,8465 W Sahara Ave,LAS VEGAS,NV,89117-8902,United States of America,7028221892.0,cicis_pizza
+1000884531,Round Table Pizza,8880 S Eastern Ave,LAS VEGAS,NV,89123-3286,United States of America,7023077878.0,round_table_pizza
+1000924295,Domino's Pizza,6870 Spring Mountain Rd,LAS VEGAS,NV,89146-8808,United States of America,7023673030.0,dominos_pizza
+1000905915,Villa Pizza,7810 W Ann Rd,LAS VEGAS,NV,89149-5199,United States of America,7026569695.0,villa_pizza
+1000924013,Domino's Pizza,6520 E Lake Mead,LAS VEGAS,NV,89156,United States of America,7024371669.0,dominos_pizza
+1000911636,Domino's Pizza,1375 Newlands Dr E,FERNLEY,NV,89408-8920,United States of America,7758356911.0,dominos_pizza
+2000053488,"We Toss'em, They're Awesome",120 N Main St,YERINGTON,NV,89447,United States of America,,"we_tossem,_theyre_awesome"
+1000911023,Domino's Pizza,1241 Kimmerling Rd,GARDNERVILLE,NV,89460,United States of America,7752652929.0,dominos_pizza
+1000858683,Round Table Pizza,3380 S McCarran Blvd,RENO,NV,89502-6442,United States of America,7758252324.0,round_table_pizza
+1000912754,Domino's Pizza,1590 Robb Dr,RENO,NV,89523,United States of America,7756246060.0,dominos_pizza
+1000917593,Domino's Pizza,29221 S Western Ave,RANCHO PALOS VERDES,CA,90275-1126,United States of America,3108320911.0,dominos_pizza
+2000002113,Round Table Pizza,8963 Washington Blvd,PICO RIVERA,CA,90660-3728,United States of America,5629494560.0,round_table_pizza
+1000921277,Domino's Pizza,456 Foothill Blvd,LA CANADA,CA,91011-3549,United States of America,8189522020.0,dominos_pizza
+1000913251,Domino's Pizza,17 Kersting Ct,SIERRA MADRE,CA,91024-1929,United States of America,6263550033.0,dominos_pizza
+1000916011,Domino's Pizza,23229 Saticoy St,CANOGA PARK,CA,91304-5310,United States of America,8189993030.0,dominos_pizza
+1000917451,Domino's Pizza,2855 Agoura Rd,WESTLAKE VILLAGE,CA,91361-3218,United States of America,8054953834.0,dominos_pizza
+1000923778,Domino's Pizza,6262 Van Nuys Blvd,VAN NUYS,CA,91401-2769,United States of America,8187801100.0,dominos_pizza
+2000053395,"We Toss'em, They're Awesome",101 Victory Blvd,BURBANK,CA,91502,United States of America,8188408805.0,"we_tossem,_theyre_awesome"
+2000047718,Figaro's Pizza,15870 Soquel Canyon Pkwy,CHINO HILLS,CA,91709,United States of America,9093933356.0,figaros_pizza
+1000839493,Round Table Pizza,17170 Colima Rd,HACIENDA HEIGHTS,CA,91745-6771,United States of America,6269658107.0,round_table_pizza
+2000053429,"We Toss'em, They're Awesome",5850 Etiwanda Ave,MIRA LOMA,CA,91752,United States of America,9513605359.0,"we_tossem,_theyre_awesome"
+1000888587,Bananas Ultimate Juice Bar,1 Mills Cir,ONTARIO,CA,91764-5210,United States of America,9094761315.0,bananas_ultimate_juice_bar
+2000047699,Figaro's Pizza,2326 Proctor Valley Rd,CHULA VISTA,CA,91914,United States of America,6196560006.0,figaros_pizza
+1000916717,Domino's Pizza,2564 State St,CARLSBAD,CA,92008-1662,United States of America,7604344500.0,dominos_pizza
+1000912145,Domino's Pizza,1458 Encinitas Blvd,ENCINITAS,CA,92024-2930,United States of America,7607536454.0,dominos_pizza
+1000866628,Round Table Pizza,455 College Blvd,OCEANSIDE,CA,92057-5438,United States of America,7609453000.0,round_table_pizza
+1000831053,Round Table Pizza,126 S Solana Hills Dr,SOLANA BEACH,CA,92075-2003,United States of America,8587556662.0,round_table_pizza
+1000885961,Round Table Pizza,923 E Vista Way,VISTA,CA,92084-5241,United States of America,7609411700.0,round_table_pizza
+1000921486,Domino's Pizza,4711 East Palm Canyon,PALM SPRINGS,CA,92264,United States of America,7603216141.0,dominos_pizza
+1000872469,Round Table Pizza,565 Forest Shade Rd,CRESTLINE,CA,92325,United States of America,9093385040.0,round_table_pizza
+1000913569,Domino's Pizza,1752 E Lugonia Ave,REDLANDS,CA,92374-2731,United States of America,9097948500.0,dominos_pizza
+1000918707,Domino's Pizza,32755 Highway 18,RUNNING SPRINGS,CA,92382,United States of America,9098679567.0,dominos_pizza
+1000835625,Round Table Pizza,15 W Nuevo Rd,PERRIS,CA,92571-0860,United States of America,9519432268.0,round_table_pizza
+1000920579,Domino's Pizza,41653 Maragarita Road,TEMECULA,CA,92591,United States of America,9512963425.0,dominos_pizza
+1000861782,Round Table Pizza,3851 Alton Pkwy,IRVINE,CA,92606-8225,United States of America,9494763030.0,round_table_pizza
+1000857041,Round Table Pizza,31878 Del Obispo St,SAN JUAN CAPISTRANO,CA,92675-3253,United States of America,9494963599.0,round_table_pizza
+1000849211,Round Table Pizza,24012 Aliso Creek Rd,LAGUNA NIGUEL,CA,92677-3910,United States of America,9496431636.0,round_table_pizza
+2000047707,Figaro's Pizza,12636 Limonite Ave,CORONA,CA,92880,United States of America,9513402214.0,figaros_pizza
+2000003316,Sbarro,130 23rd Ave,PORT HUENEME,CA,93043-4404,United States of America,,sbarro
+2000053407,"We Toss'em, They're Awesome",1555 N Farmersville Blvd,FARMERSVILLE,CA,93223,United States of America,5597473300.0,"we_tossem,_theyre_awesome"
+1000882696,Round Table Pizza,820 W Lacey Blvd,HANFORD,CA,93230-4382,United States of America,5595830955.0,round_table_pizza
+1000889433,Papa Murphy's Take 'N' Bake Pizza,1060 N Lemoore Ave,LEMOORE,CA,93245-2337,United States of America,5599259100.0,papa_murphys_take_n_bake_pizza
+1000889853,Papa Murphy's Take 'N' Bake Pizza,1107 Kern St,TAFT,CA,93268-4605,United States of America,6617655959.0,papa_murphys_take_n_bake_pizza
+2000053460,"We Toss'em, They're Awesome",5103 W Walnut Ave,VISALIA,CA,93277-3472,United States of America,5596275300.0,"we_tossem,_theyre_awesome"
+1000904136,Papa Murphy's Take 'N' Bake Pizza,623 W Central Ave,LOMPOC,CA,93436-2837,United States of America,8057406168.0,papa_murphys_take_n_bake_pizza
+1000896376,Papa Murphy's Take 'N' Bake Pizza,2316 S Broadway,SANTA MARIA,CA,93454-7816,United States of America,8059286168.0,papa_murphys_take_n_bake_pizza
+2000053396,"We Toss'em, They're Awesome",8056 California City Blvd,CALIFORNIA CITY,CA,93505-2661,United States of America,7603732224.0,"we_tossem,_theyre_awesome"
+1000911457,Domino's Pizza,1339 Rocking W Dr,BISHOP,CA,93514-1900,United States of America,7608731000.0,dominos_pizza
+2000053401,"We Toss'em, They're Awesome",140 S 15th St,CHOWCHILLA,CA,93610-2613,United States of America,5596654000.0,"we_tossem,_theyre_awesome"
+1000825105,Round Table Pizza,1050 Shaw Ave,CLOVIS,CA,93612,United States of America,5593227878.0,round_table_pizza
+1000912156,Domino's Pizza,1460 S Mercey Springs Rd,LOS BANOS,CA,93635-4928,United States of America,2098274555.0,dominos_pizza
+1000913085,Domino's Pizza,1649 10th St,REEDLEY,CA,93654-2911,United States of America,5596388000.0,dominos_pizza
+1000917105,Domino's Pizza,2707 Whitson St,SELMA,CA,93662-2644,United States of America,5598968500.0,dominos_pizza
+1000878149,Round Table Pizza,7010 N Marks Ave,FRESNO,CA,93711,United States of America,5592610778.0,round_table_pizza
+2000053412,"We Toss'em, They're Awesome",3692 W Shaw Ave,FRESNO,CA,93711-3231,United States of America,5592741400.0,"we_tossem,_theyre_awesome"
+1000880901,Round Table Pizza,7775 N 1st St,FRESNO,CA,93720-0962,United States of America,5594357474.0,round_table_pizza
+1000872521,Round Table Pizza,5669 E Kings Canyon Rd,FRESNO,CA,93727-4639,United States of America,5592557878.0,round_table_pizza
+1000898762,Papa Murphy's Take 'N' Bake Pizza,3158 Del Monte Blvd,MARINA,CA,93933-3047,United States of America,8313847442.0,papa_murphys_take_n_bake_pizza
+1000829612,Round Table Pizza,1207 Burlingame Ave,BURLINGAME,CA,94010-4107,United States of America,6503435676.0,round_table_pizza
+2000131987,Villa Pizza,Hwy 280 & Serramonte Blvd,DALY CITY,CA,94015,United States of America,6503013360.0,villa_pizza
+1000856608,Round Table Pizza,3130 Alpine Rd,MENLO PARK,CA,94028-7551,United States of America,6508549283.0,round_table_pizza
+1000837084,Round Table Pizza,157 E El Camino Real,MOUNTAIN VIEW,CA,94040-2779,United States of America,6509684353.0,round_table_pizza
+1000905749,Papa Murphy's Take 'N' Bake Pizza,762 Woodside Rd,REDWOOD CITY,CA,94061-3744,United States of America,6503663565.0,papa_murphys_take_n_bake_pizza
+1000879372,Round Table Pizza,730 Kains Ave,SAN BRUNO,CA,94066-3441,United States of America,6505830800.0,round_table_pizza
+1000906818,Villa Pizza,865 Market St,SAN FRANCISCO,CA,94103-1912,United States of America,4159745499.0,villa_pizza
+1000897538,Papa Murphy's Take 'N' Bake Pizza,2730 Middlefield Rd,PALO ALTO,CA,94306-2517,United States of America,6503285200.0,papa_murphys_take_n_bake_pizza
+1000850485,Round Table Pizza,2509 Somersville Rd,ANTIOCH,CA,94509-4408,United States of America,9257545747.0,round_table_pizza
+1000825061,Round Table Pizza,105 Town And Country Dr,DANVILLE,CA,94526-3966,United States of America,9258203030.0,round_table_pizza
+1000896973,Papa Murphy's Take 'N' Bake Pizza,25125 Santa Clara St,HAYWARD,CA,94544-2166,United States of America,5107850780.0,papa_murphys_take_n_bake_pizza
+1000876710,Round Table Pizza,6648 Alhambra Ave,MARTINEZ,CA,94553-6105,United States of America,9259346996.0,round_table_pizza
+1000870952,Round Table Pizza,530 Main St,PLEASANTON,CA,94566-6602,United States of America,9254610140.0,round_table_pizza
+1000865136,Round Table Pizza,4300 Sonoma Blvd,VALLEJO,CA,94589-2205,United States of America,7075529747.0,round_table_pizza
+1000917387,Domino's Pizza,2820 Sonoma Blvd,VALLEJO,CA,94590-3813,United States of America,7075546600.0,dominos_pizza
+1000913913,Domino's Pizza,1833 Springs Rd,VALLEJO,CA,94591-5526,United States of America,7075539860.0,dominos_pizza
+1000844205,Round Table Pizza,2017 University Ave,BERKELEY,CA,94704-1005,United States of America,5108457981.0,round_table_pizza
+1000868779,Round Table Pizza,500 Alameda Del Prado,NOVATO,CA,94949-6000,United States of America,4158835656.0,round_table_pizza
+1000918970,Domino's Pizza,339 S McDowell Blvd,PETALUMA,CA,94954-3507,United States of America,7077651200.0,dominos_pizza
+1000885651,Round Table Pizza,914 Sir Francis Drake Blvd,SAN ANSELMO,CA,94960-1901,United States of America,4154530833.0,round_table_pizza
+1000832481,Round Table Pizza,13200 Highway 9,BOULDER CREEK,CA,95006-8912,United States of America,8313382141.0,round_table_pizza
+2000131985,Villa Pizza,447 Great Mall Dr,MILPITAS,CA,95035,United States of America,4089454022.0,villa_pizza
+1000865115,Round Table Pizza,4300 Great America Pkwy,SANTA CLARA,CA,95054-1231,United States of America,4089709000.0,round_table_pizza
+1000870773,Round Table Pizza,525 W Santa Clara St,SAN JOSE,CA,95113-1520,United States of America,4089995735.0,round_table_pizza
+1000874834,Round Table Pizza,616 W Hammer Ln,STOCKTON,CA,95210-3749,United States of America,2099517878.0,round_table_pizza
+1000908712,Domino's Pizza,1012 West Lodi Ave,LODI,CA,95240,United States of America,2093390330.0,dominos_pizza
+2000047790,Figaro's Pizza,164 E Highway 4,MURPHYS,CA,95247,United States of America,2097281162.0,figaros_pizza
+2000053430,"We Toss'em, They're Awesome",601 Tully Rd,MODESTO,CA,95350-5826,United States of America,2095215667.0,"we_tossem,_theyre_awesome"
+2000053451,"We Toss'em, They're Awesome",1049 Mono Way,SONORA,CA,95370-5282,United States of America,2095360274.0,"we_tossem,_theyre_awesome"
+1000914090,Domino's Pizza,18995 Highway 12,SONOMA,CA,95476-5400,United States of America,7079962900.0,dominos_pizza
+1000873716,Round Table Pizza,600 F St,ARCATA,CA,95521-6301,United States of America,7078223761.0,round_table_pizza
+2000053409,"We Toss'em, They're Awesome",24340 Main St,FORESTHILL,CA,95631-9318,United States of America,5303673245.0,"we_tossem,_theyre_awesome"
+2000025377,Domino's Pizza,7469 Watt Avenue,NORTH HIGHLANDS,CA,95660,United States of America,9163323030.0,dominos_pizza
+2000053397,"We Toss'em, They're Awesome",3958 Cambridge Rd,CAMERON PARK,CA,95682-8933,United States of America,5306769191.0,"we_tossem,_theyre_awesome"
+1000875745,Round Table Pizza,638 Cottonwood St,WOODLAND,CA,95695-3615,United States of America,5306664477.0,round_table_pizza
+1000877261,Round Table Pizza,6811 Douglas Blvd,GRANITE BAY,CA,95746-6257,United States of America,9167918063.0,round_table_pizza
+1000920225,Domino's Pizza,4021 Woodcreek Oaks Blvd,ROSEVILLE,CA,95747-6817,United States of America,9167800220.0,dominos_pizza
+1000875667,Round Table Pizza,6350 Mack Rd,SACRAMENTO,CA,95823-4646,United States of America,9164272157.0,round_table_pizza
+1000918730,Domino's Pizza,3290 Northgate Blvd,SACRAMENTO,CA,95833-1319,United States of America,9165642525.0,dominos_pizza
+1000865789,Round Table Pizza,4403 Elkhorn Blvd,SACRAMENTO,CA,95842-3778,United States of America,9163382300.0,round_table_pizza
+2000053393,"We Toss'em, They're Awesome",507 Lucas St,ARBUCKLE,CA,95912,United States of America,5304762300.0,"we_tossem,_theyre_awesome"
+2000053400,"We Toss'em, They're Awesome",995 Nord Ave,CHICO,CA,95926,United States of America,5308997575.0,"we_tossem,_theyre_awesome"
+2000053435,"We Toss'em, They're Awesome",1006 South St,ORLAND,CA,95963-1671,United States of America,5308654747.0,"we_tossem,_theyre_awesome"
+1000915581,Domino's Pizza,2212 Main St,SUSANVILLE,CA,96130-4704,United States of America,5302576500.0,dominos_pizza
+1000916490,Domino's Pizza,25 Kaneohe Bay Dr,KAILUA,HI,96734-1711,United States of America,8082546433.0,dominos_pizza
+1000910603,Domino's Pizza,1215 S Kihei Rd,KIHEI,HI,96753,United States of America,8088746000.0,dominos_pizza
+1000865179,Little Caesars Pizza,4303 Nawiliwili Rd,LIHUE,HI,96766-9581,United States of America,8082455733.0,little_caesars_pizza
+1000834681,Round Table Pizza,14342 SW Allen Blvd,BEAVERTON,OR,97005-4403,United States of America,5036416821.0,round_table_pizza
+2000047795,Pizza Schmizza,21700 Salamo Rd,WEST LINN,OR,97068-7203,United States of America,5036575799.0,pizza_schmizza
+1000837629,Round Table Pizza,16021 SE Happy Valley,HAPPY VALLEY,OR,97086,United States of America,5036584106.0,round_table_pizza
+2000047734,Pizza Schmizza,20661 SW Roy Rogers Rd,SHERWOOD,OR,97140-9277,United States of America,5036259923.0,pizza_schmizza
+1000867946,Round Table Pizza,4831 NE Fremont St,PORTLAND,OR,97213-1762,United States of America,5032819592.0,round_table_pizza
+1000909748,Domino's Pizza,11140 Sw Capitol Hwy,PORTLAND,OR,97219-7276,United States of America,5032444942.0,dominos_pizza
+2000047714,Pizza Schmizza,12282 SW Scholls Ferry Rd,TIGARD,OR,97223-3354,United States of America,5035907649.0,pizza_schmizza
+1000829658,Round Table Pizza,12085 SW Hall Blvd,TIGARD,OR,97223-6253,United States of America,5036391545.0,round_table_pizza
+1000833144,Round Table Pizza,13587 NW Cornell Rd,PORTLAND,OR,97229-5821,United States of America,5036469700.0,round_table_pizza
+2000047740,Figaro's Pizza,17218 SE Powell Blvd,PORTLAND,OR,97236-1630,United States of America,5036610675.0,figaros_pizza
+2000027327,Little Caesars Pizza,210 W Ellendale Ave,DALLAS,OR,97338-1790,United States of America,5036234665.0,little_caesars_pizza
+1000838185,Round Table Pizza,16314 Bothell Everett Hwy,MILL CREEK,WA,98012-1226,United States of America,4257454561.0,round_table_pizza
+2000025193,Domino's Pizza,15321 NE Main St,DUVALL,WA,98019,United States of America,4258449999.0,dominos_pizza
+1000917352,Domino's Pizza,2811 Colby St,EVERETT,WA,98201,United States of America,4252523030.0,dominos_pizza
+1000855736,Round Table Pizza,305 SE Everett Mall Way,EVERETT,WA,98208-3250,United States of America,4252670200.0,round_table_pizza
+1000868084,Little Caesars Pizza,4874 Birch Bay Lynden Rd,BLAINE,WA,98230-9636,United States of America,3603712975.0,little_caesars_pizza
+1000964266,Sbarro,822 Cascade Mall Dr,BURLINGTON,WA,98233-3264,United States of America,3607072217.0,sbarro
+1000889437,Villa Pizza,10600 Quil Ceda Blvd,TULALIP,WA,98271-8092,United States of America,3606543001.0,villa_pizza
+2000053503,"We Toss'em, They're Awesome",1400 W Washington St,SEQUIM,WA,98382,United States of America,,"we_tossem,_theyre_awesome"
+2000047712,Figaro's Pizza,9408 Martin Way E,OLYMPIA,WA,98516,United States of America,3604551009.0,figaros_pizza
+2000053491,"We Toss'em, They're Awesome",NE 23730 Hwy 3,BELFAIR,WA,98528,United States of America,,"we_tossem,_theyre_awesome"
+2000047713,Pizza Schmizza,100 Triangle Center,LONGVIEW,WA,98632,United States of America,3605781500.0,pizza_schmizza
+2000047731,Figaro's Pizza,3208 Ocean Beach Hwy,LONGVIEW,WA,98632-4233,United States of America,3606360826.0,figaros_pizza
+2000047732,Figaro's Pizza,1345 Lewis River Rd,WOODLAND,WA,98674-9692,United States of America,3602257277.0,figaros_pizza
+2000053494,"We Toss'em, They're Awesome",662 S Main St,COLVILLE,WA,99114-2506,United States of America,,"we_tossem,_theyre_awesome"
+2000053499,"We Toss'em, They're Awesome",237 S Washington Ave,NEWPORT,WA,99156-9670,United States of America,,"we_tossem,_theyre_awesome"

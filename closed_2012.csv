@@ -1,0 +1,977 @@
+Store Company ID,Company Name,Address 1,City,State,Zip,Country,Phone,company_name
+1000943657,Sbarro,234 Route 15,STURBRIDGE,MA,01566-1141,United States of America,5083471456.0,sbarro
+1000934051,Sbarro,135 Brooks St,WORCESTER,MA,01606-3322,United States of America,,sbarro
+1000845358,Papa Gino's,210 Waverly St,FRAMINGHAM,MA,01702-7133,United States of America,5088720400.0,papa_ginos
+1000946753,Papa John's Pizza,29 Willow St,WEST ROXBURY,MA,02132-1537,United States of America,6173271300.0,papa_johns_pizza
+1000927719,Papa John's Pizza,1 Highland Ave,MALDEN,MA,02148-6603,United States of America,7813249772.0,papa_johns_pizza
+2000002697,Papa Gino's,2899 Cranberry Hwy,EAST WAREHAM,MA,02538-1313,United States of America,5082957474.0,papa_ginos
+1000881234,Papa Gino's,790 Iyannough Rd,HYANNIS,MA,02601-4916,United States of America,5087719794.0,papa_ginos
+1000833646,Godfather's Pizza,1394 Mineral Spring Ave,NORTH PROVIDENCE,RI,02904-4506,United States of America,4013533649.0,godfathers_pizza
+1000813744,Pizza Hut,313 Amherst St,NASHUA,NH,03063-1705,United States of America,6038897710.0,pizza_hut
+1000832962,Godfather's Pizza,135 Dover Rd,CHICHESTER,NH,03258-6518,United States of America,6037983345.0,godfathers_pizza
+1000927872,Papa John's Pizza,10 Main St,ESSEX JUNCTION,VT,05452-3132,United States of America,8028785777.0,papa_johns_pizza
+1000964339,Sbarro,825 US Route 7 S,RUTLAND,VT,05701-4734,United States of America,8027735038.0,sbarro
+1000806852,Pizza Hut,123 Farmington Ave,BRISTOL,CT,06010-4200,United States of America,8065839119.0,pizza_hut
+1000967159,Sbarro,99 Redstone Rd,MANCHESTER,CT,06042-8754,United States of America,8066469800.0,sbarro
+1000814835,Pizza Hut,37 S Main St,WEST HARTFORD,CT,06107-2412,United States of America,8602331400.0,pizza_hut
+1000931950,Sbarro,1201 Boston Post Rd,MILFORD,CT,06460-2708,United States of America,2038749587.0,sbarro
+1000937406,Papa John's Pizza,164 Main St,NORWALK,CT,06851-3729,United States of America,2037508888.0,papa_johns_pizza
+1000956941,Papa John's Pizza,531 Broadway,BAYONNE,NJ,07002-3735,United States of America,2013397272.0,papa_johns_pizza
+1000916081,Domino's Pizza,235 Chestnut St,RIDGEWOOD,NJ,07450-2505,United States of America,2014445505.0,dominos_pizza
+1000846962,Chuck E Cheese's,221 Bergen Town Ctr,PARAMUS,NJ,07652-5009,United States of America,2015871353.0,chuck_e_cheeses
+1000831124,Little Caesars Pizza,1263 Blackwood Clementon Rd,CLEMENTON,NJ,08021-5621,United States of America,8567821040.0,little_caesars_pizza
+1000847092,Little Caesars Pizza,222 Bridgeton Pike,MANTUA,NJ,08051-1913,United States of America,8564687575.0,little_caesars_pizza
+1000805485,Pizza Hut,1061 Asbury Ave,OCEAN CITY,NJ,08226-3329,United States of America,6093995334.0,pizza_hut
+1000889416,Villa Pizza,106 Alexander St,PRINCETON,NJ,08540-7102,United States of America,6092583482.0,villa_pizza
+1000846173,Little Caesars Pizza,215 N Hermitage Ave,TRENTON,NJ,08618-5531,United States of America,6093926789.0,little_caesars_pizza
+1000952859,Sbarro,415 Broadway,NEW YORK,NY,10013-2798,United States of America,2123347305.0,sbarro
+1000954262,Sbarro,451 Lexington Ave,NEW YORK,NY,10017-3949,United States of America,2122869642.0,sbarro
+1000962939,Papa John's Pizza,765 8th Ave,NEW YORK,NY,10036,United States of America,2122451900.0,papa_johns_pizza
+1000937695,Papa John's Pizza,168 Graham Ave,BROOKLYN,NY,11206-2101,United States of America,7183840400.0,papa_johns_pizza
+1000949627,Papa John's Pizza,338 Hamilton Ave,BROOKLYN,NY,11231,United States of America,7186257272.0,papa_johns_pizza
+1000934197,Sbarro,13620 138th Ave,FLUSHING,NY,11354,United States of America,7183590694.0,sbarro
+1000946266,Sbarro,2855 Ulmar St,WHITE PLAINS,NY,11357,United States of America,,sbarro
+1000965708,Sbarro,9015 Queens Blvd,ELMHURST,NY,11373-4918,United States of America,7182719654.0,sbarro
+1000955425,Papa John's Pizza,4919 30th Ave,WOODSIDE,NY,11377-7958,United States of America,7182747272.0,papa_johns_pizza
+2000003453,Sbarro,110 Rockway Blvd,OZONE PARK,NY,11417,United States of America,,sbarro
+1000966928,Papa John's Pizza,9714 Jamaica Ave,WOODHAVEN,NY,11421-2210,United States of America,7188467272.0,papa_johns_pizza
+1000965541,Sbarro,90 Roosevelt St,GARDEN CITY,NY,11530-3939,United States of America,5162947211.0,sbarro
+2000001183,Fox's Pizza Den,3212 Long Beach Rd,OCEANSIDE,NY,11572-4110,United States of America,5166783697.0,foxs_pizza_den
+1000949543,Papa John's Pizza,3354 Long Beach Rd,OCEANSIDE,NY,11572-5049,United States of America,5167667272.0,papa_johns_pizza
+2000003466,Sbarro,1504 Old Country Rd,WESTBURY,NY,11590,United States of America,5162281307.0,sbarro
+1000952091,Sbarro,4000 Nesconset Hwy,EAST SETAUKET,NY,11733-3306,United States of America,6313311313.0,sbarro
+1000857800,Little Caesars Pizza,3259 Hempstead Tpke,LEVITTOWN,NY,11756-1300,United States of America,5166052188.0,little_caesars_pizza
+1000948194,Papa John's Pizza,3106 Hempstead Tpke,LEVITTOWN,NY,11756-1339,United States of America,5165205222.0,papa_johns_pizza
+1000950837,Papa John's Pizza,3677 State Highway 30,BROADALBIN,NY,12025-2601,United States of America,5168839900.0,papa_johns_pizza
+2000012610,Little Caesars Pizza,1800 Western Avenue,ALBANY,NY,12203,United States of America,5184561236.0,little_caesars_pizza
+2000003441,Sbarro,1400 Washington Ave,ALBANY,NY,12222-0100,United States of America,,sbarro
+1000947914,Sbarro,3065 Route 50,SARATOGA SPRINGS,NY,12866,United States of America,5185836842.0,sbarro
+1000967789,Sbarro,North Concourse,NORTH SYRACUSE,NY,13212,United States of America,,sbarro
+1000968128,Sbarro,South Passaenger Lobby,NORTH SYRACUSE,NY,13212,United States of America,,sbarro
+2000087612,CiCi's Pizza,3237 Erie Blvd E,SYRACUSE,NY,13214-1203,United States of America,3153960717.0,cicis_pizza
+2000003458,Sbarro,1243 Skytop Rd,SYRACUSE,NY,13244-0001,United States of America,,sbarro
+1000968177,Sbarro,Vestal Pkwy E,BINGHAMTON,NY,13902,United States of America,,sbarro
+1000887662,Godfather's Pizza,995 Transit Way,BROCKPORT,NY,14420-3002,United States of America,5856370280.0,godfathers_pizza
+1000960676,Papa John's Pizza,6720 Pittsford Palmyra Rd,FAIRPORT,NY,14450-3344,United States of America,5852235000.0,papa_johns_pizza
+1000864050,Fox's Pizza Den,413 Park Ave,CORNING,NY,14830-3435,United States of America,6079378212.0,foxs_pizza_den
+2000060545,Vocelli Pizza,222 W Main St,MONONGAHELA,PA,15063-2463,United States of America,7242922223.0,vocelli_pizza
+2000060539,Vocelli Pizza,2833 Leechburg Rd,LOWER BURRELL,PA,15068-2539,United States of America,7243353330.0,vocelli_pizza
+1000942183,Papa John's Pizza,214 Moon Clinton Rd,MOON TOWNSHIP,PA,15108-2430,United States of America,4122627272.0,papa_johns_pizza
+1000815439,Pizza Hut,406 Lysle Blvd.,MCKEESPORT,PA,15132,United States of America,4126726400.0,pizza_hut
+2000060584,Vocelli Pizza,902 Penn Ave,TURTLE CREEK,PA,15145-1953,United States of America,,vocelli_pizza
+1000876333,Fox's Pizza Den,3526 Blvd Of The Allies,OAKLAND,PA,15213-4361,United States of America,4126213090.0,foxs_pizza_den
+1000838931,Fox's Pizza Den,17 Brilliant Ave,ASPINWALL,PA,15215-3137,United States of America,4127823697.0,foxs_pizza_den
+2000060573,Vocelli Pizza,1019 Mount Royal Blvd,PITTSBURGH,PA,15223-1032,United States of America,,vocelli_pizza
+1000952428,Papa John's Pizza,4050 Brownsville Rd,BRENTWOOD,PA,15227-3420,United States of America,4123737272.0,papa_johns_pizza
+1000823939,Fox's Pizza Den,1019 W View Park Dr,WEST VIEW,PA,15229-1772,United States of America,4129393330.0,foxs_pizza_den
+1000822422,Fox's Pizza Den,10 Clairton Blvd,PLEASANT HILLS,PA,15236-3911,United States of America,4126534004.0,foxs_pizza_den
+1000898264,South Philly Steak & Fries,301 S Hills Vlg,PITTSBURGH,PA,15241,United States of America,4128515380.0,south_philly_steak_&_fries
+1000826330,Fox's Pizza Den,110 Highland Ave,WASHINGTON,PA,15301-4020,United States of America,7242225065.0,foxs_pizza_den
+2000001189,Fox's Pizza Den,4065 Washington Rd,MCMURRAY,PA,15317-2520,United States of America,7249423100.0,foxs_pizza_den
+2000060526,Vocelli Pizza,660 E Pittsburgh St,GREENSBURG,PA,15601-2677,United States of America,7248389600.0,vocelli_pizza
+1000955716,Papa John's Pizza,500 Hyde Park Rd,LEECHBURG,PA,15656-8901,United States of America,7248457272.0,papa_johns_pizza
+1000873744,Cici's Pizza,600 Moraine Pointe Plz,BUTLER,PA,16001,United States of America,7242872424.0,cicis_pizza
+1000833139,Fox's Pizza Den,1358 Mars Evans City Rd,EVANS CITY,PA,16033,United States of America,7245389100.0,foxs_pizza_den
+1000844119,Cici's Pizza,20111 Route 19,CRANBERRY TOWNSHIP,PA,16066-6212,United States of America,7247784000.0,cicis_pizza
+2000060510,Vocelli Pizza,216 5th St,ELLWOOD CITY,PA,16117-2338,United States of America,7247522222.0,vocelli_pizza
+1000838196,Fox's Pizza Den,16323 Conneaut Lake Rd,MEADVILLE,PA,16335-3844,United States of America,8147243697.0,foxs_pizza_den
+1000838605,Little Caesars Pizza,4000 Market St,WARREN,PA,16365-5259,United States of America,8147237153.0,little_caesars_pizza
+1000968168,Sbarro,The Smead Business School Univ,UNIVERSITY PARK,PA,16802,United States of America,,sbarro
+1000838476,Cici's Pizza,1653 N Atherton St,STATE COLLEGE,PA,16803,United States of America,8142376001.0,cicis_pizza
+1000966867,Papa John's Pizza,969 Bosler Ave,LEMOYNE,PA,17043-1783,United States of America,7172147272.0,papa_johns_pizza
+2000060528,Vocelli Pizza,4315 Jonestown Rd,HARRISBURG,PA,17109-6259,United States of America,7175405343.0,vocelli_pizza
+1000862434,Fox's Pizza Den,398 York St,HANOVER,PA,17331-3233,United States of America,7176326022.0,foxs_pizza_den
+1000947966,Papa John's Pizza,308 High St,LOCK HAVEN,PA,17745-3728,United States of America,5708931772.0,papa_johns_pizza
+1000943913,Papa John's Pizza,240 E Broad St,WEST HAZLETON,PA,18202-3814,United States of America,5704559500.0,papa_johns_pizza
+1000964405,Papa John's Pizza,83 Parkhurst Rd,CHELMSFORD,MA,1824,United States of America,9789370111.0,papa_johns_pizza
+2000023990,Papa John's Pizza,296 Washington St,EAST STROUDSBURG,PA,18301,United States of America,5704248848.0,papa_johns_pizza
+1000930927,Papa John's Pizza,113 S Main Ave,SCRANTON,PA,18504,United States of America,5705587272.0,papa_johns_pizza
+1000956843,Papa John's Pizza,529 Scott St,WILKES BARRE,PA,18702,United States of America,5708233000.0,papa_johns_pizza
+1000946588,Papa John's Pizza,285 Bethlehem Pike,COLMAR,PA,18915-9807,United States of America,2159969993.0,papa_johns_pizza
+1000806625,Pizza Hut,1207 Macdade Blvd,COLLINGDALE,PA,19023,United States of America,6102578300.0,pizza_hut
+2000001532,Chuck E Cheese's,381 Baltimor Pike,SPRINGFIELD,PA,19064,United States of America,6103289977.0,chuck_e_cheeses
+1000949194,Papa John's Pizza,330 W Trenton Ave,MORRISVILLE,PA,19067-2041,United States of America,2152951500.0,papa_johns_pizza
+1000944638,Sbarro,2500 W Moreland Rd,WILLOW GROVE,PA,19090-4017,United States of America,2156591878.0,sbarro
+1000949191,Papa John's Pizza,330 W Oregon Ave,PHILADELPHIA,PA,19148-4723,United States of America,2153367272.0,papa_johns_pizza
+1000938971,Papa John's Pizza,1810 Wilmington Pike,GLEN MILLS,PA,19342-8180,United States of America,6105584333.0,papa_johns_pizza
+2000003321,Sbarro,530 JFK Memorial Hwy,NEWARK,DE,19702-5427,United States of America,3027373801.0,sbarro
+1000847584,Cici's Pizza,22599 MacArthur Blvd,CALIFORNIA,MD,20619-3080,United States of America,2407250000.0,cicis_pizza
+1000967860,Sbarro,PO Box 1137,ABERDEEN,MD,21001-6137,United States of America,,sbarro
+2000060501,Vocelli Pizza,9717 York Rd,COCKEYSVILLE,MD,21030-4923,United States of America,4106286330.0,vocelli_pizza
+1000958307,Sbarro,585 E Ordnance Rd,GLEN BURNIE,MD,21060-6555,United States of America,4105530577.0,sbarro
+1000952950,Sbarro,417 Washington St,BOSTON,MA,2108,United States of America,6174233971.0,sbarro
+1000966826,Papa John's Pizza,9635 Reisterstown Rd,OWINGS MILLS,MD,21117-4134,United States of America,4109021000.0,papa_johns_pizza
+1000950134,Sbarro,350 Longwood Ave,BOSTON,MA,2115,United States of America,6177308230.0,sbarro
+1000957824,Sbarro,5625 Odonnell St,BALTIMORE,MD,21224-4630,United States of America,4106319804.0,sbarro
+2000060555,Vocelli Pizza,4132 E Joppa Rd,NOTTINGHAM,MD,21236,United States of America,4102566173.0,vocelli_pizza
+2000060483,Vocelli Pizza,909 Bay Ridge Rd,ANNAPOLIS,MD,21403-3934,United States of America,4102670003.0,vocelli_pizza
+1000947192,Sbarro,3 Cambridge Ctr,CAMBRIDGE,MA,2142,United States of America,6174949009.0,sbarro
+1000835003,Fox's Pizza Den,14508 McMullen Hwy SW,CRESAPTOWN,MD,21502,United States of America,3017293369.0,foxs_pizza_den
+2000060506,Vocelli Pizza,517 N Centre St,CUMBERLAND,MD,21502-2102,United States of America,3017221080.0,vocelli_pizza
+1000866138,Little Caesars Pizza,446 Weber Rd,OAKLAND,MD,21550-1943,United States of America,3013346111.0,little_caesars_pizza
+2000003394,Sbarro,250 Granite St,BRAINTREE,MA,2184,United States of America,,sbarro
+1000819383,Pizza Hut,7205 Coastal Hwy,OCEAN CITY,MD,21842,United States of America,4105242045.0,pizza_hut
+1000960219,Sbarro,6501 Springfield Mall,SPRINGFIELD,VA,22150-1702,United States of America,7037197782.0,sbarro
+1000864081,Fox's Pizza Den,4135 Merchant Plz,WOODBRIDGE,VA,22192-5088,United States of America,7035909555.0,foxs_pizza_den
+1000937751,Sbarro,1688 Crystal Square Arc,ARLINGTON,VA,22202-3322,United States of America,7034134256.0,sbarro
+1000948395,Sbarro,137 Spotsylvania Mall,FREDERICKSBURG,VA,22407,United States of America,5407860858.0,sbarro
+2000060595,Vocelli Pizza,381 Gateway Dr,WINCHESTER,VA,22603-5851,United States of America,5405351595.0,vocelli_pizza
+2000060520,Vocelli Pizza,135 Crooked Run Plz,FRONT ROYAL,VA,22630-7013,United States of America,,vocelli_pizza
+1000826157,Godfather's Pizza,10935 N Valley Pike,BROADWAY,VA,22815-3786,United States of America,5409019198.0,godfathers_pizza
+1000885846,Little Caesars Pizza,930 W Grace St,RICHMOND,VA,23220,United States of America,8043584116.0,little_caesars_pizza
+1000811307,Pizza Hut,2204 E Laburnum Ave,RICHMOND,VA,23222-2414,United States of America,8043294412.0,pizza_hut
+1000834677,Cici's Pizza,1434 Sams Dr,CHESAPEAKE,VA,23320-4753,United States of America,7573827100.0,cicis_pizza
+1000816088,Pizza Hut,4425 Shore Dr Ste 103,VIRGINIA BEACH,VA,23455,United States of America,757464999.0,pizza_hut
+1000963219,Sbarro,782 New River Rd,CHRISTIANSBURG,VA,24073-6503,United States of America,5403814525.0,sbarro
+2000003497,Sbarro,E Main St,RADFORD,VA,24142,United States of America,,sbarro
+1000869485,Little Caesars Pizza,505 Hardy Rd,VINTON,VA,24179-3526,United States of America,5403440009.0,little_caesars_pizza
+1000833853,Little Caesars Pizza,1400 Maccorkle Ave,SAINT ALBANS,WV,25177-1833,United States of America,3047224216.0,little_caesars_pizza
+1000827081,Little Caesars Pizza,1112 Fledderjohn Rd,CHARLESTON,WV,25314-4205,United States of America,3043467703.0,little_caesars_pizza
+2000060499,Vocelli Pizza,126 Patrick Henry Way,CHARLES TOWN,WV,25414-3852,United States of America,3047247000.0,vocelli_pizza
+1000836974,Fox's Pizza Den,156 Harper Park Dr,BECKLEY,WV,25801-2660,United States of America,3042526475.0,foxs_pizza_den
+1000823141,Cici's Pizza,1002 N Eisenhower Dr,BECKLEY,WV,25801-3116,United States of America,3042568399.0,cicis_pizza
+1000830164,Fox's Pizza Den,1221 Johnson Ave,BRIDGEPORT,WV,26330-1395,United States of America,3048421700.0,foxs_pizza_den
+1000878343,Little Caesars Pizza,705 S Main St,KING,NC,27021-9018,United States of America,3369832382.0,little_caesars_pizza
+1000966166,Sbarro,921 Eastchester Dr,HIGH POINT,NC,27262-8611,United States of America,3368876172.0,sbarro
+2000046166,Donatos Pizza,5872 Samet Dr,HIGH POINT,NC,27265-3649,United States of America,3368872300.0,donatos_pizza
+1000970223,Domino's Pizza,829 Albemarle Rd,TROY,NC,27371-8682,United States of America,9105721111.0,dominos_pizza
+1000897492,Hungry Howie's Pizza & Subs,2712 N Church St,GREENSBORO,NC,27405-4176,United States of America,3363758666.0,hungry_howies_pizza_&_subs
+1000968364,Pizza Inn,1015 Summit Ave,GREENSBORO,NC,27405-7007,United States of America,3362733625.0,pizza_inn
+2000046167,Donatos Pizza,411 Pisgah Church Rd,GREENSBORO,NC,27455-2590,United States of America,3362823381.0,donatos_pizza
+1000966010,Papa John's Pizza,914 Highway 42 W,CLAYTON,NC,27520,United States of America,9193599898.0,papa_johns_pizza
+1000855118,Pizza Inn,3009 E Ash St,GOLDSBORO,NC,27534-4522,United States of America,9197788500.0,pizza_inn
+2000001185,Fox's Pizza Den,225 Weathers Street,YOUNGSVILLE,NC,27596,United States of America,9195625505.0,foxs_pizza_den
+1000847153,Pizza Inn,2221 New Hope Church Rd,RALEIGH,NC,27604-1600,United States of America,9198723422.0,pizza_inn
+1000885504,Little Caesars Pizza,9101125 Leesville Road,RALEIGH,NC,27613,United States of America,9198462017.0,little_caesars_pizza
+1000881277,Cici's Pizza,7901 Falls of Neuse Rd,RALEIGH,NC,27615-3347,United States of America,9198612424.0,cicis_pizza
+1000888298,Godfather's Pizza,PO Box 90668,RALEIGH,NC,27675-0668,United States of America,9198400506.0,godfathers_pizza
+2000003472,Sbarro,E 5th St & Founders Dr,GREENVILLE,NC,27858,United States of America,,sbarro
+1000933564,Papa John's Pizza,1308 E 10th St,ROANOKE RAPIDS,NC,27870-3127,United States of America,2525375608.0,papa_johns_pizza
+1000878417,Pizza Inn,707 N Main St,ROBERSONVILLE,NC,27871-9556,United States of America,2527954747.0,pizza_inn
+1000877543,Pizza Inn,691 S Hughes Blvd,ELIZABETH CITY,NC,27909-4530,United States of America,2523384144.0,pizza_inn
+2000003471,Sbarro,1480 Concord Pkwy N,CONCORD,NC,28025-2831,United States of America,,sbarro
+2000041419,California Pizza Kitchen,8111 Concord Mills Blvd,CONCORD,NC,28027-4411,United States of America,7049799000.0,california_pizza_kitchen
+1000917204,Domino's Pizza,2746 SR 16,DENVER,NC,28037,United States of America,7044898686.0,dominos_pizza
+2000060532,Vocelli Pizza,2918 Gilead Road,HUNTERSVILLE,NC,28078,United States of America,,vocelli_pizza
+1000835136,Fox's Pizza Den,14601 Statesville Rd,HUNTERSVILLE,NC,28078-9033,United States of America,7048753000.0,foxs_pizza_den
+2000060549,Vocelli Pizza,109 Williamson Rd,MOORESVILLE,NC,28117-6923,United States of America,,vocelli_pizza
+1000815779,Pizza Hut,423 E Marion St,SHELBY,NC,28150-4664,United States of America,7044810071.0,pizza_hut
+1000937234,Papa John's Pizza,1620 E 4th St,CHARLOTTE,NC,28204-3248,United States of America,7043757272.0,papa_johns_pizza
+1000928587,Sbarro,101 S Tryon St,CHARLOTTE,NC,28280,United States of America,7043325005.0,sbarro
+2000089679,Pizza Inn,1962 N Roberts Ave,LUMBERTON,NC,28358-3120,United States of America,9106714115.0,pizza_inn
+1000950169,Sbarro,3500 Oleander Dr,WILMINGTON,NC,28403-0842,United States of America,9103136900.0,sbarro
+1000901053,Hungry Howie's Pizza & Subs,420 Eastwood Rd,WILMINGTON,NC,28403-1866,United States of America,9103323030.0,hungry_howies_pizza_&_subs
+1000959028,Papa John's Pizza,604 Shipyard Blvd,WILMINGTON,NC,28412-6432,United States of America,9107930200.0,papa_johns_pizza
+1000935745,Papa John's Pizza,150 Holden Beach Rd SW,SHALLOTTE,NC,28470-8159,United States of America,9107553337.0,papa_johns_pizza
+1000854164,Pizza Inn,2918 N Heritage St,KINSTON,NC,28501-1580,United States of America,2525239700.0,pizza_inn
+1000952226,Papa John's Pizza,4010 Arendell St,MOREHEAD CITY,NC,28557-2982,United States of America,2522477272.0,papa_johns_pizza
+1000960736,Papa John's Pizza,675 W Fire Tower Rd,WINTERVILLE,NC,28590-9232,United States of America,2523535300.0,papa_johns_pizza
+1000872240,Pizza Inn,Tepee Village Center,CHEROKEE,NC,28719,United States of America,8284977150.0,pizza_inn
+1000887907,Fox's Pizza Den,Hwy 64 W,ETOWAH,NC,28729,United States of America,8288904900.0,foxs_pizza_den
+1000828214,Little Caesars Pizza,1151 Russ Ave,WAYNESVILLE,NC,28786-2964,United States of America,8284520000.0,little_caesars_pizza
+1000845707,Little Caesars Pizza,211 Asheville Hwy,HENDERSONVILLE,NC,28791,United States of America,8286971700.0,little_caesars_pizza
+1000818431,Pizza Hut,633 Spartanburg Hwy,HENDERSONVILLE,NC,28792-5762,United States of America,8286922804.0,pizza_hut
+2000003114,Cici's Pizza,1829 Hendersonville Rd,ASHEVILLE,NC,28803-3248,United States of America,8282741979.0,cicis_pizza
+1000811532,Pizza Hut,2250 Peach Orchard Rd,SUMTER,SC,29154-1112,United States of America,8034993385.0,pizza_hut
+1000882524,Pizza Inn,8151 Warren H Abernathy Hwy,SPARTANBURG,SC,29301-2451,United States of America,8645958110.0,pizza_inn
+1000887958,Pizza Inn,120 Robin Helton Dr,BOILING SPRINGS,SC,29316-5388,United States of America,8648141700.0,pizza_inn
+1000844481,Pizza Inn,203 W Jefferies St,GAFFNEY,SC,29341-2315,United States of America,8644890244.0,pizza_inn
+1000956757,Papa John's Pizza,525 E Bay St,CHARLESTON,SC,29403,United States of America,8437226666.0,papa_johns_pizza
+1000875091,Pizza Inn,6216 Rivers Ave,NORTH CHARLESTON,SC,29406-4929,United States of America,8435538710.0,pizza_inn
+1000941490,Sbarro,2070 Sam Rittenberg Blvd,CHARLESTON,SC,29407-4642,United States of America,8437690456.0,sbarro
+1000955223,Sbarro,4840 Tanger Outlet Blvd,NORTH CHARLESTON,SC,29418-6961,United States of America,8435546000.0,sbarro
+1000828096,Pizza Inn,115 E 5th North St,SUMMERVILLE,SC,29483-6821,United States of America,8438716302.0,pizza_inn
+1000823854,Cici's Pizza,10150 Dorchester Rd,SUMMERVILLE,SC,29485,United States of America,8438712499.0,cicis_pizza
+1000950402,Papa John's Pizza,355 Woodruff Rd,GREENVILLE,SC,29607-3481,United States of America,8646277272.0,papa_johns_pizza
+1000833001,Godfather's Pizza,135 Sutton Ridge Ln,FORT MILL,SC,29708-9400,United States of America,8038027340.0,godfathers_pizza
+1000879185,Fox's Pizza Den,723 Bethel St,CLOVER,SC,29710-1157,United States of America,8032223369.0,foxs_pizza_den
+1000845865,Pizza Inn,2121 Boundary St,BEAUFORT,SC,29902-6808,United States of America,8433798646.0,pizza_inn
+1000818991,Pizza Hut,70 Pope Ave,HILTON HEAD ISLAND,SC,29928-4766,United States of America,8436862600.0,pizza_hut
+1000898011,Villa Pizza,2929 Turner Hill Rd,LITHONIA,GA,30038-6929,United States of America,6785261784.0,villa_pizza
+2000001177,Fox's Pizza Den,3157 Sugarloaf Pkwy,LAWRENCEVILLE,GA,30045,United States of America,7702375727.0,foxs_pizza_den
+1000876163,Fox's Pizza Den,650 Henderson Dr,CARTERSVILLE,GA,30120-3700,United States of America,7706077357.0,foxs_pizza_den
+1000856892,Cici's Pizza,3160 Cobb Pkwy NW,KENNESAW,GA,30152,United States of America,7705290900.0,cicis_pizza
+1000874012,Fox's Pizza Den,6015 Lynmark Way,FAIRBURN,GA,30213,United States of America,7708924050.0,foxs_pizza_den
+1000834499,Cici's Pizza,1424 N Expressway,GRIFFIN,GA,30223,United States of America,7702285900.0,cicis_pizza
+2000001176,Fox's Pizza Den,2327 Jonesboro Rd,HAMPTON,GA,30228-2718,United States of America,6784323699.0,foxs_pizza_den
+1000889129,Hungry Howie's Pizza & Subs,10237 Tara Blvd,JONESBORO,GA,30236,United States of America,7704771616.0,hungry_howies_pizza_&_subs
+1000966347,Papa John's Pizza,931 N Church St,THOMASTON,GA,30286-3623,United States of America,7066477272.0,papa_johns_pizza
+1000927883,Papa John's Pizza,10 Northside Dr NW,ATLANTA,GA,30314,United States of America,6785247272.0,papa_johns_pizza
+2000003342,Sbarro,11700 Spine Rd,ATLANTA,GA,30345,United States of America,,sbarro
+1000874347,Pizza Inn,608 Northside Dr W,STATESBORO,GA,30458-4598,United States of America,9127641444.0,pizza_inn
+1000840619,Pizza Inn,1801 Lyons Hwy,VIDALIA,GA,30474,United States of America,9125371411.0,pizza_inn
+1000868824,Fox's Pizza Den,500 Great Oaks Cr,MONROE,GA,30655,United States of America,7702660004.0,foxs_pizza_den
+1000963931,Papa John's Pizza,809 N Main St,LA FAYETTE,GA,30728-2245,United States of America,7066380605.0,papa_johns_pizza
+1000869848,Fox's Pizza Den,510 Settlement Rd,GRAY,GA,31032-6033,United States of America,4789861243.0,foxs_pizza_den
+1000827316,Godfather's Pizza,112 Vilseck,FT STEWART,GA,31314,United States of America,9128760626.0,godfathers_pizza
+1000887184,Little Caesars Pizza,9701 Ford Ave,RICHMOND HILL,GA,31324-6423,United States of America,9127567492.0,little_caesars_pizza
+1000826452,Pizza Inn,1100 Eisenhower Dr,SAVANNAH,GA,31406,United States of America,9123560075.0,pizza_inn
+1000837307,Fox's Pizza Den,1591 Baytree Rd,VALDOSTA,GA,31602-2748,United States of America,2292931369.0,foxs_pizza_den
+1000878109,Fox's Pizza Den,701 S Hutchinson Ave,ADEL,GA,31620-3676,United States of America,2298963000.0,foxs_pizza_den
+1000848866,Fox's Pizza Den,2374 Ledo Rd,ALBANY,GA,31707,United States of America,2298837595.0,foxs_pizza_den
+2000015964,Pizza Hut,25 Doc Darbyshire Rd,MOULTRIE,GA,31768-4023,United States of America,,pizza_hut
+1000938237,Papa John's Pizza,1721 S 8th St,FERNANDINA BEACH,FL,32034-3073,United States of America,9042618080.0,papa_johns_pizza
+2000023845,Hungry Howie's Pizza & Subs,6852 Suwannee Plaza Ln,LIVE OAK,FL,32060-7495,United States of America,3863300331.0,hungry_howies_pizza_&_subs
+1000912750,Johnnie's Pizza,1590 Dunlawton Ave,PORT ORANGE,FL,32127-4752,United States of America,3867606766.0,johnnies_pizza
+1000968874,Little Caesars Pizza,175 S Nova Rd,ORMOND BEACH,FL,32174-0407,United States of America,3866778611.0,little_caesars_pizza
+1000940411,Sbarro,2 Independent Dr,JACKSONVILLE,FL,32202-5012,United States of America,9043556999.0,sbarro
+2000003097,Cici's Pizza,9980 Old Baymeadows Rd,JACKSONVILLE,FL,32256-8103,United States of America,9045642225.0,cicis_pizza
+1000919262,Domino's Pizza,3507 N Monroe St,TALLAHASSEE,FL,32303,United States of America,8505622523.0,dominos_pizza
+1000944090,Sbarro,2415 N Monroe St,TALLAHASSEE,FL,32303-4156,United States of America,8503863213.0,sbarro
+1000879216,Little Caesars Pizza,724 W 23rd St,PANAMA CITY,FL,32405-3923,United States of America,8507856197.0,little_caesars_pizza
+1000811943,Pizza Hut,2408 S Ferdon Blvd,CRESTVIEW,FL,32536-8462,United States of America,8506829521.0,pizza_hut
+1000857689,Cici's Pizza,3246 SW 35th Blvd,GAINESVILLE,FL,32608-2415,United States of America,3526921260.0,cicis_pizza
+1000900032,Hungry Howie's Pizza & Subs,3717 Lake Emma Rd,LAKE MARY,FL,32746-3396,United States of America,4073333737.0,hungry_howies_pizza_&_subs
+1000913658,Domino's Pizza,17855 US Highway 441,MOUNT DORA,FL,32757-6724,United States of America,3523831010.0,dominos_pizza
+1000846777,Little Caesars Pizza,2200 Winter Springs Blvd,OVIEDO,FL,32765-9346,United States of America,4073650908.0,little_caesars_pizza
+1000959803,Papa John's Pizza,6325 N Orange Blossom Trl,ORLANDO,FL,32810-4275,United States of America,4072927272.0,papa_johns_pizza
+2000003330,Sbarro,4000 Central Florida Blvd,ORLANDO,FL,32816-8005,United States of America,4072752717.0,sbarro
+2000036989,Hungry Howie's Pizza & Subs,6408 W Colonial Dr,ORLANDO,FL,32818-6820,United States of America,4076013999.0,hungry_howies_pizza_&_subs
+1000927537,Domino's Pizza,S Kirkman & Windhover,ORLANDO,FL,32819,United States of America,4072488434.0,dominos_pizza
+1000956982,Sbarro,5320 S Kirkman Rd,ORLANDO,FL,32819,United States of America,4073519944.0,sbarro
+1000882949,Cici's Pizza,8261 S John Young Pkwy,ORLANDO,FL,32819-9023,United States of America,4073524244.0,cicis_pizza
+1000852845,Little Caesars Pizza,276 E Eau Gallie Blvd,INDIAN HARBOUR BEACH,FL,32937-4874,United States of America,3217730231.0,little_caesars_pizza
+2000027284,Little Caesars Pizza,1555 US Highway 1,VERO BEACH,FL,32960,United States of America,7727704041.0,little_caesars_pizza
+2000060531,Vocelli Pizza,6649 Taft St,HOLLYWOOD,FL,33024-4010,United States of America,,vocelli_pizza
+2000060557,Vocelli Pizza,18450 Pines Blvd,PEMBROKE PINES,FL,33029,United States of America,,vocelli_pizza
+2000012794,Little Caesars Pizza,91200 Overseas Hwy,TAVERNIER,FL,33070-2531,United States of America,3058524480.0,little_caesars_pizza
+2000060502,Vocelli Pizza,4570 Lyons Rd,COCONUT CREEK,FL,33073-3483,United States of America,,vocelli_pizza
+2000003323,Sbarro,1350 Miller Dr,CORAL GABLES,FL,33124,United States of America,,sbarro
+1000813015,Pizza Hut,2859 Bird Ave,MIAMI,FL,33133-4754,United States of America,3054434800.0,pizza_hut
+1000964957,Papa John's Pizza,860 NE 79th St,MIAMI,FL,33138-4720,United States of America,3057542666.0,papa_johns_pizza
+1000883058,Little Caesars Pizza,8300 W Flagler St,MIAMI,FL,33144,United States of America,3055511999.0,little_caesars_pizza
+1000844833,Little Caesars Pizza,20505 S Dixie Hwy,CUTLER BAY,FL,33189,United States of America,3052335535.0,little_caesars_pizza
+1000941349,Sbarro,20505 S Dixie Hwy,CUTLER BAY,FL,33189-1262,United States of America,3052550010.0,sbarro
+2000060580,Vocelli Pizza,9330 W Commercial Blvd,SUNRISE,FL,33351-4302,United States of America,,vocelli_pizza
+1000819787,Pizza Hut,7703 S Dixie Hwy,WEST PALM BEACH,FL,33405-4817,United States of America,5615865000.0,pizza_hut
+1000813705,Pizza Hut,3115 45th St,WEST PALM BEACH,FL,33407-1915,United States of America,5616405353.0,pizza_hut
+1000816308,Pizza Hut,4607 N Australian Ave,WEST PALM BEACH,FL,33407-2303,United States of America,5618637771.0,pizza_hut
+1000868501,Cici's Pizza,4957 W Atlantic Ave,DELRAY BEACH,FL,33445-3842,United States of America,5614956681.0,cicis_pizza
+1000808087,Pizza Hut,145 W Indiantown Rd,JUPITER,FL,33458-3531,United States of America,5615754295.0,pizza_hut
+2000027336,Little Caesars Pizza,2233 W C 48,BUSHNELL,FL,33513-8077,United States of America,3527937993.0,little_caesars_pizza
+2000009014,CiCi's Pizza,6834 Gall Blvd,ZEPHYRHILLS,FL,33542,United States of America,8137801014.0,cicis_pizza
+1000915829,Domino's Pizza,22911 State Road 54,LUTZ,FL,33549-6932,United States of America,8139091130.0,dominos_pizza
+1000832323,Cici's Pizza,13141 US Highway 301 S,RIVERVIEW,FL,33578-7401,United States of America,8136718265.0,cicis_pizza
+1000942863,Sbarro,2223 N West Shore Blvd,TAMPA,FL,33607,United States of America,8136738694.0,sbarro
+2000060582,Vocelli Pizza,5001 E Fowler Ave,TAMPA,FL,33617,United States of America,8139892838.0,vocelli_pizza
+1000832283,Cici's Pizza,13121 N Dale Mabry Hwy,TAMPA,FL,33618,United States of America,8139682426.0,cicis_pizza
+1000901854,Hungry Howie's Pizza & Subs,4690 49th St N,SAINT PETERSBURG,FL,33709,United States of America,7273275555.0,hungry_howies_pizza_&_subs
+1000960988,Sbarro,6901 22nd Ave N,SAINT PETERSBURG,FL,33710,United States of America,7273476570.0,sbarro
+1000876739,Little Caesars Pizza,6653 Central Ave,SAINT PETERSBURG,FL,33710-8307,United States of America,7273457622.0,little_caesars_pizza
+1000854553,Fox's Pizza Den,29835 US Highway 19 N,CLEARWATER,FL,33761-1599,United States of America,7272163587.0,foxs_pizza_den
+2000037410,Hungry Howie's Pizza & Subs,325 Cornada Drive,CLEARWATER BEACH,FL,33767,United States of America,7274429292.0,hungry_howies_pizza_&_subs
+1000890374,Hungry Howie's Pizza & Subs,117 N 7th St,HAINES CITY,FL,33844-4303,United States of America,8634221111.0,hungry_howies_pizza_&_subs
+1000900923,Cozzoli's Pizzeria,4125 Cleveland Ave,FORT MYERS,FL,33901-9058,United States of America,2399393130.0,cozzolis_pizzeria
+2000012609,Little Caesars Pizza,1791 Boy Scout Dr,FORT MYERS,FL,33907-2137,United States of America,2392743022.0,little_caesars_pizza
+1000835217,Godfather's Pizza,14690 Metro Pkwy,FORT MYERS,FL,33912-4362,United States of America,9415619638.0,godfathers_pizza
+2000001175,Fox's Pizza Den,27670 Bermont Rd,PUNTA GORDA,FL,33982,United States of America,9415059696.0,foxs_pizza_den
+1000871188,Little Caesars Pizza,5337 Airport Pulling Rd N,NAPLES,FL,34109-2011,United States of America,2395662223.0,little_caesars_pizza
+1000892890,Hungry Howie's Pizza & Subs,1558 Lake Trafford Road,IMMOKALEE,FL,34142,United States of America,2396580008.0,hungry_howies_pizza_&_subs
+1000960420,Papa John's Pizza,6600 Manatee Ave W,BRADENTON,FL,34209-2368,United States of America,9417957272.0,papa_johns_pizza
+1000826539,Godfather's Pizza,11002 E State Road 64,BRADENTON,FL,34212-9704,United States of America,9417476766.0,godfathers_pizza
+1000848547,Fox's Pizza Den,2336 Gulf Gate Dr,SARASOTA,FL,34231-5608,United States of America,9419261972.0,foxs_pizza_den
+1000813064,Pizza Hut,2901 N Tamiami Trl,SARASOTA,FL,34234-5815,United States of America,9413593555.0,pizza_hut
+2000037393,Hungry Howie's Pizza & Subs,1003 E Oak Street,ARCADIA,FL,34266,United States of America,9419932999.0,hungry_howies_pizza_&_subs
+2000049223,Jet's Pizza,4391 Aidan Ln,NORTH PORT,FL,34287-4917,United States of America,9414230555.0,jets_pizza
+1000924381,Domino's Pizza,7 Davis St,KEENE,NH,3431,United States of America,6033575534.0,dominos_pizza
+1000851465,Little Caesars Pizza,2609a E Gulf To Lake Hwy,INVERNESS,FL,34453-3216,United States of America,3523445400.0,little_caesars_pizza
+1000849234,Little Caesars Pizza,2403 SW 27th Ave,OCALA,FL,34471-0807,United States of America,3522374653.0,little_caesars_pizza
+1000940135,Papa John's Pizza,19526 Cortez Blvd,BROOKSVILLE,FL,34601,United States of America,3527968004.0,papa_johns_pizza
+1000970033,Little Caesars Pizza,682 S Broad St,BROOKSVILLE,FL,34601-2846,United States of America,3527997889.0,little_caesars_pizza
+1000827455,Godfather's Pizza,11224 Land O Lakes Blvd,LAND O LAKES,FL,34638-6026,United States of America,8132356259.0,godfathers_pizza
+2000023671,Hungry Howie's Pizza & Subs,40114 US 19 North,TARPON SPRINGS,FL,34689,United States of America,7279389626.0,hungry_howies_pizza_&_subs
+1000839879,Godfather's Pizza,17431 US Highway 192,CLERMONT,FL,34714-9663,United States of America,3522417478.0,godfathers_pizza
+1000833347,Godfather's Pizza,13707 W Colonial Dr,WINTER GARDEN,FL,34787-4201,United States of America,4079059520.0,godfathers_pizza
+1000824619,Cici's Pizza,10368 S US Highway 1,PORT SAINT LUCIE,FL,34952-5605,United States of America,7723374568.0,cicis_pizza
+1000813175,Pizza Hut,2947 S US Highway 1,FORT PIERCE,FL,34982-6335,United States of America,7724606800.0,pizza_hut
+1000962373,Sbarro,738 Brookwood Vlg,HOMEWOOD,AL,35209-4549,United States of America,2054230099.0,sbarro
+1000846107,Little Caesars Pizza,2142 Tyler Rd,BIRMINGHAM,AL,35226,United States of America,2059785900.0,little_caesars_pizza
+1000842732,Little Caesars Pizza,1948 Montgomery Hwy S,BIRMINGHAM,AL,35244-1141,United States of America,2059854078.0,little_caesars_pizza
+1000968989,Little Caesars Pizza,1948 Montgomery Hwy S,BIRMINGHAM,AL,35244-1141,United States of America,2059854078.0,little_caesars_pizza
+1000809731,Pizza Hut,1817 University Blvd,TUSCALOOSA,AL,35401-1517,United States of America,2053916846.0,pizza_hut
+1000833397,Chuck E Cheese's,1375 McFarland Blvd E,TUSCALOOSA,AL,35404-3839,United States of America,2057589682.0,chuck_e_cheeses
+1000858664,Fox's Pizza Den,3378 Cloverdale Rd,FLORENCE,AL,35633-1403,United States of America,2567672332.0,foxs_pizza_den
+1000827526,Fox's Pizza Den,112 S Main St,BRUNDIDGE,AL,36010-1809,United States of America,3347359555.0,foxs_pizza_den
+1000882376,Fox's Pizza Den,812 S Eufaula Ave,EUFAULA,AL,36027-2606,United States of America,3346878007.0,foxs_pizza_den
+1000915434,Pizza Pro,219 Cedar St,GREENVILLE,AL,36037-2205,United States of America,3343822288.0,pizza_pro
+1000857543,Little Caesars Pizza,323 Greenville Byp,GREENVILLE,AL,36037-3728,United States of America,3343717007.0,little_caesars_pizza
+1000905251,Hungry Howie's Pizza & Subs,717 E Main St,PRATTVILLE,AL,36067-3603,United States of America,3343616669.0,hungry_howies_pizza_&_subs
+1000836775,Godfather's Pizza,1549 Gulf Shores Pkwy,GULF SHORES,AL,36542,United States of America,2519684616.0,godfathers_pizza
+1000862362,Fox's Pizza Den,3959 Cottage Hill Rd,MOBILE,AL,36609-4212,United States of America,2516605353.0,foxs_pizza_den
+1000903368,Hungry Howie's Pizza & Subs,5701 Moffett Rd,MOBILE,AL,36618-2619,United States of America,2513420007.0,hungry_howies_pizza_&_subs
+1000866382,Little Caesars Pizza,4502 Schillinger Rd,MOBILE,AL,36619,United States of America,,little_caesars_pizza
+1000884053,Godfather's Pizza,8658 Highway 25 E,CROSS PLAINS,TN,37049-4870,United States of America,6156541400.0,godfathers_pizza
+1000945624,Papa John's Pizza,268 W Main St,HENDERSONVILLE,TN,37075,United States of America,6158241000.0,papa_johns_pizza
+1000936536,Papa John's Pizza,15542 W Tres Ave,HERMITAGE,TN,37076,United States of America,6158714567.0,papa_johns_pizza
+2000015983,Pizza Inn,4205 Manson Pike,MURFREESBORO,TN,37128,United States of America,6159628342.0,pizza_inn
+2000003489,Sbarro,465 Opry Mills Dr,NASHVILLE,TN,37243,United States of America,,sbarro
+2000001197,Fox's Pizza Den,2530 E Oakland Ave,JOHNSON CITY,TN,37601-1600,United States of America,4236310115.0,foxs_pizza_den
+1000885685,Godfather's Pizza,915 Patterson Rd,HARROGATE,TN,37752,United States of America,4238694771.0,godfathers_pizza
+1000851395,Pizza Inn,2601 US Highway 411 S,MARYVILLE,TN,37801-8637,United States of America,8656813332.0,pizza_inn
+1000842027,Fox's Pizza Den,1901 Sevierville Rd,MARYVILLE,TN,37804-5117,United States of America,8659833339.0,foxs_pizza_den
+1000814422,Pizza Hut,3428 N Broadway St,KNOXVILLE,TN,37917-2737,United States of America,8656886020.0,pizza_hut
+1000960526,Papa John's Pizza,6657 Winchester Rd,MEMPHIS,TN,38115-4335,United States of America,9016247770.0,papa_johns_pizza
+1000914978,Pizza Pro,2080 E Chester St,JACKSON,TN,38301-0923,United States of America,7314220007.0,pizza_pro
+1000941090,Sbarro,2021 N Highland Ave,JACKSON,TN,38305-4903,United States of America,7316689663.0,sbarro
+1000874374,Pizza Inn,6088 S 1st St,MILAN,TN,38358-3131,United States of America,7316869811.0,pizza_inn
+2000002307,Godfather's Pizza,89 E Main St,PARSONS,TN,38363-2307,United States of America,7318478888.0,godfathers_pizza
+2000003056,Pizza Pro,119 Highway 6 W,TUPELO,MS,38801-7894,United States of America,6628426226.0,pizza_pro
+2000015986,Pizza Inn,602 S Cass St,CORINTH,MS,38834,United States of America,6622872323.0,pizza_inn
+1000885982,Pizza Inn,924 Highway 82 W,GREENWOOD,MS,38930-2726,United States of America,6624551616.0,pizza_inn
+1000887957,Pizza Inn,Hwy 82 W @ Sunflower Rd,ITTA BENA,MS,38941,United States of America,6622549535.0,pizza_inn
+1000837256,Pizza Inn,15865 N Jackson St,DURANT,MS,39063-3104,United States of America,6626533932.0,pizza_inn
+1000912581,Pizza Pro,15379 N Jackson St,DURANT,MS,39063-4007,United States of America,6626533931.0,pizza_pro
+1000808694,Pizza Hut,1589 Simpson Highway 149,MENDENHALL,MS,39114-3564,United States of America,6018472331.0,pizza_hut
+2000051793,GattiTown,772 Lake Harbour Dr,RIDGELAND,MS,39157,United States of America,6016059191.0,gattitown
+1000851181,Little Caesars Pizza,2584 Robinson Road,JACKSON,MS,39209,United States of America,6013526300.0,little_caesars_pizza
+1000814743,Pizza Hut,3610 W Beach Blvd,GULFPORT,MS,39501,United States of America,2282149989.0,pizza_hut
+1000938218,Papa John's Pizza,1720 E Pass Rd,GULFPORT,MS,39507-3528,United States of America,2288972010.0,papa_johns_pizza
+1000811983,Pizza Hut,2415 Market St,PASCAGOULA,MS,39567-5155,United States of America,2287622999.0,pizza_hut
+1000950295,Papa John's Pizza,3523 Denny Ave,PASCAGOULA,MS,39581-5416,United States of America,2287697272.0,papa_johns_pizza
+1000828094,Pizza Inn,115 E Roane Ave,EUPORA,MS,39744,United States of America,6622582397.0,pizza_inn
+2000003409,Sbarro,85 Old Main,MISSISSIPPI STATE,MS,39762,United States of America,,sbarro
+1000842201,Little Caesars Pizza,191 Outer Loop,LOUISVILLE,KY,40214-5544,United States of America,5023632952.0,little_caesars_pizza
+2000003381,Sbarro,4801 Outer Loop,LOUISVILLE,KY,40219-3255,United States of America,5029683002.0,sbarro
+1000856096,Cici's Pizza,3093 Breckenridge Ln,LOUISVILLE,KY,40220-2101,United States of America,5024526700.0,cicis_pizza
+2000003374,Sbarro,124 Central Facilities,LEXINGTON,KY,40506-0001,United States of America,,sbarro
+2000003376,Sbarro,19 Donovan Dr,LEXINGTON,KY,40506-0001,United States of America,,sbarro
+1000903563,Papa Murphy's Take 'N' Bake Pizza,590 Clock Tower Way,CRESCENT SPRINGS,KY,41017-2704,United States of America,8593416900.0,papa_murphys_take_n_bake_pizza
+1000967381,Sbarro,Cincinnati Int'l Airport,ERLANGER,KY,41018,United States of America,,sbarro
+2000015179,Papa Murphy's Take 'N' Bake Pizza,4416 Dixie Hwy,ERLANGER,KY,41018-1822,United States of America,8593425150.0,papa_murphys_take_n_bake_pizza
+1000895716,Papa Murphy's Take 'N' Bake Pizza,2140 Declaration Dr,INDEPENDENCE,KY,41051-7034,United States of America,8593594444.0,papa_murphys_take_n_bake_pizza
+2000001529,Chuck E Cheese's,166 Philbrook Ave,SOUTH PORTLAND,ME,4106,United States of America,2077735550.0,chuck_e_cheeses
+1000939538,Papa John's Pizza,189 Hopper Cir,HAZARD,KY,41701-1123,United States of America,6064871945.0,papa_johns_pizza
+1000846695,Fox's Pizza Den,220 Sam Walton Dr,RUSSELLVILLE,KY,42276-9388,United States of America,2707261992.0,foxs_pizza_den
+1000898406,Hungry Howie's Pizza & Subs,3040 Ring Rd,ELIZABETHTOWN,KY,42701-5920,United States of America,2707690909.0,hungry_howies_pizza_&_subs
+1000837215,Godfather's Pizza,1581 E Broadway St,CAMPBELLSVILLE,KY,42718-9229,United States of America,2704654000.0,godfathers_pizza
+2000015175,Papa Murphy's Take 'N' Bake Pizza,406 Coshocton Avenue,MOUNT VERNON,OH,43050,United States of America,7403973809.0,papa_murphys_take_n_bake_pizza
+1000882426,Fox's Pizza Den,8130 E Broad St,REYNOLDSBURG,OH,43068-8037,United States of America,6148635500.0,foxs_pizza_den
+1000937388,Sbarro,1635 River Valley Cir S,LANCASTER,OH,43130-1465,United States of America,7406890197.0,sbarro
+1000896329,Papa Murphy's Take 'N' Bake Pizza,231 Lafayette St,LONDON,OH,43140-8567,United States of America,7408527171.0,papa_murphys_take_n_bake_pizza
+1000891859,Papa Murphy's Take 'N' Bake Pizza,1383 Leesburg Ave,WASHINGTON COURT HOUSE,OH,43160-8655,United States of America,7403357272.0,papa_murphys_take_n_bake_pizza
+1000903193,Papa Murphy's Take 'N' Bake Pizza,5548 N High St,COLUMBUS,OH,43214-1124,United States of America,6144317272.0,papa_murphys_take_n_bake_pizza
+1000869038,Little Caesars Pizza,5005 Olentangy River Rd,COLUMBUS,OH,43214-1928,United States of America,6144591297.0,little_caesars_pizza
+1000872161,Fox's Pizza Den,5560 N Hamilton Rd,COLUMBUS,OH,43230-1322,United States of America,6148553500.0,foxs_pizza_den
+1000901975,Papa Murphy's Take 'N' Bake Pizza,4778 Morse Rd,COLUMBUS,OH,43230-1355,United States of America,6144752500.0,papa_murphys_take_n_bake_pizza
+1000856234,Little Caesars Pizza,3100 S Hamilton Rd,COLUMBUS,OH,43232-5627,United States of America,6145759505.0,little_caesars_pizza
+1000824590,Fox's Pizza Den,1035 Polaris Pkwy,COLUMBUS,OH,43240-2004,United States of America,6144330777.0,foxs_pizza_den
+1000938241,Papa John's Pizza,1722 S Main St,BELLEFONTAINE,OH,43311-1510,United States of America,9375937272.0,papa_johns_pizza
+1000962320,Papa John's Pizza,7350 Airport Hwy,HOLLAND,OH,43528-8364,United States of America,4198617272.0,papa_johns_pizza
+1000857394,Fox's Pizza Den,3212 Briarfield Blvd,MAUMEE,OH,43537-9501,United States of America,4197943000.0,foxs_pizza_den
+1000958182,Papa John's Pizza,580 Craig Dr,PERRYSBURG,OH,43551-1776,United States of America,4198727272.0,papa_johns_pizza
+1000900673,Papa Murphy's Take 'N' Bake Pizza,4020 Jackman Rd,TOLEDO,OH,43612-1522,United States of America,4192696262.0,papa_murphys_take_n_bake_pizza
+1000898281,Papa Murphy's Take 'N' Bake Pizza,3010 Glendale Ave,TOLEDO,OH,43614-2564,United States of America,4197243232.0,papa_murphys_take_n_bake_pizza
+2000060577,Vocelli Pizza,165 W Main St,SAINT CLAIRSVILLE,OH,43950-1224,United States of America,7406954005.0,vocelli_pizza
+1000926183,Domino's Pizza,8549 Washington St,CHAGRIN FALLS,OH,44023-5325,United States of America,4405431004.0,dominos_pizza
+1000895192,Hungry Howie's Pizza & Subs,204 Cleveland St,ELYRIA,OH,44035-6140,United States of America,4403661123.0,hungry_howies_pizza_&_subs
+1000949270,Sbarro,3305 Midway Mall,ELYRIA,OH,44035-9003,United States of America,4403245695.0,sbarro
+1000902174,Hungry Howie's Pizza & Subs,4927 Broadway,LORAIN,OH,44052-5558,United States of America,4405508100.0,hungry_howies_pizza_&_subs
+1000879986,Little Caesars Pizza,7488 Mentor Ave,MENTOR,OH,44060-5440,United States of America,4409750200.0,little_caesars_pizza
+1000965000,Papa John's Pizza,8630 Mentor Ave,MENTOR,OH,44060-6142,United States of America,4402051997.0,papa_johns_pizza
+1000955271,Sbarro,486 Great Northern Mall,NORTH OLMSTED,OH,44070-3304,United States of America,4407771871.0,sbarro
+2000051315,Marco's Pizza,17116 Chagrin Blvd,SHAKER HEIGHTS,OH,44120-3730,United States of America,2162838880.0,marcos_pizza
+1000901534,Hungry Howie's Pizza & Subs,4445 Mayfield Rd,SOUTH EUCLID,OH,44121-3633,United States of America,4198724731.0,hungry_howies_pizza_&_subs
+1000904734,Hungry Howie's Pizza & Subs,68 W State St,BARBERTON,OH,44203-1649,United States of America,3308480655.0,hungry_howies_pizza_&_subs
+1000809389,Pizza Hut,1733 Pearl Rd,BRUNSWICK,OH,44212-3400,United States of America,3302250995.0,pizza_hut
+1000897405,Hungry Howie's Pizza & Subs,270 E Exchange St,AKRON,OH,44304-1759,United States of America,3307612429.0,hungry_howies_pizza_&_subs
+2000051288,Marco's Pizza,758 Canton Rd,AKRON,OH,44312-2621,United States of America,3307941111.0,marcos_pizza
+1000813105,Pizza Hut,2916 S Arlington Rd,AKRON,OH,44312-4718,United States of America,3306446008.0,pizza_hut
+1000819175,Pizza Hut,708 Boardman Canfield Rd,YOUNGSTOWN,OH,44512-4344,United States of America,3307260111.0,pizza_hut
+1000899483,Hungry Howie's Pizza & Subs,3464 Wales Ave NW,MASSILLON,OH,44646,United States of America,3308341970.0,hungry_howies_pizza_&_subs
+1000867368,Fox's Pizza Den,4711 Fulton Dr NW,CANTON,OH,44718-2335,United States of America,3304973650.0,foxs_pizza_den
+2000003478,Sbarro,4314 Milan Rd,SANDUSKY,OH,44870,United States of America,4196211412.0,sbarro
+1000814382,Pizza Hut,341 Ashland Rd,MANSFIELD,OH,44905-2451,United States of America,4195222491.0,pizza_hut
+1000820636,Pizza Hut,856 Park Ave W,MANSFIELD,OH,44906-3009,United States of America,4195227777.0,pizza_hut
+1000883030,Cici's Pizza,830 Eastgate South Dr,CINCINNATI,OH,45245-1545,United States of America,5137537593.0,cicis_pizza
+1000969873,Little Caesars Pizza,5750 Harrison Ave,CINCINNATI,OH,45248-1602,United States of America,5135747230.0,little_caesars_pizza
+1000839247,Little Caesars Pizza,1705 State Rte 127 North,EATON,OH,45320,United States of America,9374566835.0,little_caesars_pizza
+1000875725,Fox's Pizza Den,637 W Main St,NEW LEBANON,OH,45345-9173,United States of America,9376873697.0,foxs_pizza_den
+2000051362,Marco's Pizza,100 N Sunset Dr,PIQUA,OH,45356-2658,United States of America,9377737733.0,marcos_pizza
+1000832432,Fox's Pizza Den,132 N Dixie Dr,VANDALIA,OH,45377-2054,United States of America,9374543697.0,foxs_pizza_den
+1000882970,Fox's Pizza Den,8272 Old Troy Pike,HUBER HEIGHTS,OH,45424-1026,United States of America,9372333697.0,foxs_pizza_den
+1000860331,Fox's Pizza Den,3602 Wilmington Pike,KETTERING,OH,45429,United States of America,9373953697.0,foxs_pizza_den
+1000934609,Papa John's Pizza,1401 11th St,PORTSMOUTH,OH,45662-4203,United States of America,7403535901.0,papa_johns_pizza
+1000892528,Papa Murphy's Take 'N' Bake Pizza,1500 N Main St,FINDLAY,OH,45840-3731,United States of America,4194254545.0,papa_murphys_take_n_bake_pizza
+1000964175,Papa John's Pizza,819 Defiance St,WAPAKONETA,OH,45895-1020,United States of America,4197385858.0,papa_johns_pizza
+1000884644,Godfather's Pizza,8923 S Meridian St,INDIANAPOLIS,IN,46217-6059,United States of America,3178841010.0,godfathers_pizza
+1000819596,Pizza Hut,7410 E Washington St,INDIANAPOLIS,IN,46219-6707,United States of America,3173539389.0,pizza_hut
+1000813613,Pizza Hut,3091 N High School Rd,SPEEDWAY,IN,46224-2001,United States of America,3173295000.0,pizza_hut
+1000879057,Little Caesars Pizza,7201 Pendleton Pike,INDIANAPOLIS,IN,46226-5131,United States of America,3175683859.0,little_caesars_pizza
+1000806181,Pizza Hut,11420 E Washington St,CUMBERLAND,IN,46229-2826,United States of America,3178941408.0,pizza_hut
+1000890496,Hungry Howie's Pizza & Subs,11915 Pendleton Pike,INDIANAPOLIS,IN,46236-9711,United States of America,3178235900.0,hungry_howies_pizza_&_subs
+1000818732,Pizza Hut,6654 W Washington St,INDIANAPOLIS,IN,46241-3002,United States of America,3172479714.0,pizza_hut
+1000868283,Chuck E Cheese's,4910 W 38th St,INDIANAPOLIS,IN,46254-3322,United States of America,3172992544.0,chuck_e_cheeses
+1000907811,Papa Murphy's Take 'N' Bake Pizza,9850 E 79th St,INDIANAPOLIS,IN,46256-4822,United States of America,3175949494.0,papa_murphys_take_n_bake_pizza
+1000890654,Papa Murphy's Take 'N' Bake Pizza,1203 N Main St,CROWN POINT,IN,46307-2716,United States of America,2192269700.0,papa_murphys_take_n_bake_pizza
+1000889967,Hungry Howie's Pizza & Subs,1114 W Lincoln Hwy (US 30),SCHERERVILLE,IN,46375,United States of America,2193228886.0,hungry_howies_pizza_&_subs
+1000903987,Papa Murphy's Take 'N' Bake Pizza,6124 Broadway,MERRILLVILLE,IN,46410-3002,United States of America,2198847272.0,papa_murphys_take_n_bake_pizza
+1000884357,Godfather's Pizza,880 E Mishawaka Rd,ELKHART,IN,46517-3229,United States of America,5745223184.0,godfathers_pizza
+1000967793,Sbarro,Notre Dame University,NOTRE DAME,IN,46556,United States of America,5746312924.0,sbarro
+1000874355,Godfather's Pizza,608 S Randolph St,GARRETT,IN,46738-1458,United States of America,2603570899.0,godfathers_pizza
+1000836188,Little Caesars Pizza,1528 N Wells St,FORT WAYNE,IN,46808,United States of America,2604242048.0,little_caesars_pizza
+2000051398,Marco's Pizza,1010 Spring St,FORT WAYNE,IN,46808-3275,United States of America,2604262500.0,marcos_pizza
+1000904956,Hungry Howie's Pizza & Subs,7002 Bluffton Rd,FORT WAYNE,IN,46809-2706,United States of America,2607477770.0,hungry_howies_pizza_&_subs
+1000902590,Hungry Howie's Pizza & Subs,511 E Dupont Rd,FORT WAYNE,IN,46825-2053,United States of America,2606377900.0,hungry_howies_pizza_&_subs
+1000867270,Cici's Pizza,470 New Albany Plz,NEW ALBANY,IN,47150-4656,United States of America,8129444942.0,cicis_pizza
+1000898447,Hungry Howie's Pizza & Subs,3057 Columbus Ctr,COLUMBUS,IN,47203-3416,United States of America,8123799937.0,hungry_howies_pizza_&_subs
+1000968833,Little Caesars Pizza,16773 E 13 Mile Rd,FRASER,MI,48026-2555,United States of America,5862962600.0,little_caesars_pizza
+1000952929,Papa John's Pizza,41660 Garfield Rd,CLINTON TOWNSHIP,MI,48038-1962,United States of America,5862287272.0,papa_johns_pizza
+2000024001,Papa John's Pizza,915 24th St,PORT HURON,MI,48060-4801,United States of America,8109857272.0,papa_johns_pizza
+1000857528,Little Caesars Pizza,32261 Gratiot Avenue,ROSEVILLE,MI,48066,United States of America,5862934840.0,little_caesars_pizza
+2000027221,Little Caesars Pizza,100 E Maple Rd,TROY,MI,48083-2714,United States of America,2485884375.0,little_caesars_pizza
+1000828288,Little Caesars Pizza,11555 Engleman Rd,WARREN,MI,48089-3554,United States of America,5867548889.0,little_caesars_pizza
+1000900798,Hungry Howie's Pizza & Subs,4079 Stone School Rd,ANN ARBOR,MI,48108-9723,United States of America,7346778800.0,hungry_howies_pizza_&_subs
+1000890247,Hungry Howie's Pizza & Subs,1149 S Main St,CHELSEA,MI,48118-1408,United States of America,7344331200.0,hungry_howies_pizza_&_subs
+1000889369,Hungry Howie's Pizza & Subs,10509 W Warren Ave,DEARBORN,MI,48126-1538,United States of America,3138460922.0,hungry_howies_pizza_&_subs
+1000856555,Fox's Pizza Den,31221 Plymouth Rd,LIVONIA,MI,48150-2105,United States of America,7344581369.0,foxs_pizza_den
+1000903868,Hungry Howie's Pizza & Subs,606 S Telegraph Rd,MONROE,MI,48161-1616,United States of America,7342412720.0,hungry_howies_pizza_&_subs
+2000027361,Little Caesars Pizza,27457 Eureka Rd,ROMULUS,MI,48174-2803,United States of America,7349414440.0,little_caesars_pizza
+1000822688,Little Caesars Pizza,100 S Ann Arbor St,SALINE,MI,48176-1356,United States of America,7344294927.0,little_caesars_pizza
+1000906425,Hungry Howie's Pizza & Subs,8225 Telegraph Rd,TAYLOR,MI,48180-2230,United States of America,3132952350.0,hungry_howies_pizza_&_subs
+2000051257,Marco's Pizza,6427 N Canton Center Rd,CANTON,MI,48187-2661,United States of America,7344141800.0,marcos_pizza
+1000836037,Little Caesars Pizza,15060 Eureka Rd,SOUTHGATE,MI,48195-2614,United States of America,7342855545.0,little_caesars_pizza
+1000929464,Papa John's Pizza,10515 Joy Rd,DETROIT,MI,48204-3017,United States of America,3134917272.0,papa_johns_pizza
+1000884084,Little Caesars Pizza,8673 Rosa Parks Blvd,DETROIT,MI,48206-2201,United States of America,3138656000.0,little_caesars_pizza
+1000893866,Hungry Howie's Pizza & Subs,17627 E Warren Ave,DETROIT,MI,48224-2106,United States of America,3138860900.0,hungry_howies_pizza_&_subs
+1000837010,Little Caesars Pizza,15605 Mack Ave,DETROIT,MI,48224-3455,United States of America,3138862990.0,little_caesars_pizza
+1000842960,Little Caesars Pizza,19665 Mound Rd,DETROIT,MI,48234-2563,United States of America,3133662700.0,little_caesars_pizza
+1000954693,Papa John's Pizza,46556 Van Dyke Ave,SHELBY TOWNSHIP,MI,48317-4476,United States of America,5867397272.0,papa_johns_pizza
+1000859771,Little Caesars Pizza,35103 Grand River Ave,FARMINGTON,MI,48335-3211,United States of America,2484767025.0,little_caesars_pizza
+2000049211,Jet's Pizza,39 S Telegraph Rd,PONTIAC,MI,48341-1568,United States of America,2484547700.0,jets_pizza
+1000905947,Hungry Howie's Pizza & Subs,786 S Lapeer Rd,LAKE ORION,MI,48362,United States of America,2486933730.0,hungry_howies_pizza_&_subs
+2000136237,Marco's Pizza,21520 Novi Rd,NOVI,MI,48375-4713,United States of America,2483489900.0,marcos_pizza
+1000959036,Papa John's Pizza,6044 S Saginaw Rd,GRAND BLANC,MI,48439-8103,United States of America,8109537272.0,papa_johns_pizza
+1000941981,Papa John's Pizza,2113 S Ballenger Hwy,FLINT,MI,48503-3436,United States of America,8104247272.0,papa_johns_pizza
+1000951438,Papa John's Pizza,3849 Davison Rd,FLINT,MI,48506-4200,United States of America,8107427272.0,papa_johns_pizza
+1000862173,Little Caesars Pizza,3925 N Michigan Ave,SAGINAW,MI,48604-1883,United States of America,9897544949.0,little_caesars_pizza
+1000901020,Hungry Howie's Pizza & Subs,417 W Houghton Road,WEST BRANCH,MI,48661,United States of America,9893451234.0,hungry_howies_pizza_&_subs
+1000941043,Papa John's Pizza,202 N Walnut St,BAY CITY,MI,48706,United States of America,9898927272.0,papa_johns_pizza
+1000875538,Little Caesars Pizza,6316 Dixie Highway,BRIDGEPORT,MI,48722,United States of America,9897778830.0,little_caesars_pizza
+1000891442,Hungry Howie's Pizza & Subs,133 S Lafayette St,GREENVILLE,MI,48838-1933,United States of America,6167545400.0,hungry_howies_pizza_&_subs
+1000900636,Hungry Howie's Pizza & Subs,401 W Main St,IONIA,MI,48846-1553,United States of America,6165277100.0,hungry_howies_pizza_&_subs
+1000809462,Pizza Hut,1753 W Grand River Ave,OKEMOS,MI,48864-1803,United States of America,5173499680.0,pizza_hut
+2000051348,Marco's Pizza,620 S Washington St,OWOSSO,MI,48867-3528,United States of America,9897256900.0,marcos_pizza
+1000867415,Godfather's Pizza,4720 Beckley Rd,BATTLE CREEK,MI,49015-7932,United States of America,2699792900.0,godfathers_pizza
+1000936649,Papa John's Pizza,1571 Capital Ave NE,BATTLE CREEK,MI,49017-5393,United States of America,2696606200.0,papa_johns_pizza
+1000859616,Little Caesars Pizza,3500 E Main St,KALAMAZOO,MI,49048-1103,United States of America,2693424500.0,little_caesars_pizza
+1000889803,Hungry Howie's Pizza & Subs,3171 W Russell Rd,TECUMSEH,MI,49286-1735,United States of America,5174232766.0,hungry_howies_pizza_&_subs
+1000942236,Papa John's Pizza,215 Maple St,BIG RAPIDS,MI,49307-1805,United States of America,2315277272.0,papa_johns_pizza
+1000937365,Papa John's Pizza,1631 W Sherman Blvd,NORTON SHORES,MI,49441-3544,United States of America,2317554200.0,papa_johns_pizza
+1000904753,Hungry Howie's Pizza & Subs,6809 Cascade Rd SE,GRAND RAPIDS,MI,49546-6895,United States of America,6165759999.0,hungry_howies_pizza_&_subs
+1000960125,Papa John's Pizza,6479 28th St SE,GRAND RAPIDS,MI,49546-6917,United States of America,6169545500.0,papa_johns_pizza
+1000837185,Little Caesars Pizza,158 N 1st St,KALKASKA,MI,49646,United States of America,2312584404.0,little_caesars_pizza
+1000840832,Godfather's Pizza,1810 SW White Birch Cir,ANKENY,IA,50023,United States of America,5159650003.0,godfathers_pizza
+1000839549,Godfather's Pizza,1720 S Story St,BOONE,IA,50036-5227,United States of America,5154325573.0,godfathers_pizza
+1000870263,Godfather's Pizza,516 Hwy 141,COON RAPIDS,IA,50058,United States of America,7129995119.0,godfathers_pizza
+1000881567,Godfather's Pizza,800 4th Ave,GRINNELL,IA,50112-2041,United States of America,6412366516.0,godfathers_pizza
+2000002277,Godfather's Pizza,109 S Spruce Dr,LAMONI,IA,50140-6300,United States of America,6417845055.0,godfathers_pizza
+1000845291,Godfather's Pizza,210 E 1st St,LEON,IA,50144-1643,United States of America,6414468710.0,godfathers_pizza
+1000837819,Godfather's Pizza,1611 Sunset Dr,NORWALK,IA,50211-1350,United States of America,5159815005.0,godfathers_pizza
+2000057230,The Pizza Ranch,203 River Ave S,BELMOND,IA,50421-1017,United States of America,6414444696.0,the_pizza_ranch
+1000843995,Godfather's Pizza,201 Plaza Ln,OSAGE,IA,50461-1837,United States of America,6418322644.0,godfathers_pizza
+1000843914,Godfather's Pizza,Hwy 169 & 6th Avenue,HUMBOLDT,IA,50548,United States of America,5153321108.0,godfathers_pizza
+2000002273,Godfather's Pizza,713 Kelly Mall,CHARLES CITY,IA,50616-2225,United States of America,6412281004.0,godfathers_pizza
+1000843758,Godfather's Pizza,2002 Enterprise Ct,INDEPENDENCE,IA,50644-9611,United States of America,3193343332.0,godfathers_pizza
+1000874257,Godfather's Pizza,606 Highway 218 N,LA PORTE CITY,IA,50651-1011,United States of America,3193423333.0,godfathers_pizza
+1000882910,Godfather's Pizza,825 W Milwaukee St,NEW HAMPTON,IA,50659-1016,United States of America,6413943999.0,godfathers_pizza
+1000850593,Godfather's Pizza,2515 Hamilton Blvd,SIOUX CITY,IA,51104-4045,United States of America,7122556857.0,godfathers_pizza
+1000815391,Pizza Hut,404 N 2nd Ave E,ROCK RAPIDS,IA,51246-1704,United States of America,7124722359.0,pizza_hut
+1000807949,Pizza Hut,1419 Main St,ROCK VALLEY,IA,51247-1223,United States of America,7124762773.0,pizza_hut
+1000849974,Godfather's Pizza,248 Hwy 71 S,ARNOLDS PARK,IA,51331,United States of America,7123327109.0,godfathers_pizza
+1000860375,Godfather's Pizza,361 3rd St NW,HARTLEY,IA,51346-1000,United States of America,7127282319.0,godfathers_pizza
+1000818066,Pizza Hut,607 Main St,HAMBURG,IA,51640-1118,United States of America,7123821186.0,pizza_hut
+1000869125,Godfather's Pizza,501 Rossville Rd,WAUKON,IA,52172-2225,United States of America,5635682598.0,godfathers_pizza
+1000843940,Godfather's Pizza,201 E Hwy 563,URBANA,IA,52345,United States of America,3194432555.0,godfathers_pizza
+2000051250,Marco's Pizza,3607 1st Ave SE,CEDAR RAPIDS,IA,52402,United States of America,3193627267.0,marcos_pizza
+1000853545,Godfather's Pizza,2833 Blairs Ferry Rd NE,CEDAR RAPIDS,IA,52402-1803,United States of America,3193789921.0,godfathers_pizza
+1000890048,Papa Murphy's Take 'N' Bake Pizza,1121 Main St,KEOKUK,IA,52632-4664,United States of America,3195245888.0,papa_murphys_take_n_bake_pizza
+2000002276,Godfather's Pizza,707 Palean St,KEOKUK,IA,52632-5303,United States of America,3195248646.0,godfathers_pizza
+1000898982,Papa Murphy's Take 'N' Bake Pizza,324 W Agency Rd,WEST BURLINGTON,IA,52655-1674,United States of America,3197547799.0,papa_murphys_take_n_bake_pizza
+1000848677,Godfather's Pizza,235 N Oak Ln,BLUE GRASS,IA,52726-7706,United States of America,5633813240.0,godfathers_pizza
+1000937030,Papa John's Pizza,1604 Camanche Ave,CLINTON,IA,52732-6048,United States of America,5632432727.0,papa_johns_pizza
+1000858450,Godfather's Pizza,3340 E Kimberly Rd,DAVENPORT,IA,52807-2511,United States of America,5633594418.0,godfathers_pizza
+1000967749,Papa John's Pizza,N112W16076 Mequon Rd,GERMANTOWN,WI,53022-3302,United States of America,2622507676.0,papa_johns_pizza
+1000830477,Little Caesars Pizza,1235 Bell Ave,HARTFORD,WI,53027-1976,United States of America,2626730200.0,little_caesars_pizza
+1000969626,Little Caesars Pizza,427 E Wisconsin Ave,OCONOMOWOC,WI,53066-3039,United States of America,2625679500.0,little_caesars_pizza
+1000893773,Papa Murphy's Take 'N' Bake Pizza,1741 E Geneva St,DELAVAN,WI,53115-2047,United States of America,2627407200.0,papa_murphys_take_n_bake_pizza
+1000810590,Pizza Hut,2021 Springdale Rd,WAUKESHA,WI,53186-2841,United States of America,2627820290.0,pizza_hut
+1000834363,Little Caesars Pizza,1417 Wauwatosa Avenue,WAUWATOSA,WI,53213,United States of America,4142585550.0,little_caesars_pizza
+1000815030,Pizza Hut,383 W Brown Deer Rd,MILWAUKEE,WI,53217-2369,United States of America,4142286868.0,pizza_hut
+1000957543,Papa John's Pizza,5522 N Port Washington Rd,GLENDALE,WI,53217-4920,United States of America,4149627272.0,papa_johns_pizza
+1000946042,Papa John's Pizza,2747 S 108th St,WEST ALLIS,WI,53227-3232,United States of America,4145432300.0,papa_johns_pizza
+2000037590,Papa John's Pizza,6116 Regency West Drive,RACINE,WI,53406,United States of America,2625540404.0,papa_johns_pizza
+1000836795,Fox's Pizza Den,155 Richland Sq,RICHLAND CENTER,WI,53581-2948,United States of America,6086473697.0,foxs_pizza_den
+1000964121,Papa John's Pizza,815 W Main St,SUN PRAIRIE,WI,53590-2041,United States of America,6088377272.0,papa_johns_pizza
+2000003509,Sbarro,365 E Campus Mall,MADISON,WI,53715-1357,United States of America,6082949432.0,sbarro
+1000941052,Papa John's Pizza,202 W Main St,LITTLE CHUTE,WI,54140-1752,United States of America,9206877272.0,papa_johns_pizza
+1000945896,Papa John's Pizza,2719 Calumet Ave,MANITOWOC,WI,54220-5546,United States of America,9206867272.0,papa_johns_pizza
+2000027356,Little Caesars Pizza,2598 Glendale Ave.,GREEN BAY,WI,54313,United States of America,9204346300.0,little_caesars_pizza
+1000952281,Papa John's Pizza,402 S 2nd Ave,WAUSAU,WI,54401-4633,United States of America,7158491818.0,papa_johns_pizza
+1000931877,Papa John's Pizza,1200 La Crosse St,LA CROSSE,WI,54601-3500,United States of America,6087827066.0,papa_johns_pizza
+1000851390,Little Caesars Pizza,2601 S Main St,RICE LAKE,WI,54868-2933,United States of America,7152345279.0,little_caesars_pizza
+1000898323,Hungry Howie's Pizza & Subs,3020 E College Ave,APPLETON,WI,54911,United States of America,9208307922.0,hungry_howies_pizza_&_subs
+2000012544,Little Caesars Pizza,1075 W. Fond Du Lac Street,RIPON,WI,54971,United States of America,9207452525.0,little_caesars_pizza
+1000931778,Sbarro,120 12th St SW,FOREST LAKE,MN,55025-1466,United States of America,6519829701.0,sbarro
+1000858934,Godfather's Pizza,341 Bench St,TAYLORS FALLS,MN,55084,United States of America,6514654002.0,godfathers_pizza
+1000954830,Papa John's Pizza,4705 Highway 61 N,WHITE BEAR LAKE,MN,55110-3227,United States of America,6514070133.0,papa_johns_pizza
+1000858981,Godfather's Pizza,3412 Concourse C,SAINT PAUL,MN,55111,United States of America,6127273388.0,godfathers_pizza
+2000041318,California Pizza Kitchen,4300 Glumack Dr,SAINT PAUL,MN,55111,United States of America,6127265360.0,california_pizza_kitchen
+2000041430,California Pizza Kitchen,854 Rosedale Ctr,ROSEVILLE,MN,55113,United States of America,6516330083.0,california_pizza_kitchen
+2000003407,Sbarro,2105 Snelling Ave N,ROSEVILLE,MN,55113-6002,United States of America,6516366222.0,sbarro
+1000937558,Sbarro,1657 Robert St S,WEST SAINT PAUL,MN,55118-3903,United States of America,6514511097.0,sbarro
+1000831626,Cici's Pizza,1292 Town Centre Dr,EAGAN,MN,55123-1064,United States of America,6516880588.0,cicis_pizza
+1000962740,Sbarro,7525 153rd St W,APPLE VALLEY,MN,55124-4801,United States of America,9524329574.0,sbarro
+1000937764,Papa John's Pizza,169 County Road E W,SHOREVIEW,MN,55126-3037,United States of America,6517668766.0,papa_johns_pizza
+1000826524,Little Caesars Pizza,1100 W Main St,ANOKA,MN,55303-6235,United States of America,7634277507.0,little_caesars_pizza
+1000885497,Godfather's Pizza,9100 Park Ave NE,ELK RIVER,MN,55330-7261,United States of America,7632419000.0,godfathers_pizza
+2000002292,Godfather's Pizza,520 Main Ave,GAYLORD,MN,55334,United States of America,5072372800.0,godfathers_pizza
+1000934984,Sbarro,14221 Grand Ave,BURNSVILLE,MN,55337-5705,United States of America,9524356139.0,sbarro
+1000954836,Papa John's Pizza,4707 County Road 101,MINNETONKA,MN,55345-2634,United States of America,9529359230.0,papa_johns_pizza
+1000963289,Sbarro,7885 Wedgwood Ln N,MAPLE GROVE,MN,55369-9407,United States of America,7634164973.0,sbarro
+1000832235,Godfather's Pizza,13100 Fremont Ave,ZIMMERMAN,MN,55398-8795,United States of America,7638569000.0,godfathers_pizza
+1000965429,Papa John's Pizza,8936 Lyndale Ave S,BLOOMINGTON,MN,55420-2742,United States of America,9528313500.0,papa_johns_pizza
+1000881313,Godfather's Pizza,7910 University Ave NE,FRIDLEY,MN,55432-1860,United States of America,7637866620.0,godfathers_pizza
+1000949646,Sbarro,3385 124th Ave NW,COON RAPIDS,MN,55433-1818,United States of America,7634272138.0,sbarro
+1000959457,Sbarro,619 County Road 10 NE,BLAINE,MN,55434-2330,United States of America,7637851562.0,sbarro
+1000951888,Sbarro,3990 Southdale Ctr,EDINA,MN,55435-7081,United States of America,9529254960.0,sbarro
+1000865453,Cici's Pizza,4345 Nathan Ln N,PLYMOUTH,MN,55442-4523,United States of America,7635515942.0,cicis_pizza
+1000935651,Papa John's Pizza,1496 Highway 33 S,CLOQUET,MN,55720-2627,United States of America,2188781800.0,papa_johns_pizza
+1000955431,Papa John's Pizza,4920 Grand Avenue,DULUTH,MN,55807,United States of America,2186247800.0,papa_johns_pizza
+1000840142,Godfather's Pizza,1765 Commerce Dr,NORTH MANKATO,MN,56003-1802,United States of America,5073458867.0,godfathers_pizza
+1000953451,Sbarro,4300 Glumack Dr,MINNEAPOLIS,MN,56111,United States of America,6127265360.0,sbarro
+1000838216,Godfather's Pizza,1635 Oxford St,WORTHINGTON,MN,56187,United States of America,5073727391.0,godfathers_pizza
+1000834020,Godfather's Pizza,Hwy 71 South,WILLMAR,MN,56201,United States of America,3202356991.0,godfathers_pizza
+1000833836,Godfather's Pizza,1402 E College Dr,MARSHALL,MN,56258-2027,United States of America,5075371568.0,godfathers_pizza
+1000874917,Godfather's Pizza,619 Front St N,BARNESVILLE,MN,56514-3119,United States of America,2183542139.0,godfathers_pizza
+1000840914,Godfather's Pizza,1815 W Lincoln Ave,FERGUS FALLS,MN,56537-1011,United States of America,2187394434.0,godfathers_pizza
+1000849769,Godfather's Pizza,245 N State Hwy 78,OTTERTAIL,MN,56571,United States of America,2183673626.0,godfathers_pizza
+2000001196,Fox's Pizza Den,2007 Jack Nicklaus Drive,ELK POINT,SD,57025,United States of America,6057613697.0,foxs_pizza_den
+2000002306,Godfather's Pizza,1021 Diamond Circle,HARTFORD,SD,57033,United States of America,6055282695.0,godfathers_pizza
+1000843518,Godfather's Pizza,200 S Kiwanis Ave,SIOUX FALLS,SD,57104-2534,United States of America,6053345050.0,godfathers_pizza
+1000820269,Pizza Hut,815 E Grand Xing,MOBRIDGE,SD,57601,United States of America,6058457710.0,pizza_hut
+1000826363,Godfather's Pizza,110 N Cambell St,RAPID CITY,SD,57701-1726,United States of America,6053420212.0,godfathers_pizza
+2000024053,Papa John's Pizza,230 Viking Dr,VALLEY CITY,ND,58072,United States of America,8883334002.0,papa_johns_pizza
+1000806256,Pizza Hut,1155 W Main St,VALLEY CITY,ND,58072-3639,United States of America,7018454000.0,pizza_hut
+1000851003,Little Caesars Pizza,2553 Kirsten Ln S,FARGO,ND,58104-4901,United States of America,7012352331.0,little_caesars_pizza
+2000024054,Papa John's Pizza,822 Ohmer St,BOTTINEAU,ND,58318-1621,United States of America,8883334003.0,papa_johns_pizza
+1000828091,Little Caesars Pizza,115 Business Loop W,JAMESTOWN,ND,58401-5451,United States of America,7012524182.0,little_caesars_pizza
+1000959634,Papa John's Pizza,625 S Washington St,BISMARCK,ND,58504-5465,United States of America,7012588888.0,papa_johns_pizza
+2000037648,Papa John's Pizza,815 Parkway Dr,BEULAH,ND,58523,United States of America,8883334001.0,papa_johns_pizza
+2000057287,The Pizza Ranch,140 W Main St,BEULAH,ND,58523-6968,United States of America,7018732700.0,the_pizza_ranch
+1000869319,Godfather's Pizza,503 24th St W,BILLINGS,MT,59102-4737,United States of America,4066523150.0,godfathers_pizza
+1000832151,Godfather's Pizza,1308 10th Ave S,GREAT FALLS,MT,59405-2653,United States of America,4067617722.0,godfathers_pizza
+1000938561,Papa John's Pizza,1760 Brooks St,MISSOULA,MT,59801-5773,United States of America,4067217272.0,papa_johns_pizza
+1000815993,Pizza Hut,438 W Army Trail Rd,BLOOMINGDALE,IL,60108-1379,United States of America,6303511970.0,pizza_hut
+2000027454,Little Caesars Pizza,621 W Roosevelt Rd,MAYWOOD,IL,60153-3237,United States of America,7083441056.0,little_caesars_pizza
+1000965008,Papa John's Pizza,2085 N Mannheim Rd,MELROSE PARK,IL,60160-1000,United States of America,7083457272.0,papa_johns_pizza
+1000948167,Sbarro,3102 E Main St,SAINT CHARLES,IL,60174,United States of America,6303779587.0,sbarro
+2000003361,Sbarro,1999 Campus Dr,EVANSTON,IL,60208-0825,United States of America,,sbarro
+1000959956,Sbarro,2915 Jorie Blvd,OAK BROOK,IL,60523-2114,United States of America,6304729980.0,sbarro
+1000943590,Sbarro,233 N Michigan Ave,CHICAGO,IL,60601-5506,United States of America,3128569508.0,sbarro
+2000027448,Little Caesars Pizza,609 E 79th St,CHICAGO,IL,60619-3003,United States of America,7737839714.0,little_caesars_pizza
+1000877581,Little Caesars Pizza,6920 S Ashland Ave,CHICAGO,IL,60636-3942,United States of America,7734340513.0,little_caesars_pizza
+2000041445,California Pizza Kitchen,939 W North Ave,CHICAGO,IL,60642,United States of America,3123371281.0,california_pizza_kitchen
+2000012779,Little Caesars Pizza,800 N Kedzie Ave,CHICAGO,IL,60651,United States of America,7738260944.0,little_caesars_pizza
+2000012734,Little Caesars Pizza,5433 W Chicago Ave,CHICAGO,IL,60651-2848,United States of America,7732873811.0,little_caesars_pizza
+1000955773,Sbarro,500 W Madison St,CHICAGO,IL,60661-4502,United States of America,3129305050.0,sbarro
+1000936923,Sbarro,1600 N State Route 50,BOURBONNAIS,IL,60914-4867,United States of America,8159289428.0,sbarro
+1000852353,Godfather's Pizza,2704 18th Ave,ROCK ISLAND,IL,61201-4703,United States of America,3097887000.0,godfathers_pizza
+1000837770,Fox's Pizza Den,1610 7th St,MOLINE,IL,61265-3711,United States of America,3097579991.0,foxs_pizza_den
+1000804752,Pizza Hut,6 Cavalry Dr,WENONA,IL,61377-9785,United States of America,8158530024.0,pizza_hut
+1000856512,Godfather's Pizza,312 W University Dr,MACOMB,IL,61455-1145,United States of America,3098333100.0,godfathers_pizza
+1000809663,Pizza Hut,1807 Broadway St,PEKIN,IL,61554-3821,United States of America,3093474794.0,pizza_hut
+1000877808,Little Caesars Pizza,70 Cherry Tree Shopping Ctr,WASHINGTON,IL,61571-2170,United States of America,3094447844.0,little_caesars_pizza
+1000815849,Pizza Hut,429 S Main St,CREVE COEUR,IL,61610-3957,United States of America,3096941221.0,pizza_hut
+1000849074,Godfather's Pizza,240 S Main St,EAST PEORIA,IL,61611-2459,United States of America,3096999779.0,godfathers_pizza
+1000874899,Godfather's Pizza,618 W Glen Ave,PEORIA,IL,61614-4831,United States of America,3096885007.0,godfathers_pizza
+1000807839,Pizza Hut,1406 E Empire St,BLOOMINGTON,IL,61701-3519,United States of America,3096621318.0,pizza_hut
+1000836673,Godfather's Pizza,1540 E College Ave,NORMAL,IL,61761-6158,United States of America,3094524466.0,godfathers_pizza
+1000829396,Godfather's Pizza,1201 N Mattis Ave,CHAMPAIGN,IL,61821-1820,United States of America,2173517893.0,godfathers_pizza
+1000845423,Little Caesars Pizza,2100 Troy Rd,EDWARDSVILLE,IL,62025-2595,United States of America,6186568700.0,little_caesars_pizza
+2000002262,Godfather's Pizza,501 S Madison St,LEBANON,IL,62254-1674,United States of America,6185378458.0,godfathers_pizza
+1000867926,Godfather's Pizza,4829 E US Route 36,DECATUR,IL,62521-9725,United States of America,2178649800.0,godfathers_pizza
+1000890117,Papa Murphy's Take 'N' Bake Pizza,1130 Commercial Ct,CHATHAM,IL,62629-1241,United States of America,2174833555.0,papa_murphys_take_n_bake_pizza
+1000830456,Godfather's Pizza,1233 W Morton Ave,JACKSONVILLE,IL,62650-2774,United States of America,2172436444.0,godfathers_pizza
+1000964556,Papa John's Pizza,839 Woodlawn Rd,LINCOLN,IL,62656-1447,United States of America,2177326655.0,papa_johns_pizza
+1000855192,Godfather's Pizza,301 N Grand Ave W,SPRINGFIELD,IL,62702-2518,United States of America,2174921100.0,godfathers_pizza
+1000807961,Pizza Hut,1420 S 6th St,SPRINGFIELD,IL,62703-2502,United States of America,2175225229.0,pizza_hut
+1000824747,Godfather's Pizza,1040 E Walnut St,CARBONDALE,IL,62901-3120,United States of America,6185293881.0,godfathers_pizza
+1000884884,Godfather's Pizza,900 Grand Ave,JOHNSTON CITY,IL,62951-1250,United States of America,6189835456.0,godfathers_pizza
+1000946880,Sbarro,291 Chesterfield Mall,CHESTERFIELD,MO,63017,United States of America,6365327670.0,sbarro
+1000889390,Papa Murphy's Take 'N' Bake Pizza,1054 Schnucks Woodsmill Plz,CHESTERFIELD,MO,63017-0606,United States of America,6365910222.0,papa_murphys_take_n_bake_pizza
+1000810195,Pizza Hut,195 N Florissant Rd,FERGUSON,MO,63135-1976,United States of America,3145211113.0,pizza_hut
+2000002295,Godfather's Pizza,250 S Florissant Rd,FERGUSON,MO,63135-2736,United States of America,3145249100.0,godfathers_pizza
+2000041096,California Pizza Kitchen,10701 Lambert International Blvd,SAINT LOUIS,MO,63145-1000,United States of America,3144293400.0,california_pizza_kitchen
+1000953528,Papa John's Pizza,4315 McMasters Ave,HANNIBAL,MO,63401-2452,United States of America,5732217000.0,papa_johns_pizza
+1000952490,Papa John's Pizza,407 N State St,DESLOGE,MO,63601-3053,United States of America,5734317444.0,papa_johns_pizza
+1000858395,Pizza Inn,3333 Gordonville Rd,CAPE GIRARDEAU,MO,63703-5059,United States of America,5733397339.0,pizza_inn
+1000825847,Godfather's Pizza,1080 E 10th St,HOLDEN,MO,64040-8255,United States of America,8167325522.0,godfathers_pizza
+1000937219,Papa John's Pizza,1619 W US Highway 24,INDEPENDENCE,MO,64050-2345,United States of America,8168337272.0,papa_johns_pizza
+1000827757,Godfather's Pizza,1133 NE Rice Rd,LEES SUMMIT,MO,64086-6788,United States of America,8165547799.0,godfathers_pizza
+1000826499,Godfather's Pizza,1100 Rockhurst Rd,KANSAS CITY,MO,64110-2508,United States of America,8165014644.0,godfathers_pizza
+1000875039,Godfather's Pizza,6204 Raytown Trfy,RAYTOWN,MO,64133-3847,United States of America,8167373108.0,godfathers_pizza
+1000807939,Pizza Hut,14171 E US Highway 40,KANSAS CITY,MO,64136-1185,United States of America,8164781268.0,pizza_hut
+1000958871,Sbarro,601 Brasilia Ave,KANSAS CITY,MO,64153,United States of America,,sbarro
+1000914522,Domino's Pizza,200 S Adams St,NEVADA,MO,64772-3102,United States of America,4176678878.0,dominos_pizza
+1000826596,Pizza Inn,1101 S Range Line Rd,JOPLIN,MO,64801-5586,United States of America,4177815000.0,pizza_inn
+1000891394,Papa Murphy's Take 'N' Bake Pizza,1305 Grindstone Pkwy,COLUMBIA,MO,65201-3752,United States of America,5734497272.0,papa_murphys_take_n_bake_pizza
+1000816262,Pizza Hut,455 N 65 Hwy,LINCOLN,MO,65338-2005,United States of America,6605472772.0,pizza_hut
+1000868915,Pizza Inn,500 W US Highway 60,MOUNTAIN VIEW,MO,65548-8571,United States of America,4179341615.0,pizza_inn
+1000883895,Godfather's Pizza,860 E San Martin St,BOLIVAR,MO,65613-2897,United States of America,4177775700.0,godfathers_pizza
+1000929036,Papa John's Pizza,1029 W Main St,BRANSON,MO,65616-2212,United States of America,4172391515.0,papa_johns_pizza
+1000807835,Pizza Hut,1405 W 76 Country Blvd,BRANSON,MO,65616-3308,United States of America,4173346919.0,pizza_hut
+1000833039,Pizza Inn,1350 Spur Dr,MARSHFIELD,MO,65706-2399,United States of America,4174683052.0,pizza_inn
+1000933200,Papa John's Pizza,129 N Massey Blvd,NIXA,MO,65714-9009,United States of America,4177257676.0,papa_johns_pizza
+1000825765,Pizza Inn,1077 US Highway 60 E,REPUBLIC,MO,65738-1570,United States of America,4177321717.0,pizza_inn
+1000879108,Godfather's Pizza,721 Wakarusa Dr,LAWRENCE,KS,66049-4754,United States of America,7853313333.0,godfathers_pizza
+2000002285,Godfather's Pizza,115 Harvest Dr,LOUISBURG,KS,66053-4081,United States of America,9138375449.0,godfathers_pizza
+1000956159,Sbarro,5065 Main St,TRUMBULL,CT,6611,United States of America,2033741318.0,sbarro
+1000887205,Godfather's Pizza,9711 Kaw Dr,EDWARDSVILLE,KS,66111-3511,United States of America,9139489888.0,godfathers_pizza
+2000003320,Sbarro,955 Ferry Blvd,STRATFORD,CT,6614,United States of America,2033869658.0,sbarro
+1000839282,Godfather's Pizza,1707 SE 29th St,TOPEKA,KS,66605-2585,United States of America,7852671001.0,godfathers_pizza
+1000896413,Papa Murphy's Take 'N' Bake Pizza,2326 Industrial Rd,EMPORIA,KS,66801-6663,United States of America,6203400776.0,papa_murphys_take_n_bake_pizza
+1000941965,Papa John's Pizza,2111 W 21st St N,WICHITA,KS,67203-2110,United States of America,3168387878.0,papa_johns_pizza
+1000849798,Cici's Pizza,2450 S 9th St,SALINA,KS,67401-7663,United States of America,7854042777.0,cicis_pizza
+1000820139,Pizza Hut,806 Tara Plz,PAPILLION,NE,68046-2044,United States of America,4025924191.0,pizza_hut
+1000961140,Sbarro,7 Backus Ave,DANBURY,CT,6810,United States of America,2037941826.0,sbarro
+2000041089,California Pizza Kitchen,10317 Pacific St,OMAHA,NE,68114-4713,United States of America,4023430770.0,california_pizza_kitchen
+1000880162,Godfather's Pizza,7515 Pacific St,OMAHA,NE,68114-5434,United States of America,4023918747.0,godfathers_pizza
+1000964645,Papa John's Pizza,8411 W Center Rd,OMAHA,NE,68124-3132,United States of America,4023913151.0,papa_johns_pizza
+1000827797,Godfather's Pizza,11345 Davenport St,OMAHA,NE,68154-2629,United States of America,4023304111.0,godfathers_pizza
+1000899847,Papa Murphy's Take 'N' Bake Pizza,3620 N 6th St,BEATRICE,NE,68310-1146,United States of America,4022285800.0,papa_murphys_take_n_bake_pizza
+1000828496,Godfather's Pizza,11684 E US Highway 136,BEATRICE,NE,68310-7784,United States of America,4026623606.0,godfathers_pizza
+1000827136,Godfather's Pizza,1114 Grundman Blvd,NEBRASKA CITY,NE,68410-3397,United States of America,4028737777.0,godfathers_pizza
+1000857913,Godfather's Pizza,3280 Superior St,LINCOLN,NE,68504-1112,United States of America,4024383371.0,godfathers_pizza
+1000836844,Godfather's Pizza,1550 S Coddington Ave,LINCOLN,NE,68522-4402,United States of America,4024352131.0,godfathers_pizza
+1000900380,Papa Murphy's Take 'N' Bake Pizza,3921 23rd St,COLUMBUS,NE,68601-2917,United States of America,4025647272.0,papa_murphys_take_n_bake_pizza
+1000869721,Little Caesars Pizza,5085 Buffalo Creek Rd,ELM CREEK,NE,68836-1511,United States of America,3088564330.0,little_caesars_pizza
+1000829844,Godfather's Pizza,1212 E 56th St,KEARNEY,NE,68847-1537,United States of America,3082349444.0,godfathers_pizza
+1000823342,Godfather's Pizza,1008 S Burlington Ave,HASTINGS,NE,68901-6915,United States of America,4024634543.0,godfathers_pizza
+1000900183,Papa Murphy's Take 'N' Bake Pizza,3803 Osborne Dr W,HASTINGS,NE,68901-9139,United States of America,4024624852.0,papa_murphys_take_n_bake_pizza
+1000826016,Little Caesars Pizza,109 Circle Rd,BIG SPRINGS,NE,69122-5014,United States of America,3088893686.0,little_caesars_pizza
+1000810068,Pizza Hut,1913 E Judge Perez Dr,CHALMETTE,LA,70043-5744,United States of America,5042774375.0,pizza_hut
+1000912527,Domino's Pizza,1525 Lapalco Blvd,HARVEY,LA,70058,United States of America,5043663030.0,dominos_pizza
+1000808517,Pizza Hut,1532 Port St,NEW ORLEANS,LA,70117,United States of America,5049433306.0,pizza_hut
+1000816412,Pizza Hut,4710 Paris Ave,NEW ORLEANS,LA,70122-2553,United States of America,5042884151.0,pizza_hut
+1000821043,Pizza Hut,909 S Jefferson Davis Pkwy,NEW ORLEANS,LA,70125-1297,United States of America,5044860346.0,pizza_hut
+1000949387,Sbarro,333 Canal St,NEW ORLEANS,LA,70130,United States of America,5045819943.0,sbarro
+1000888114,Godfather's Pizza,Nicholls State University,THIBODAUX,LA,70310-0001,United States of America,9854484513.0,godfathers_pizza
+1000837638,Pizza Inn,1603 N Morrison Blvd,HAMMOND,LA,70401-1531,United States of America,9853454817.0,pizza_inn
+1000873743,Godfather's Pizza,600 McKinley,LAFAYETTE,LA,70503,United States of America,3374826179.0,godfathers_pizza
+2000047779,Figaro's Pizza,2829 Johnston St,LAFAYETTE,LA,70503-3243,United States of America,3372322326.0,figaros_pizza
+2000047780,Figaro's Pizza,3431 W Pinhook Rd,LAFAYETTE,LA,70508,United States of America,3373300156.0,figaros_pizza
+1000931522,Papa John's Pizza,1178 Main St,BAKER,LA,70714-3410,United States of America,2257747272.0,papa_johns_pizza
+2000002289,Godfather's Pizza,36520 Oak Plaza Lane,PRAIRIEVILLE,LA,70769,United States of America,2257444622.0,godfathers_pizza
+1000932854,Papa John's Pizza,12520 Perkins Rd,BATON ROUGE,LA,70810-1900,United States of America,2257667272.0,papa_johns_pizza
+1000834506,Godfather's Pizza,6612 Jones Creek Rd,BATON ROUGE,LA,70817,United States of America,2257529292.0,godfathers_pizza
+1000830579,Fox's Pizza Den,124 Oak Leaf Trl,BENTON,LA,71006-9600,United States of America,3187477347.0,foxs_pizza_den
+1000805242,Pizza Hut,103 Marlette Dr,LAKE PROVIDENCE,LA,71254-5212,United States of America,3185591330.0,pizza_hut
+1000949916,Sbarro,3437 Masonic Dr,ALEXANDRIA,LA,71301-3644,United States of America,,sbarro
+1000885675,Pizza Inn,915 E Main St,MAGNOLIA,AR,71753-3708,United States of America,8702347560.0,pizza_inn
+2000134456,Pizza Pro,2055 Highway 31 N,BEEBE,AR,72012-9783,United States of America,5018825061.0,pizza_pro
+1000879213,Pizza Inn,724 Oak St,CONWAY,AR,72032-4447,United States of America,5013293881.0,pizza_inn
+2000134461,Pizza Pro,7404 Batesville Pike,JACKSONVILLE,AR,72076-9664,United States of America,5019885187.0,pizza_pro
+1000926835,Pizza Pro,929 Main St,PANGBURN,AR,72121,United States of America,5017244746.0,pizza_pro
+1000851313,Pizza Inn,2600 E Race Ave,SEARCY,AR,72143-4775,United States of America,5012684107.0,pizza_inn
+2000134449,Pizza Pro,10320 Stagecoach Rd,LITTLE ROCK,AR,72210-5746,United States of America,5014558070.0,pizza_pro
+1000841888,Pizza Inn,190 Shoppingway Blvd,WEST MEMPHIS,AR,72301-1732,United States of America,8707353400.0,pizza_inn
+1000885070,Pizza Inn,901 N Washington St,FORREST CITY,AR,72335-2824,United States of America,8706333440.0,pizza_inn
+1000864580,Pizza Inn,421 W Chestnut St,MARIANNA,AR,72360-2114,United States of America,8702956300.0,pizza_inn
+1000947409,Sbarro,3000 E Highland Dr,JONESBORO,AR,72401-6383,United States of America,8703362714.0,sbarro
+1000854043,Pizza Inn,2903 Phillips Dr,JONESBORO,AR,72401-7342,United States of America,8709309696.0,pizza_inn
+2000003042,Pizza Pro,809 W Main St,TRUMANN,AR,72472-2634,United States of America,8704839999.0,pizza_pro
+2000134454,Pizza Pro,1950 Batesville Blvd,BATESVILLE,AR,72501-7896,United States of America,8702511119.0,pizza_pro
+1000864246,Fox's Pizza Den,4161 Highway 62 W,MOUNTAIN HOME,AR,72653-6571,United States of America,8704253697.0,foxs_pizza_den
+1000927061,Pizza Pro,9541 N Highway 59,CEDARVILLE,AR,72932-9625,United States of America,5014741420.0,pizza_pro
+2000027293,Little Caesars Pizza,1625 South 4th Street,CHICKASHA,OK,73018,United States of America,4052224747.0,little_caesars_pizza
+1000804864,Pizza Hut,1000 W Choctaw Ave,CHICKASHA,OK,73018-2256,United States of America,4052242454.0,pizza_hut
+1000925687,Domino's Pizza,806 S 4th St,CHICKASHA,OK,73018-4663,United States of America,4052225212.0,dominos_pizza
+2000050952,Simple Simon's Pizza,405 Hazlett Street,FORT COBB,OK,73038,United States of America,4056432692.0,simple_simons_pizza
+2000051079,Simple Simon's Pizza,227 W Beech St,LEXINGTON,OK,73051-8908,United States of America,4055272405.0,simple_simons_pizza
+1000965555,Sbarro,900 Asp Ave,NORMAN,OK,73069-4849,United States of America,,sbarro
+1000888303,Godfather's Pizza,PO Box 955,PAULS VALLEY,OK,73075-0955,United States of America,4052385675.0,godfathers_pizza
+1000886778,Little Caesars Pizza,9517 N Council Rd,OKLAHOMA CITY,OK,73162-6267,United States of America,4057210130.0,little_caesars_pizza
+1000811050,Pizza Hut,2122 W Gore Blvd,LAWTON,OK,73501-3620,United States of America,5803530487.0,pizza_hut
+1000808315,Pizza Hut,1502 SW Lee Blvd,LAWTON,OK,73501-5614,United States of America,5803575827.0,pizza_hut
+1000809563,Pizza Hut,18 N Highway 81,DUNCAN,OK,73533-2623,United States of America,5802556996.0,pizza_hut
+2000051077,Simple Simon's Pizza,210 W 1st St,GRANDFIELD,OK,73546-9237,United States of America,5805013316.0,simple_simons_pizza
+2000051076,Simple Simon's Pizza,1022 E Maine Ave,ENID,OK,73701-6126,United States of America,5802133337.0,simple_simons_pizza
+1000952790,Sbarro,4125 W Owen K Garriott Rd,ENID,OK,73703-4820,United States of America,5802373388.0,sbarro
+1000813588,Pizza Hut,308 N 193rd East Ave,CATOOSA,OK,74015-2854,United States of America,9182663361.0,pizza_hut
+2000050903,Simple Simon's Pizza,19105 Timbercrest Cir,CATOOSA,OK,74015-2931,United States of America,9182666700.0,simple_simons_pizza
+2000051087,CheeZies Pizza,1104 E 61st St,TULSA,OK,74136-0523,United States of America,9183987944.0,cheezies_pizza
+1000865560,Pizza Inn,437 S Mill St,PRYOR,OK,74361-6013,United States of America,9188257877.0,pizza_inn
+2000051048,Simple Simon's Pizza,911 S Mill St,PRYOR,OK,74361-6801,United States of America,9188255500.0,simple_simons_pizza
+1000955880,Sbarro,501 N Main St,MUSKOGEE,OK,74401-6329,United States of America,9186871150.0,sbarro
+1000888241,Godfather's Pizza,PO Box 479,WEBBERS FALLS,OK,74470-0479,United States of America,9184642865.0,godfathers_pizza
+2000051021,Simple Simon's Pizza,107 N Main St,LAMONT,OK,74643-0600,United States of America,5803884060.0,simple_simons_pizza
+1000836625,Pizza Inn,15350 Addison Rd,ADDISON,TX,75001-4554,United States of America,9722390622.0,pizza_inn
+1000890681,Hungry Howie's Pizza & Subs,1206 E Main St,ALLEN,TX,75002-3987,United States of America,2143836888.0,hungry_howies_pizza_&_subs
+1000861054,Pizza Inn,3720 N Josey Ln,CARROLLTON,TX,75007-2470,United States of America,9723942106.0,pizza_inn
+1000970159,Pizza Inn,777 S MacArthur Blvd,COPPELL,TX,75019-4257,United States of America,9723934848.0,pizza_inn
+1000949855,Papa John's Pizza,3422 W Walnut St,GARLAND,TX,75042-7116,United States of America,9722768800.0,papa_johns_pizza
+2000001533,Chuck E Cheese's,4992 State Hwy 190,GARLAND,TX,75044,United States of America,9724969801.0,chuck_e_cheeses
+2000027403,Little Caesars Pizza,"3751 Main St., Suite 150 A",THE COLONY,TX,75056,United States of America,4693622244.0,little_caesars_pizza
+1000881283,Pizza Inn,7902 Esters Blvd,IRVING,TX,75063-2901,United States of America,2144920686.0,pizza_inn
+1000862676,Pizza Inn,400 N Central Expy,MCKINNEY,TX,75070-3546,United States of America,9725489046.0,pizza_inn
+1000831678,Godfather's Pizza,1297 Justin Rd,LEWISVILLE,TX,75077-2207,United States of America,9729668600.0,godfathers_pizza
+1000901193,Hungry Howie's Pizza & Subs,4251 E Renner Rd,RICHARDSON,TX,75082-2753,United States of America,9722353838.0,hungry_howies_pizza_&_subs
+1000876257,Pizza Inn,6509 W Park Blvd,PLANO,TX,75093-6207,United States of America,9728811221.0,pizza_inn
+1000837404,Pizza Inn,160 E FM 544,MURPHY,TX,75094-4031,United States of America,9724240084.0,pizza_inn
+1000838981,Pizza Inn,170 N Trade Days Blvd,CANTON,TX,75103-3303,United States of America,9035677711.0,pizza_inn
+1000825837,Pizza Inn,108 W Belt Line Rd,CEDAR HILL,TX,75104-2059,United States of America,9722919140.0,pizza_inn
+1000900210,Papa Murphy's Take 'N' Bake Pizza,3811 W State Highway 31,CORSICANA,TX,75110-9211,United States of America,9038721153.0,papa_murphys_take_n_bake_pizza
+1000819063,Pizza Hut,701 W Moore Ave,TERRELL,TX,75160-3125,United States of America,9725637573.0,pizza_hut
+1000832646,Pizza Inn,133 N Industrial Blvd,DALLAS,TX,75207,United States of America,2146532858.0,pizza_inn
+1000968910,Pizza Inn,1805 Sylvan Ave,DALLAS,TX,75208-2039,United States of America,2146531300.0,pizza_inn
+1000961510,Papa John's Pizza,704 W Jefferson Blvd,DALLAS,TX,75208-4925,United States of America,2149428282.0,papa_johns_pizza
+2000053100,Peter Piper Pizza,729 W Jefferson Blvd,DALLAS,TX,75208-4926,United States of America,2149436582.0,peter_piper_pizza
+1000882391,Pizza Inn,8124 Lake June Rd,DALLAS,TX,75217-2101,United States of America,2143983236.0,pizza_inn
+1000817780,Pizza Hut,5859 Samuell Blvd,DALLAS,TX,75228-7008,United States of America,2143884441.0,pizza_hut
+1000969188,Pizza Inn,2410 W Illinois Ave,DALLAS,TX,75233-1106,United States of America,2143392241.0,pizza_inn
+1000941247,Sbarro,2040 Valley View Mall,DALLAS,TX,75240-5223,United States of America,9724049511.0,sbarro
+1000886274,Pizza Inn,9341 Lyndon B Johnson Fwy,DALLAS,TX,75243-3403,United States of America,9722314335.0,pizza_inn
+1000829792,Cici's Pizza,12101 Greenville Ave,DALLAS,TX,75243-9329,United States of America,9722350888.0,cicis_pizza
+1000951027,Papa John's Pizza,3721 Forest Ln,DALLAS,TX,75244-7127,United States of America,9722418585.0,papa_johns_pizza
+1000844106,Pizza Inn,2011 N Jefferson Ave,MOUNT PLEASANT,TX,75455-2336,United States of America,9035750786.0,pizza_inn
+2000015972,Pizza Inn,15481 FM 968 West,LONGVIEW,TX,75602,United States of America,9032369437.0,pizza_inn
+1000921803,Pizza Pro,498 N George Bowers Dr,TENAHA,TX,75974,United States of America,4092484008.0,pizza_pro
+1000836448,Pizza Inn,1524 New York Ave,ARLINGTON,TX,76010-4722,United States of America,8172742532.0,pizza_inn
+2000053098,Peter Piper Pizza,1551 SW Wilshire Blvd,BURLESON,TX,76028-8715,United States of America,8174842131.0,peter_piper_pizza
+1000881479,Pizza Inn,7990 Precinct Line Rd,COLLEYVILLE,TX,76034-3400,United States of America,8175039332.0,pizza_inn
+1000856867,Pizza Inn,316 E Pipeline Rd,HURST,TX,76053-5831,United States of America,8172820207.0,pizza_inn
+1000841213,Pizza Inn,1835 S Main St,WEATHERFORD,TX,76086-5505,United States of America,8175990101.0,pizza_inn
+1000865505,Pizza Inn,4352 Western Center Blvd @ North Beach,FORT WORTH,TX,76137,United States of America,8174399999.0,pizza_inn
+1000879096,Little Caesars Pizza,721 Keller Pkwy,KELLER,TX,76248-2404,United States of America,8177413400.0,little_caesars_pizza
+1000812309,Pizza Hut,2526 Missile Rd,WICHITA FALLS,TX,76306-1375,United States of America,9408550872.0,pizza_hut
+1000815588,Pizza Hut,412 N Fort Hood St,KILLEEN,TX,76541-5027,United States of America,2545262302.0,pizza_hut
+1000832385,Pizza Inn,1317 N Brazos St,WHITNEY,TX,76692,United States of America,2546942244.0,pizza_inn
+1000874265,Pizza Inn,606 S Robinson Dr,ROBINSON,TX,76706-5690,United States of America,2546629700.0,pizza_inn
+1000824825,Pizza Inn,10412 China Spring Rd,WACO,TX,76708-5685,United States of America,2548369700.0,pizza_inn
+2000053099,Peter Piper Pizza,505 Westview Vlg,WACO,TX,76710-5234,United States of America,2547511212.0,peter_piper_pizza
+2000003493,Sbarro,1 Bear Place,WACO,TX,76798,United States of America,,sbarro
+1000879896,Cici's Pizza,7441 W Tidwell,HOUSTON,TX,77016,United States of America,7136902229.0,cicis_pizza
+1000846792,Pizza Inn,2201 Greens Rd,HOUSTON,TX,77032-1200,United States of America,2814431754.0,pizza_inn
+1000835176,Pizza Inn,14647 Main St,HOUSTON,TX,77035,United States of America,7138850498.0,pizza_inn
+1000828633,Pizza Inn,11741A Eastex Fwy,HOUSTON,TX,77039-6205,United States of America,2814420030.0,pizza_inn
+2000003076,Pizza Pro,1817 Wirt,HOUSTON,TX,77055,United States of America,7134654150.0,pizza_pro
+1000941539,Sbarro,208 Greenspoint Mall,HOUSTON,TX,77060-1812,United States of America,2818737090.0,sbarro
+1000874296,Pizza Inn,607 E Richey Rd,HOUSTON,TX,77073,United States of America,2812093366.0,pizza_inn
+1000833643,Pizza Inn,13932 Westheimer Rd,HOUSTON,TX,77077-5359,United States of America,2814933200.0,pizza_inn
+1000935516,Papa John's Pizza,14772 State Highway 249,HOUSTON,TX,77086-4210,United States of America,2814441100.0,papa_johns_pizza
+1000836888,Pizza Inn,15510 E Williams Rd,CONROE,TX,77303-3458,United States of America,9362642653.0,pizza_inn
+1000953337,Papa John's Pizza,426 W Southline St,CLEVELAND,TX,77327-5028,United States of America,2816590044.0,papa_johns_pizza
+1000875521,Fox's Pizza Den,6311 Fm 1488 Rd,MAGNOLIA,TX,77354-2523,United States of America,2812599369.0,foxs_pizza_den
+2000015978,Pizza Inn,20444 Loop 494,NEW CANEY,TX,77357,United States of America,2816892113.0,pizza_inn
+1000886180,Pizza Inn,9302 State Highway 75 S,NEW WAVERLY,TX,77358-4224,United States of America,9363447701.0,pizza_inn
+1000835504,Godfather's Pizza,1401 Spring Cypress Rd,SPRING,TX,77373-2548,United States of America,2813533900.0,godfathers_pizza
+1000837001,Pizza Inn,1560F S Mason Rd,KATY,TX,77450-4558,United States of America,2816932100.0,pizza_inn
+1000844289,Pizza Inn,2020 Katy Hockley Cut Off Rd,KATY,TX,77493-5841,United States of America,2813911177.0,pizza_inn
+2000003492,Sbarro,5000 Katy Mills Cir,KATY,TX,77494-4792,United States of America,,sbarro
+1000853397,Little Caesars Pizza,2817 Red Bluff Rd,PASADENA,TX,77503-2605,United States of America,7134727222.0,little_caesars_pizza
+1000859941,Pizza Inn,3535 Gulf Fwy,DICKINSON,TX,77539-4120,United States of America,2813372565.0,pizza_inn
+1000843506,Pizza Inn,200 S Pine St,KOUNTZE,TX,77625-9333,United States of America,4092461191.0,pizza_inn
+1000846304,Pizza Inn,218 Spur 5,WINNIE,TX,77665-7307,United States of America,4092969333.0,pizza_inn
+2000051840,GattiTown,2026 Texas Ave S,COLLEGE STATION,TX,77840-3916,United States of America,9796956410.0,gattitown
+1000874292,Pizza Inn,607 E Hondo Ave,DEVINE,TX,78016-3319,United States of America,8306634735.0,pizza_inn
+2000001201,Fox's Pizza Den,9135 Schaefer Rd,CONVERSE,TX,78109,United States of America,2108883697.0,foxs_pizza_den
+1000840691,Pizza Inn,1803 Standish St,FLORESVILLE,TX,78114-1800,United States of America,8302167017.0,pizza_inn
+2000051082,Simple Simon's Pizza,982 Loop 337,NEW BRAUNFELS,TX,78130-3521,United States of America,8306297492.0,simple_simons_pizza
+1000806509,Pizza Hut,1200 Fm 78,SCHERTZ,TX,78154-2413,United States of America,2109459584.0,pizza_hut
+1000930180,Papa John's Pizza,110 S Moss St,SEGUIN,TX,78155-5151,United States of America,8303795454.0,papa_johns_pizza
+2000001203,Fox's Pizza Den,3534 Fredericksburg Rd,SAN ANTONIO,TX,78201,United States of America,2107353697.0,foxs_pizza_den
+1000943627,Papa John's Pizza,2333 SW Military Dr,SAN ANTONIO,TX,78224-1406,United States of America,2109225757.0,papa_johns_pizza
+2000050981,Simple Simon's Pizza,5739 Callaghan Rd,SAN ANTONIO,TX,78228-1123,United States of America,2105090900.0,simple_simons_pizza
+1000943269,Papa John's Pizza,2296 Bandera Rd,SAN ANTONIO,TX,78228-2162,United States of America,2104342727.0,papa_johns_pizza
+1000939905,Papa John's Pizza,1921 W Wheeler Ave,ARANSAS PASS,TX,78336-4767,United States of America,3617583552.0,papa_johns_pizza
+2000001202,Fox's Pizza Den,1615 Voss Avenue,ODEM,TX,78370,United States of America,3613683697.0,foxs_pizza_den
+1000824000,Pizza Inn,102 N Ventura St,SAN DIEGO,TX,78384-2737,United States of America,3612793001.0,pizza_inn
+1000860868,Little Caesars Pizza,3701 N 23rd St,MCALLEN,TX,78501-6007,United States of America,9566879166.0,little_caesars_pizza
+1000841866,Little Caesars Pizza,190 E US Highway 77,SAN BENITO,TX,78586-5233,United States of America,9563393400.0,little_caesars_pizza
+1000873848,Cici's Pizza,6001 W Parmer Ln,AUSTIN,TX,78727-3902,United States of America,5122578400.0,cicis_pizza
+2000051863,Gatti's Pizza,7101 W Highway 71,AUSTIN,TX,78735-8307,United States of America,5124592222.0,gattis_pizza
+1000899231,Hungry Howie's Pizza & Subs,3333 South Coulter,AMARILLO,TX,79106,United States of America,8063527979.0,hungry_howies_pizza_&_subs
+1000922384,Pizza Pro,521 S Access Rd W,CLYDE,TX,79510-3674,United States of America,9158934207.0,pizza_pro
+1000954374,Papa John's Pizza,8825 N Loop Dr,EL PASO,TX,79907-4606,United States of America,9155930000.0,papa_johns_pizza
+1000899094,Papa Murphy's Take 'N' Bake Pizza,3294 Youngfield St,WHEAT RIDGE,CO,80033-5269,United States of America,3034625400.0,papa_murphys_take_n_bake_pizza
+1000964841,Sbarro,8515 Park Meadows Center Dr,LONE TREE,CO,80124-5013,United States of America,3037925442.0,sbarro
+1000880306,Little Caesars Pizza,2001 W Alameda Ave,DENVER,CO,80223-1988,United States of America,3039960376.0,little_caesars_pizza
+1000928989,Papa John's Pizza,10250 Federal Blvd,FEDERAL HEIGHTS,CO,80260-8614,United States of America,7205660101.0,papa_johns_pizza
+1000930227,Papa John's Pizza,1100 Ken Pratt Blvd,LONGMONT,CO,80501,United States of America,3036517575.0,papa_johns_pizza
+1000942373,Papa John's Pizza,2170 W Drake Rd,FORT COLLINS,CO,80526-1489,United States of America,9704826262.0,papa_johns_pizza
+1000846395,Cici's Pizza,2170 35th Ave,GREELEY,CO,80634-3961,United States of America,9703522272.0,cicis_pizza
+1000938126,Papa John's Pizza,1710 W Uintah St,COLORADO SPRINGS,CO,80904-2958,United States of America,7196327272.0,papa_johns_pizza
+1000836581,Godfather's Pizza,1532 Specker Ave,FORT CARSON,CO,80913,United States of America,7195769142.0,godfathers_pizza
+1000957765,Papa John's Pizza,5609 N Academy Blvd,COLORADO SPRINGS,CO,80918-3658,United States of America,7192607272.0,papa_johns_pizza
+2000009015,CiCi's Pizza,8135 Voyager Pkwy,COLORADO SPRINGS,CO,80920-1562,United States of America,7192194363.0,cicis_pizza
+1000938101,Sbarro,1710 Briargate Blvd,COLORADO SPRINGS,CO,80920-6285,United States of America,7195285100.0,sbarro
+1000836364,Little Caesars Pizza,1520 Royal Gorge Blvd,CANON CITY,CO,81212-2474,United States of America,7192752748.0,little_caesars_pizza
+1000944158,Sbarro,2424 Highway 6 And 50,GRAND JUNCTION,CO,81505-1115,United States of America,9702455232.0,sbarro
+1000838735,Godfather's Pizza,1680 1st St,IDAHO FALLS,ID,83401-4321,United States of America,2085290553.0,godfathers_pizza
+1000829105,Little Caesars Pizza,120 E Fairview Ave,MERIDIAN,ID,83642-1733,United States of America,2088958622.0,little_caesars_pizza
+1000812086,Pizza Hut,245 S Capitol Blvd,BOISE,ID,83702,United States of America,2083951150.0,pizza_hut
+1000899550,Villa Pizza,350 N Milwaukee St,BOISE,ID,83704-9155,United States of America,2083221722.0,villa_pizza
+1000825569,Little Caesars Pizza,10691 Ustick Rd,BOISE,ID,83713-5102,United States of America,2083231520.0,little_caesars_pizza
+1000877645,Little Caesars Pizza,6940 W State St,BOISE,ID,83714-7417,United States of America,2088538400.0,little_caesars_pizza
+1000958959,Papa John's Pizza,602 S Main St,MOSCOW,ID,83843-3040,United States of America,2088922345.0,papa_johns_pizza
+1000842332,Godfather's Pizza,1917 W 1800 N,CLINTON,UT,84015-8556,United States of America,8018252200.0,godfathers_pizza
+1000941489,Sbarro,2070 Layton Hills Mall,LAYTON,UT,84041-2157,United States of America,8015479005.0,sbarro
+1000933389,Sbarro,515 University Pkwy E,OREM,UT,84058,United States of America,8012254670.0,sbarro
+2000051671,Mountain Mike's Pizza,3078 W 7800 S,WEST JORDAN,UT,84088-3707,United States of America,8015686453.0,mountain_mikes_pizza
+1000959750,Sbarro,6191 S State St,MURRAY,UT,84107,United States of America,8012624715.0,sbarro
+1000967316,Sbarro,AMF 22087,SALT LAKE CITY,UT,84116,United States of America,,sbarro
+2000041328,California Pizza Kitchen,474 N 3700 W,SALT LAKE CITY,UT,84116,United States of America,8015752627.0,california_pizza_kitchen
+1000950565,Sbarro,3601 Constitution Blvd,SALT LAKE CITY,UT,84119-3754,United States of America,8019640565.0,sbarro
+1000871516,Godfather's Pizza,4100 S Redwood Rd,TAYLORSVILLE,UT,84123-6957,United States of America,8012610111.0,godfathers_pizza
+1000855899,Godfather's Pizza,4121 Carriage Sq,TAYLORSVILLE,UT,84128-2639,United States of America,8019554444.0,godfathers_pizza
+1000871362,Godfather's Pizza,539 N Harrisville Rd,HARRISVILLE,UT,84404-3560,United States of America,8017374992.0,godfathers_pizza
+1000929337,Sbarro,1046 Newgate Mall,OGDEN,UT,84405,United States of America,8013922560.0,sbarro
+1000849318,Godfather's Pizza,241 N Main St,CEDAR CITY,UT,84720-2638,United States of America,4355861111.0,godfathers_pizza
+1000862096,Cici's Pizza,3911 E Thomas Rd,PHOENIX,AZ,85018,United States of America,6023062306.0,cicis_pizza
+1000889278,Papa Murphy's Take 'N' Bake Pizza,10410 N 35th Ave,PHOENIX,AZ,85051-1303,United States of America,6024847272.0,papa_murphys_take_n_bake_pizza
+1000868457,Little Caesars Pizza,495 N Pinal Pkwy,FLORENCE,AZ,85132-8870,United States of America,5208683500.0,little_caesars_pizza
+1000949955,Papa John's Pizza,345 S Power Rd,MESA,AZ,85206-5244,United States of America,4807677272.0,papa_johns_pizza
+1000852380,Fox's Pizza Den,2706 E University Dr,MESA,AZ,85213-8401,United States of America,4802848500.0,foxs_pizza_den
+1000964515,Papa John's Pizza,835 N Gilbert Rd,GILBERT,AZ,85234,United States of America,4808347272.0,papa_johns_pizza
+1000884544,Chuck E Cheese's,8890 E Indian Bend Rd,SCOTTSDALE,AZ,85250-8525,United States of America,4809511991.0,chuck_e_cheeses
+1000892433,Hungry Howie's Pizza & Subs,14858 N Frank Lloyd Wright Blv,SCOTTSDALE,AZ,85260-2216,United States of America,4806614933.0,hungry_howies_pizza_&_subs
+1000905879,Villa Pizza,777 S College Ave,TEMPE,AZ,85281,United States of America,4809671211.0,villa_pizza
+1000962949,Papa John's Pizza,7650 S McClintock Dr,TEMPE,AZ,85284-1840,United States of America,4808317200.0,papa_johns_pizza
+1000943152,Sbarro,2268 E Williams Field Rd,GILBERT,AZ,85295,United States of America,4808212569.0,sbarro
+2000012723,Little Caesars Pizza,4844 S Val Vista Dr,GILBERT,AZ,85298-7327,United States of America,4809171733.0,little_caesars_pizza
+1000959012,Papa John's Pizza,6034 N 67th Ave,GLENDALE,AZ,85301-4948,United States of America,6239340707.0,papa_johns_pizza
+1000941140,Papa John's Pizza,20280 N 59th Ave,GLENDALE,AZ,85308,United States of America,6235725000.0,papa_johns_pizza
+1000852811,Little Caesars Pizza,2750 S Pacific Ave,YUMA,AZ,85365-3547,United States of America,9283140051.0,little_caesars_pizza
+1000888260,Godfather's Pizza,PO Box 6405,YUMA,AZ,85366-2518,United States of America,9283410150.0,godfathers_pizza
+1000906499,Hungry Howie's Pizza & Subs,8275 W Lake Pleasant Pkwy,PEORIA,AZ,85382,United States of America,6233768077.0,hungry_howies_pizza_&_subs
+1000941449,Papa John's Pizza,2065 W US Highway 70,THATCHER,AZ,85552-5445,United States of America,9284282012.0,papa_johns_pizza
+1000854546,Little Caesars Pizza,2980 S 6th Ave,TUCSON,AZ,85713-4783,United States of America,5206247635.0,little_caesars_pizza
+1000945341,Papa John's Pizza,2612 N Steves Blvd,FLAGSTAFF,AZ,86004-3938,United States of America,9285226640.0,papa_johns_pizza
+1000881526,Godfather's Pizza,80 Acoma Blvd N,LAKE HAVASU CITY,AZ,86403,United States of America,9288540404.0,godfathers_pizza
+1000906160,Papa Murphy's Take 'N' Bake Pizza,8040 Academy Rd NE,ALBUQUERQUE,NM,87111-1159,United States of America,5058229222.0,papa_murphys_take_n_bake_pizza
+1000963640,Papa John's Pizza,8001 Wyoming Boulevard Northeast,ALBUQUERQUE,NM,87113,United States of America,5058239799.0,papa_johns_pizza
+1000809044,Pizza Hut,166 Central Park Sq,LOS ALAMOS,NM,87544-4029,United States of America,5056622411.0,pizza_hut
+1000896976,Papa Murphy's Take 'N' Bake Pizza,2514 7th St,LAS VEGAS,NM,87701-4989,United States of America,5054540775.0,papa_murphys_take_n_bake_pizza
+2000050986,Simple Simon's Pizza,253 East 9th St,CIMARRON,NM,87714,United States of America,5053762130.0,simple_simons_pizza
+2000051005,Simple Simon's Pizza,704 Maxwell Ave,SPRINGER,NM,87747,United States of America,5054832423.0,simple_simons_pizza
+1000951466,Papa John's Pizza,3855 N Main St,LAS CRUCES,NM,88012-7509,United States of America,5753730000.0,papa_johns_pizza
+1000961527,Papa John's Pizza,705 E 21st St,CLOVIS,NM,88101-3702,United States of America,5757625555.0,papa_johns_pizza
+1000839139,Pizza Inn,1701 Tumbleweed Rd,ARTESIA,NM,88210-9347,United States of America,5757364545.0,pizza_inn
+1000838858,Fox's Pizza Den,1690 W Sunset Rd,HENDERSON,NV,89014-2653,United States of America,7022223697.0,foxs_pizza_den
+1000963046,Papa John's Pizza,771 E Horizon Dr,HENDERSON,NV,89015-8408,United States of America,7025686262.0,papa_johns_pizza
+1000820387,Pizza Hut,825 N Rancho Dr,LAS VEGAS,NV,89106-3708,United States of America,7026471555.0,pizza_hut
+1000961106,Papa John's Pizza,6975 Spring Mountain Rd,LAS VEGAS,NV,89117-3800,United States of America,7023677272.0,papa_johns_pizza
+1000861969,Little Caesars Pizza,3900 Las Vegas Blvd S,LAS VEGAS,NV,89119-1004,United States of America,7028910885.0,little_caesars_pizza
+1000897622,Hungry Howie's Pizza & Subs,2775 S Nellis Blvd,LAS VEGAS,NV,89121-2084,United States of America,7024311515.0,hungry_howies_pizza_&_subs
+1000954438,Sbarro,4575 Boulder Hwy,LAS VEGAS,NV,89121-3011,United States of America,7024332947.0,sbarro
+1000957375,Papa John's Pizza,5486 Boulder Hwy,LAS VEGAS,NV,89122-6060,United States of America,7023867272.0,papa_johns_pizza
+1000892996,Hungry Howie's Pizza & Subs,1591 N Buffalo Dr,LAS VEGAS,NV,89128-3632,United States of America,7029441515.0,hungry_howies_pizza_&_subs
+1000896594,Villa Pizza,2400 N Rancho Dr,LAS VEGAS,NV,89130-3314,United States of America,7026315617.0,villa_pizza
+1000876345,Fox's Pizza Den,6530 N Buffalo Dr,LAS VEGAS,NV,89131,United States of America,7026589582.0,foxs_pizza_den
+1000881079,Fox's Pizza Den,7835 S Rainbow Blvd,LAS VEGAS,NV,89139-6456,United States of America,7024511942.0,foxs_pizza_den
+2000001182,Fox's Pizza Den,467 E Silverado Rancho Blvd,LAS VEGAS,NV,89183,United States of America,7022524004.0,foxs_pizza_den
+1000884792,Round Table Pizza,9 Retail Rd,DAYTON,NV,89403-6365,United States of America,7752461199.0,round_table_pizza
+1000835542,Fox's Pizza Den,1495 E Prater Way,SPARKS,NV,89434-6921,United States of America,7753311369.0,foxs_pizza_den
+2000037449,Papa John's Pizza,1260 Disc Drive,SPARKS,NV,89436,United States of America,7756263200.0,papa_johns_pizza
+1000935726,Sbarro,150 Citadel Dr,COMMERCE,CA,90040,United States of America,3237226432.0,sbarro
+2000041464,California Pizza Kitchen,Terminal 5,LOS ANGELES,CA,90045,United States of America,3109485073.0,california_pizza_kitchen
+2000041465,California Pizza Kitchen,Terminal 8-United,LOS ANGELES,CA,90045,United States of America,3106466474.0,california_pizza_kitchen
+2000041416,California Pizza Kitchen,8000 W Sunset Blvd,WEST HOLLYWOOD,CA,90046-2422,United States of America,3236540162.0,california_pizza_kitchen
+1000964783,Sbarro,8500 Beverly Blvd,LOS ANGELES,CA,90048-6203,United States of America,3106595504.0,sbarro
+1000820664,Pizza Hut,8613 Santa Monica Blvd,WEST HOLLYWOOD,CA,90069-4109,United States of America,3102896555.0,pizza_hut
+2000012553,Little Caesars Pizza,11234 Crenshaw Blvd,INGLEWOOD,CA,90303-2805,United States of America,3257574294.0,little_caesars_pizza
+1000963264,Papa John's Pizza,7855 La Palma Ave,BUENA PARK,CA,90620,United States of America,7146707272.0,papa_johns_pizza
+1000942488,Sbarro,22 Lakewood Center Mall,LAKEWOOD,CA,90712,United States of America,5625317551.0,sbarro
+1000942220,Sbarro,2148 Glendale Galleria,GLENDALE,CA,91210,United States of America,8185519103.0,sbarro
+1000949367,Papa John's Pizza,3321 - C Kimber,THOUSAND OAKS,CA,91320,United States of America,8054803939.0,papa_johns_pizza
+1000961551,Papa John's Pizza,706 Lindero Canyon Rd,OAK PARK,CA,91377-5477,United States of America,8188792111.0,papa_johns_pizza
+2000041148,CPK ASAP,14006 Riverside Dr,SHERMAN OAKS,CA,91423,United States of America,8187835001.0,cpk_asap
+1000938323,Sbarro,1731 N Victory Pl,BURBANK,CA,91502,United States of America,8189559343.0,sbarro
+2000023952,Papa John's Pizza,3703 Peck Rd,EL MONTE,CA,91731,United States of America,6264487272.0,papa_johns_pizza
+1000828846,Godfather's Pizza,1187 Broadway,CHULA VISTA,CA,91911-2706,United States of America,6194256760.0,godfathers_pizza
+2000001173,Fox's Pizza Den,601 E Palomar St,CHULA VISTA,CA,91911-6976,United States of America,6194213697.0,foxs_pizza_den
+1000895065,Villa Pizza,2015 Birch Rd,CHULA VISTA,CA,91915-2005,United States of America,6196562155.0,villa_pizza
+2000046309,Donatos Pizza,184 Ebony Ave,IMPERIAL BEACH,CA,91932,United States of America,3335557777.0,donatos_pizza
+1000969704,Papa John's Pizza,485-E South Melrose Drive,VISTA,CA,92083,United States of America,7609450001.0,papa_johns_pizza
+2000041273,California Pizza Kitchen,307 Vista Village Dr,VISTA,CA,92083-4991,United States of America,7606315601.0,california_pizza_kitchen
+2000047709,Figaro's Pizza,3365 Rosecrans St,SAN DIEGO,CA,92110,United States of America,6197581469.0,figaros_pizza
+1000954350,Sbarro,4545 La Jolla Village Dr,SAN DIEGO,CA,92122-1273,United States of America,8584551878.0,sbarro
+1000900158,Villa Pizza,3800 Chosin Ave,SAN DIEGO,CA,92140-5196,United States of America,6192913823.0,villa_pizza
+1000902637,Hungry Howie's Pizza & Subs,51335 Harrison St,COACHELLA,CA,92236-1528,United States of America,7603989998.0,hungry_howies_pizza_&_subs
+1000933898,Papa John's Pizza,13313 Palm Dr,DESERT HOT SPRINGS,CA,92240,United States of America,7602880000.0,papa_johns_pizza
+1000963581,Papa John's Pizza,800 N Imperial Ave,EL CENTRO,CA,92243-1916,United States of America,7603533300.0,papa_johns_pizza
+2000047735,Figaro's Pizza,14584 Baseline Ave,FONTANA,CA,92336,United States of America,9093554700.0,figaros_pizza
+1000870770,Little Caesars Pizza,525 W Highland Ave,SAN BERNARDINO,CA,92405,United States of America,9098828200.0,little_caesars_pizza
+2000041448,California Pizza Kitchen,966 E Hospitality Ln,SAN BERNARDINO,CA,92408-2818,United States of America,9097960100.0,california_pizza_kitchen
+1000862257,Fox's Pizza Den,39400 Murrieta Hot Springs Rd,MURRIETA,CA,92563-7708,United States of America,9516774321.0,foxs_pizza_den
+1000944096,Sbarro,24155 Laguna Hills Mall,LAGUNA HILLS,CA,92653,United States of America,9494587005.0,sbarro
+1000945439,Sbarro,Hwy 15 & Cajalce Rd,CORONA,CA,92881,United States of America,9513717100.0,sbarro
+1000877397,Little Caesars Pizza,6865 Hollister Ave,GOLETA,CA,93117-3017,United States of America,8059688666.0,little_caesars_pizza
+1000883800,Little Caesars Pizza,885 N Lemoore Avenue,LEMOORE,CA,93245,United States of America,5599247992.0,little_caesars_pizza
+2000051628,Mountain Mike's Pizza,2701 Calloway Dr,BAKERSFIELD,CA,93312,United States of America,6615876500.0,mountain_mikes_pizza
+1000938232,Papa John's Pizza,1721 E Ave J,LANCASTER,CA,93535,United States of America,6619490300.0,papa_johns_pizza
+1000937448,Papa John's Pizza,1645 E Palmdale Blvd,PALMDALE,CA,93550-4876,United States of America,6619478484.0,papa_johns_pizza
+2000051620,Mountain Mike's Pizza,1401 W El Monte Way,DINUBA,CA,93618,United States of America,5595916900.0,mountain_mikes_pizza
+1000906490,Hungry Howie's Pizza & Subs,827 Academy Ave,SANGER,CA,93657-3109,United States of America,5598757499.0,hungry_howies_pizza_&_subs
+1000901974,Hungry Howie's Pizza & Subs,4776 E Kings Canyon Rd,FRESNO,CA,93702-3949,United States of America,5592557499.0,hungry_howies_pizza_&_subs
+1000892122,Hungry Howie's Pizza & Subs,1418 W Ashlan Ave,FRESNO,CA,93705-1902,United States of America,5592248888.0,hungry_howies_pizza_&_subs
+1000890203,Hungry Howie's Pizza & Subs,1140 North Van Ness Ave,FRESNO,CA,93728,United States of America,5594857272.0,hungry_howies_pizza_&_subs
+1000827195,Round Table Pizza,1116 Forest Ave,PACIFIC GROVE,CA,93950-5147,United States of America,8313731391.0,round_table_pizza
+1000966437,Sbarro,94 Serramonte Ctr,DALY CITY,CA,94015,United States of America,6507574526.0,sbarro
+2000041346,California Pizza Kitchen,524 Van Ness Ave,SAN FRANCISCO,CA,94102-3215,United States of America,4154369380.0,california_pizza_kitchen
+1000944996,Sbarro,2550 Somersville Rd,ANTIOCH,CA,94509-8702,United States of America,9255220589.0,sbarro
+1000941523,Sbarro,2077 Newpark Mall,NEWARK,CA,94560,United States of America,5107915116.0,sbarro
+1000898016,Papa Murphy's Take 'N' Bake Pizza,2931 Harbor St,PITTSBURG,CA,94565,United States of America,9254395454.0,papa_murphys_take_n_bake_pizza
+1000939335,Sbarro,1855 41st Ave,CAPITOLA,CA,95010,United States of America,8314777061.0,sbarro
+1000959273,Sbarro,611 Great Mall Dr,MILPITAS,CA,95035,United States of America,4082637816.0,sbarro
+2000041166,California Pizza Kitchen,1661 Airport Blvd,SAN JOSE,CA,95110,United States of America,4082945108.0,california_pizza_kitchen
+1000966222,Sbarro,925 Blossom Hill Rd,SAN JOSE,CA,95123,United States of America,4082268880.0,sbarro
+1000939873,Papa John's Pizza,1920 Camden Ave,SAN JOSE,CA,95124-2946,United States of America,4088790202.0,papa_johns_pizza
+2000041334,California Pizza Kitchen,4950 Pacific Ave,STOCKTON,CA,95207-6312,United States of America,2094739265.0,california_pizza_kitchen
+1000831595,Little Caesars Pizza,1290 W Colony Road,RIPON,CA,95366,United States of America,2095993211.0,little_caesars_pizza
+1000809250,Pizza Hut,1709 5th St,EUREKA,CA,95501-0757,United States of America,7074434141.0,pizza_hut
+1000960460,Papa John's Pizza,662 G St,DAVIS,CA,95616-3726,United States of America,5307537888.0,papa_johns_pizza
+2000051669,Mountain Mike's Pizza,4615 Cowell Blvd,DAVIS,CA,95618-4367,United States of America,5307920700.0,mountain_mikes_pizza
+1000962297,Papa John's Pizza,7340 Greenback Ln,CITRUS HEIGHTS,CA,95621-5629,United States of America,9167277272.0,papa_johns_pizza
+2000051674,Mountain Mike's Pizza,525-1 Jackson,JACKSON,CA,95642,United States of America,2092239163.0,mountain_mikes_pizza
+1000890568,Villa Pizza,1200 Athens Ave,LINCOLN,CA,95648-9328,United States of America,9164082903.0,villa_pizza
+1000962040,Papa John's Pizza,7216 Laguna Blvd,ELK GROVE,CA,95758-5059,United States of America,9166913181.0,papa_johns_pizza
+1000852381,Godfather's Pizza,2706 Marconi Ave,SACRAMENTO,CA,95821-4914,United States of America,9169789663.0,godfathers_pizza
+1000853548,Little Caesars Pizza,2833 Marconi Ave,SACRAMENTO,CA,95821-5264,United States of America,9169233599.0,little_caesars_pizza
+1000960912,Sbarro,6850 Airport Blvd,SACRAMENTO,CA,95837-1126,United States of America,,sbarro
+1000887093,Chuck E Cheese's,966 East Ave,CHICO,CA,95926-1309,United States of America,5308940400.0,chuck_e_cheeses
+1000932987,Sbarro,1265 Colusa Ave,YUBA CITY,CA,95991-3659,United States of America,5306712306.0,sbarro
+1000966125,Papa John's Pizza,920 Colusa Ave,YUBA CITY,CA,95991-3667,United States of America,5307907272.0,papa_johns_pizza
+1000891747,Papa Murphy's Take 'N' Bake Pizza,1355 Churn Creek Rd,REDDING,CA,96003-4095,United States of America,5302234223.0,papa_murphys_take_n_bake_pizza
+2000027502,Little Caesars Pizza,99080 Kauhale,AIEA,HI,96701,United States of America,8084845610.0,little_caesars_pizza
+2000012699,Little Caesars Pizza,41-1537 Kalanianaole Hwy,WAIMANALO,HI,96795,United States of America,8082590400.0,little_caesars_pizza
+1000882693,Chuck E Cheese's,820 W Hind Dr,HONOLULU,HI,96821-1851,United States of America,8083732151.0,chuck_e_cheeses
+1000905381,Hungry Howie's Pizza & Subs,727 SW 185th Ave,ALOHA,OR,97006-2934,United States of America,5036429300.0,hungry_howies_pizza_&_subs
+1000835316,Godfather's Pizza,1477 SE 1st Ave,CANBY,OR,97013-6771,United States of America,5032632000.0,godfathers_pizza
+1000894640,Hungry Howie's Pizza & Subs,19349 Willamette Dr,WEST LINN,OR,97068-2010,United States of America,5036355800.0,hungry_howies_pizza_&_subs
+2000047806,Pizza Schmizza,740 Astor St,ASTORIA,OR,97103-4244,United States of America,5033256400.0,pizza_schmizza
+2000047786,Pizza Schmizza,1055 NE 25th Ave,HILLSBORO,OR,97124-4901,United States of America,5036402328.0,pizza_schmizza
+2000027223,Little Caesars Pizza,1008 N. Springbrook Rd,NEWBERG,OR,97132,United States of America,5035385909.0,little_caesars_pizza
+2000047762,Pizza Schmizza,9900 SE Washington St,PORTLAND,OR,97216-2422,United States of America,5032611100.0,pizza_schmizza
+2000012707,Little Caesars Pizza,4370 SE King Road,MILWAUKIE,OR,97222,United States of America,5036594444.0,little_caesars_pizza
+1000828566,Little Caesars Pizza,11705 SW Pacific Hwy,TIGARD,OR,97223-8495,United States of America,5036399707.0,little_caesars_pizza
+1000867505,Godfather's Pizza,4744 NW Bethany Blvd,PORTLAND,OR,97229-9256,United States of America,5035339777.0,godfathers_pizza
+1000858909,Little Caesars Pizza,3405 Commercial St SE,SALEM,OR,97302-3897,United States of America,5033626100.0,little_caesars_pizza
+1000945932,Papa John's Pizza,2725 S 6th St,KLAMATH FALLS,OR,97603-4641,United States of America,5418847777.0,papa_johns_pizza
+2000003500,Sbarro,1928 S Commons Way,FEDERAL WAY,WA,98003,United States of America,2539460109.0,sbarro
+1000929922,Papa John's Pizza,10840 SE 208th St,KENT,WA,98031-2091,United States of America,2535201111.0,papa_johns_pizza
+1000852471,Godfather's Pizza,27120 174th Pl SE,COVINGTON,WA,98042-4946,United States of America,2536303993.0,godfathers_pizza
+2000023996,Papa John's Pizza,15610 N.E. Woodinville Duvall Rd. Ste. 102,WOODINVILLE,WA,98072,United States of America,4254810101.0,papa_johns_pizza
+1000874123,Little Caesars Pizza,6031 47th Ave NE,MARYSVILLE,WA,98270-5168,United States of America,3606588900.0,little_caesars_pizza
+1000857428,Little Caesars Pizza,32165 State Route 20,OAK HARBOR,WA,98277-3774,United States of America,3606796199.0,little_caesars_pizza
+1000844947,Godfather's Pizza,20625 State Route 410 E,BONNEY LAKE,WA,98391-8461,United States of America,2538269555.0,godfathers_pizza
+1000870112,Little Caesars Pizza,5132 6th Ave,TACOMA,WA,98406-2602,United States of America,2537598366.0,little_caesars_pizza
+2000002309,Godfather's Pizza,2620 Bridgeport Way W,UNIVERSITY PLACE,WA,98467,United States of America,2535651771.0,godfathers_pizza
+1000855149,Godfather's Pizza,301 E Wallace Kneeland Blvd,SHELTON,WA,98584-2987,United States of America,3604263200.0,godfathers_pizza
+2000047704,Figaro's Pizza,"740 Ocean Beach Hwy, Suite E",KELSO,WA,98632,United States of America,3606362030.0,figaros_pizza
+1000948579,Papa John's Pizza,318 Ne 99th St,VANCOUVER,WA,98665,United States of America,3605747272.0,papa_johns_pizza
+1000876875,Godfather's Pizza,6700 NE 162nd Ave,VANCOUVER,WA,98682-3858,United States of America,3602545100.0,godfathers_pizza
+1000944859,Sbarro,2529 Main St,UNION GAP,WA,98903-1690,United States of America,5094570099.0,sbarro
+1000949437,Papa John's Pizza,3331 W Indian Trail Rd,SPOKANE,WA,99208-4762,United States of America,5093257272.0,papa_johns_pizza
+1000946863,Papa John's Pizza,2905 S Regal St,SPOKANE,WA,99223-4822,United States of America,5095367272.0,papa_johns_pizza
+1000868680,Godfather's Pizza,5 Salmon Lndg,KETCHIKAN,AK,99901-6567,United States of America,9072472151.0,godfathers_pizza

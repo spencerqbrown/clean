@@ -51,3 +51,18 @@ def separate_companies(files_dir, master_file, id_col="key", master_id_col="Stor
             os.mkdir(company_name_dir)
         new_filepath = company_name_dir + "\\" + filename
         df.to_csv(new_filepath, index=False)
+
+
+def extract_year_sheet(source_file, output_path, sheet_name, drop_columns=['Parent_ID', 'Parent Name', 'Parent City', 'Parent State', 'Parent Zip',
+       'Headquarters ID', 'HQ Name', 'HQ City', 'HQ State', 'HQ Zip',
+       'Store No', 'Store Weekly Volume', 'Type of Food Service', 'Menu Types',
+       'FIPS', 'FIPS_DESC', 'CBSA', 'CBSA_DESC', 'MSA', 'MSA_DESC', 'PMSA',
+       'PMSA_DESC', 'Lat', 'Lon', 'GeoLevel', 'Listing Type', 'Industry ID', 'Industry Name'], 
+       rename_columns={"Company ID":"Store Company ID"}, 
+       company_name_in="Company Name", 
+       company_name_out="company_name"):
+       sheet = pd.read_excel(source_file, sheet_name=sheet_name)
+       sheet = sheet.rename(columns=rename_columns)
+       sheet = sheet.drop(drop_columns, axis=1)
+       process_company_names(sheet, company_name_in, company_name_out)
+       sheet.to_csv(output_path, index=False)
