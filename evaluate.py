@@ -32,7 +32,7 @@ def get_review_counts(data_path, id_col, output_path, wait=[1,1.5], url_col=None
         url_col = new_url_col
 
     # start up selenium
-    driver = webdriver.Chrome('./chromedriver')
+    driver = webdriver.Chrome('./cd/chromedriver')
     
     # get relevant columns as lists
     urls = df[url_col]

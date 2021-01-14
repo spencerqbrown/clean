@@ -66,3 +66,40 @@ def extract_year_sheet(source_file, output_path, sheet_name, drop_columns=['Pare
        sheet = sheet.drop(drop_columns, axis=1)
        process_company_names(sheet, company_name_in, company_name_out)
        sheet.to_csv(output_path, index=False)
+
+def link_to_id(link, master_df, master_id_col="Store Company ID", master_link_col="Google Link"):
+    company_id = list(master_df[master_df[master_link_col] == link][master_id_col])[0]
+    return company_id
+
+def link_to_id_all(master_df, df, master_id_col="Store Company ID", master_link_col="Google Link", link_col="Task URL1", id_col_name="Store Company ID"):
+    df[id_col_name] = df[link_col].apply(link_to_id, args=[master_df, master_id_col, master_link_col])
+
+import re
+
+def html_to_stars(html_text):
+    stars_text = re.search(r"\d star", html_text).group(0)
+    num = stars_text.split(" ")[0]
+    return int(num)
+
+def stack_files(directory_path, output_path, extension="csv"):
+    if extension == "csv":
+        read_function = pd.read_csv
+    elif extension == "xlsx":
+        read_function = pd.read_excel
+    else:
+        raise ValueError
+
+    all_files = get_files(directory_path, extension)
+    if len(all_files) > 1:
+        base_file = all_files[0]
+        base = read_function(base_file)
+        total_files = 1
+        print("Setting base file: " + base_file, end='\r')
+        for f in all_files[1:]:
+            print("Adding file: " + f + ", " + str(total_files) + " stacked", end='\r')
+            df = read_function(f)
+            base = pd.concat([base, df])
+            total_files += 1
+        print(str(total_files) + " stacked")
+        
+        base.to_csv(output_path, index=False)

@@ -179,3 +179,12 @@ def do_all_addresses(greater_directory, master_df_path, master_df_id_col, master
                     master_df_address_cols=master_df_address_cols, 
                     output_directory=out_directory, 
                     new_address_col_name=new_address_col_name)
+
+
+def separate_df_by_location(df, out_dir, id_col="Store Company ID"):
+    unique_ids = df[id_col].unique()
+    for ui in unique_ids:
+        sub = df[df[id_col]==ui]
+        fname = str(ui) + ".csv"
+        fpath = out_dir + "\\" + fname
+        sub.to_csv(fpath, index=False)
